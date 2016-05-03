@@ -1,0 +1,46 @@
+Sugli assi di equilibrio. 187
+
+e ricordando i valoti di a, b, c, p dati dalle (2), (3) formeremo fa·
+eilmente le seguenti espressioni:
+
+ZP(by—css)=—lL-{-mF-l-nE
+{PMmy-nss)=m(lE-{-mD—nN)-n(lF—mM-{-nD)
+ed altre quattro analoghe. Se poniamo ora per brevith:
+
+‹1>=-Lz÷fm †En
+(9) ¹4¹: Fl—Mnt†Dn
+9: E1†Dm—Nn,
+
+le (6) si trasformeranno nelle seguenti:
+
+mseno÷2(m0-nw>sen²}o=0
+1
+
+wsen0÷2(n‹1›-10)sen²-e=0
+
+2
+Osen0-1-2(l¹4¹—m(l>)sen²}0=0.
+
+Dividasi ciascuna di queste per seh²}6, con che escluderemo tutte
+
+le rotazioni eguali ad un multiplo di 2π, le quali non sarebbero che
+ricondurre il sistema alla primitiva posizione; otterremo cosi:
+
+Φςοῒς-ἑθ-Ψη -l-Om =0
+(10) Φη ψΨεοῒςὲθ-Θί =0
+
+-ψηι ψψι ηιθςοιςὲθεο.
+
+Α queste equazioni possiamo soddissam, 0 ponendo separatamente
+eguali a zero le quantit& Φ, Ψ, Θ, ο ritenendo nullo il risultato della
+loro eliminazione. Cominciamo dal considerare questo secondo caso;
+avremo dunque: ’
+
+εοῒςὲ Θ - n m
+1
+n cotg -2-(1 —l = 0
+
+- m l cotg ἑ 0
+
+ 
+

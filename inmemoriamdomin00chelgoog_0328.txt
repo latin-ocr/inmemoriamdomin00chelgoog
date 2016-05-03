@@ -1,0 +1,58 @@
+Einige Bemerkungen tiber dt} Lartri’sclten Funlctionen. 279
+
+und R eine ganze Funktion (v-r)“” Grades bedeutet‚ die nicht
+durch x - x, theilbar ist, so enthielte 2 Q': Qdeu Unstetigkeitsterm
+zr(r-1) (rc-affl, der durch keinen der iibrigen Uustetigkeits·
+
+terme ausgehoben wiirde3 daher kann die Gleichung Q: 0 keine ,
+
+mehrfache Wurzel haben. Es sei
+Q=(x-x'¹)(x—x,)...(x-x‚)=ss(.r-x¹),
+
+aui der linken Seite der Gleichung (ι) muss der Coefficient, von
+1:(x -x,) verschwinden; also ist
+
+f -s„÷A-†M4ffis.÷effi2÷
+x
+
+ξ η-ῃ η-ἦ
+
+i
+
+p—m‡-†—‡-††-‡—÷fl‡2†
+
+¹—m g=a
+
+ccx—x, ,τι-κ, ,τι-χ, ,τὶ-ιι
+
+ein System von ν Gleichungen‚ das gerade hinreicht‚ um die ν Un· ’
+bekannten xl, . .. zu bestimmen. Es sriigt sich, ob einige von diesen
+imaginir sein kdnnen. Weil a, b, c reeli sind, sousind die imaginaren
+Unbekannten paarweise conjugirt. Diejenigen zwei, in denen die ima·
+ginire Componente den' absolut grdssten Werth hat (oder wenigs
+tens von keiner andern hbertroffen wird) scien x„ x2. Zieht man die
+
+erste Gleichung des Systems von der zweiten ab und dividirt durch ’
+“ ccl-x„ so kdmmt
+
+-Ᾰὶηψ 4 i· 4 r
+
+fu—u u-du-u u-du—m
+
+†···÷E 4oe÷1 0
+
+u-uu-u²·
+
+Wiiren nur x„ ar² imaginat, so wireu alle Terme der linken Seite
+dieser Gleichung positiv, die Gleichung ist also unmdglich. Es scien
+daher 2¹3, ,ῃ imagin'ar und conjugirt3 man setze
+
+κΙΞε-ῑ-ἱζ, ,τρε-ἐζ, κῖεη-Ι-ἱθ, §cfr—ih,
+
+wo ζ, S positiv scien, wo also uach der Voraussetzung ζ Ξ :- ist.
+Danu ist
+
+(x, - x) (r, - 1,) † (2‘¹ - ἢ) (ff, - ²4) = 2 [h ÷ ⁷1)² ÷ ζ’ - 5²]
+
+ 
+

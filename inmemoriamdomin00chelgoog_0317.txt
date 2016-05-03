@@ -1,0 +1,46 @@
+268 ' cz orni,
+
+.-.. --- ..--.- ..—.--—.—-. -. -..
+
+valoti che risultano dalle seguenti equazioni:
+M„ Ρ..Μ
+
+λ][,,,,ῙΡ,,,.ΓΊ ’l‘Mm-2Pu·÷=1-1 †„v†·dhl{÷1 :AM
+sulphur lslIm-1Pn24·r-1 -l-...l-Mol’q =B.„
+
+dunque poiche, essendo M„ diverso da zero, queste equazioni danno
+sempre valoti determinati per le P„ P2,.›..‚ ΡΜ, si conclude, come
+uolevam0, che determinati con queste equazioni pet ogni punto u„
+ow.. n„‚ . .. i valori corrispondenti delle quantita P, ecostruita poi
+coi processi del paragrafo precedente o in altro modo la funzione
+qh) cui queste quantita sono relative, il prodotto q(z)6(;) dar'a
+una funzione che soddisfa alle condizioni volute, talche il teorema
+di MITTAGLEFFLER pud dirsi ora completamente dimostrato.
+
+E evidentemente anche in questo caso si hanno infinite lun·
+zioni che soddislanno alle condizioni volute, e queste lunzioni disseri-
+scono l'una dall' altra soltanto per funzioni intere che nei punti a„
+a2,..., n„,... divengono infinitesirne degli ordini qr, q2,... q„‚....
+
+4. Osserviamo poi che nella dimostrazione latta nel paragrafo
+precedente non si esclude che alcuni dei numeri m„ ηιμ... m„,...e
+alcuni dei primi coefficienti B corrispondenti siano uguali allo zero, e
+che in conseguenza i punti corrispondenti n„ a2,... a„‚... invece di
+essere infiniti siano infinitesimi, o piu generalmente in essi la funzione
+sia finita e prenda valori dati ad arbitrio insieme ad alcune delle sue
+derivate; perd nel caso degli infinitesimi il numeroq corrispondente
+deve essere preso superiore almeno di una unita all'ordine t d'infi·
+nitesimo della funzione cereata nel punto cui esso si rilerisce‚ eil
+relativo B„ senon ὁ dato, pud prendersi a placere porche diverso
+da zero onde le quantita corrispondenti P„ ΡΗ... non vengano tutte
+eguali allo zero, ela funzione φρ) possa ancora determinarsi coi
+processi del ς 2. Da eid, osservando che i nostri processi non esclu-
+dono che le lunzioni Ost) e pst) uengano ad avere anche altri infi-
+nitesimi, si deduce subito anche il teorema che dice che ‹esistono
+› infinite funzioni monodrorne c continue di cui sono dati arbitraria·
+»mente i punti d’infinito e alcuni di quelli d‘infinitesimo insieme ai
+»loro ordini, e insieme talvolta ad alcuni punti nei quali la funzione
+’deve esser finita ediversa da zero, quando pei punti d'infinito
+
+ 
+

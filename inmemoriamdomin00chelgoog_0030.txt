@@ -1,0 +1,55 @@
+Della vita e delle opere di Domem'co Chelini. XV
+
+‘- ..- -...-.-.-—.—. ——....- -...-- .-.. .... ———.
+
+l'Autore ad escluderne per l'appunto quelle parti che sarebbero state
+di pici essenziale importanza per la geometria analitica; cosicche io
+studioso che voglia acquistare piena cognizione de' suoi metodi deve
+necessariamentc ricorrere alle Memorie.
+
+TEORIA DELLE SUPERFICIE.
+
+CHEL1N1 esordi in questa dottrina colla bella Memoria Sulla
+curvatura delle linee e delle superficie, che contiene un riassunto molto
+completo della teoria indicata nel titolo, con metodi intuitivi o sem-
+plicissimi, fondati principalmente su considerazioni di proiezione. Per
+una singolare coincidenza usciva in luce appunto in quei giomi la
+nota Memoria di DE SAINT·VENANT, Sur les lignes courbes non pla·
+nes, nella quale ricorrono considerazioni delio stesso genere. cio ha
+{atto dire allo CHASLES, nel Rapport sur les progrds de la Georrrbrrie,
+laddove allude a posteriori scritti del CHEL1N1 (p. 198), che questi
+«applied con successor i metodi dell'eminente geometra francese.
+Ma in realta le due Memorie sono del tutto indipendenti‚ e chi lra
+veduto ii Saggio di CHEL1N1, e gli altri lavori di lui precedenti a
+quello di cui ora si natta, non si meraviglia punto ch' egli abbia po·
+tuto applicare gli stessi metodi alla teoria della curvatura. Le propo·
+sizioni dimostrate nella Memoria in discorso sono quelle di EULERO,
+di Mouou, di Mausnuun, di Lnucnuu, diDu1³1u‚ di Bununnun, di
+MOLINS, di LIOUV1LLE, di JACOBI‚ tutte quelle, insonum, che sono
+indipendenti dalle vedute di GAUSS, delle quali CHELINI si occupo
+in appresso Enotevole‚ fra le altre cose, un’espressione generale
+che egli da, forse per la prima volta, della cosiddetta torsione geode-
+tica d’una linea tracciata sopra una superficie.
+
+S‘incontra gia in questo primo lavoro una considerazione molto
+semplice, sulla quale CHEL1N1 ritornd pin volte in seguito, e colla
+quale si dimostra nel modo piir semplice e piu diretto il teorema
+di MEUSNOER e molte altre proposizioni fondamentali sulla curvatura
+delle superficie. Questa considerazione, cho meriterebbe di entrare
+in tutti i Trattati, ὲ la seguente: Chiamando X, Γ, Z i coseni della
+
+normale d'una superficie eds l‘arco d'una linea qnalunquc tracciata
+
+sovr’essa, si ha
+,clx ‚11¹¹ ,ds
+‘³‹Yi†¹fi³slri}²⁰'
+
+epperd, derivando rispetto ad s.
+
+Χὲψνέζμξξξι-
+
+eruamur ny†n2a2
+(arn m} md
+
+ 
+

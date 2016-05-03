@@ -1,0 +1,46 @@
+Sulla teoria degli assi di rotasiam. 361
+
+gie veduto, gli assi di percossa che hanno ivi il loro centro di per-
+cossa. I pinni tangenti agli stessi coni sono evidentemcnte i' pinni
+doppii dell¹involuzione costituita dalle coppie (24), e gli assi di “
+rotazione contenuti in questi piani [assi ciascun dei quali conta per
+due, in quanto si considera come sezione della superficie col corri-
+spondente piano (24)] sono gli assi permanenti cui corrispondono gli
+anzidetti assi di percossa.
+
+Pongasi per brevit&
+
+(ν”ι11)(ια’11)(α“)111);)(1),Πψῆἰζιῑψῇἷῇεη
+
+Le equazioni dei piani doppii sono (24), (26)
+η’ =o, ss''=0,
+
+dove l’accento sempliee o doppio designa la sostituzione k=k' o
+k= 15. Questi due piani sono ortogonali Si trova sacilmente l'identitit
+a²xb²²¹ysz xylz ixii
+
+i÷k )
+(ακὸγεζ1π) ixfflyz
+
+ε”11-111111ιικ-11111111
+
+k-
+
+dalla quale risulta che l‘ involuzione (24) ὲ egualmente rappresentata
+dawequuionek„
+
+—ownn 11-1111111130
+
+Le due quantitit( [(15) ,([15) >sono di segno contrario, quindi t due
+piani rappresentati da quest' equazione non sono reali che quandok
+e compreso nell’ intervallos ra 15 e k .
+
+Sia ora ρ la distanza del baricentro da un punto qualunque
+(x, y, z) della tetta (25), e siap il valore di ρ per il punto (xx, y„ (ι).
+
+dove e¹ e il raggio d’inerzia del corpo intorno alla tetta (25). 1
+punti di questa tetta dai quali partono assi di rotazione reali, col
+centro d'impulso in (³⁶1⁸ yx, (ι), sono quelli pei quali ρ ὲ com-
+
+ 
+

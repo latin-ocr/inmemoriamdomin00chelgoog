@@ -1,0 +1,55 @@
+Delia vita e delle opere di Darnenico Clreliai. X111
+
+——. ι-.---. .-—- . ——- -.... ....-. ——- ,--
+
+second‘ ordine, ottiene varie espressioni molto notevoli del volume di
+un tetraedro e del raggio della ssera che gli ecircoscritta, in funzione
+degli spigoli. La breve Nota che fa seguito a questa Memoria serve
+di complemento a quella'parte di essa che si riserisce ai poligoni
+inseritti e circoscritti a due coniche, e contiene la dimostrazione d’un
+nuovo teorema sul luogo dei punti di mutua intersezione delle rette
+costituenti un poligono della specie anzidetta, luogo il quale si spezza
+sempre in pili coniche, ovvero in piir coniche ed in una retta.
+
+Da questo rapido sguardo sulle pubblicazioni geometriche del
+CHEL1N1 si scorge abbastanza chiaramente che l'attenzione di lui,
+piri che alla seoperta di nuovi teoremi, od allo svolgimento di deter-
+minati ordini di ricerche, su sempre rivolta di preferenza al persezio·
+namento dei metodi fondamentali. Forse la maggior generalita con
+cui oggi si concepiscono le basi della geometria potra far parere a
+taluno meno importante che al CHELINI non sembrasse l'elabora·
+zione accuratissima cui egli assoggetto gli elementi di quella geo·
+metria analitica che si puo chiamare classica. Ma ὲ certo che in
+questo campo egli ha recato grandissima chiarezza ed eleganza ed
+ha, fra le altre cose, messo in piena luce un principio che sa esatto'
+riscontro a quella del Calcalo baricenrrico e che lo completa in un
+modox felicissimo. Questo principio ὲ stato ripetutamente esposto ed
+applicato dal CHELINI ed io voglio qul riprodurlo colle sue siesse
+parole, pigliandolo dalla gia citata Iirterpretaaione georaetrica di for-
+male esseaaiali alle scienae dell’estensioae, del arato e delle sorae, che
+ὲ una delle sue pili eleganti e persette scritture.
+
+‹Allorche in un tetraedro consideriamo ipiani delle sacce Α,
+«Β, C, D, come laoglii di quattro aree variabili, ed i vertici a, b, c,
+«d, come luoglri di quattro coefficienti variabili, il principio della ri·
+‹sultante (area e punto) ci manifesta immediatamente due notabili
+‹teoremi non ancora generalmente avvertiti, espressi entrambi da
+cuna medesima equazione, la quale ὲ
+
+ψφΡ--Αξκ-Ι-Βηγ-Ι-Εζε-Ἑῦτί
+
+<dove x, y, a, t sono le coordinate Α p, Bp, Cp, Dp di un punto
+‹arbitrario p e ξ, η, ζ, τ sono le coordinata aP, bP, cP, dP di un
+«piano Ρ parimente arbitrario*. Questi teoremi, che io posi in ri-
+‹lievo nella Memoria sui sistemi semplici di coordinati, sono i se·
+‹guenti:
+
+———-=-
+
+⁸ E dove inoltre Va il volume del tetraedro. ll simbolo pP rappresenta la
+distante di un punto p da un piano P. ³
+
+l
+
+ 
+

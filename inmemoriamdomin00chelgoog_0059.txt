@@ -1,0 +1,53 @@
+10 F. Siacci,
+
+que Op, Oq, Or tre assi paralleli a tali perpendicolari, potremo col
+ι soccorso delle (5) stabilire·il seguente schemae
+
+. x y
+
+ff÷ffifi
+
+'ff“m-mp-m'
+
+’ In grazia dei doppi segni di c1c2c3, la terna Opqr pul) avere
+due poslzioni distinte‚ ma simmetriche rispetto al piano x Oy, il quale
+contiene la retta ΑΒΕ, e che, come abbiam detto, noi immaginiamo
+verticale‚ coll'asse Ox (parallelo a quella tetta) rivolto al basso.
+
+' Di taliterne noi perp considereremo una sola, quella cha corrisponde
+
+ai segni superiori ed ὲ sovrapponibile alla terna Oxyz.
+
+· 53·
+
+Prendiamo ora nella tetta ΑΒΕ un quarto punto P, sotto il
+piano yon, e distante da questo di h. Le sue coordinata saranno
+
+da una parte
+x=lt, y=v‚ ¹=0‚
+edall’altra ⁴
+p=a,lz†b‚v=(h-r,)a„ <
+
+(8) ’ q=a2h÷b2v=(h-r2)a2
+r=a,a÷a‚v=(l-r,)a,.
+
+Se ora, mantenendo fissa la terna Opqr e fissi sulla tetta i
+quattro punti A B ΕΡ, sacciamo muover questa tetta compatibilmente
+colla condizione. che ΑΒΕ restino rispettivamente sui tre piani
+coordinati, P descrivera una curva; la quale otterremo eliminando v
+dalle (8).
+
+Da queste noi otteniamo
+
+.E..p.[- †.LL.=fi
+
+h-n k-n Α-η
+
+a a n
+
+—-÷-——÷--=1·
+
+(ll-'l' 0¹-le (sc-rw
+
+ 
+

@@ -1,0 +1,36 @@
+ΟΝ ΤῌΕ COMPLEXES GENERATED
+ΒΥ TWO CORRELATIVE PLANES
+
+v. incurri msc,
+Dircclor os Studics cl ihc Royal Naval Collega, Greenwich, Ι
+
+GENERATION, AND PROPERTIES OF THE GENERAL COMPLEX.
+
+r. From the general definition* ol a correlation between two
+planes α, β it follows that if the linea corresponding, in the for·
+mer, toa point B in the latter, pass through any point A then,
+conversely, the line b corresponding to A will pass through B. Two
+points A, Β so situated are termed conjiegate points ol the corre·
+lative planes. In like manner two lines a, b in these planes, are
+said to be conjugate lines when either, and consequently each, con-
+tains the point which corresponds to the other.
+
+2. Each point ol one ol the two planes α, β being conjugate
+to every point in its corresponding line, the total number of pairs
+of conjugate points in α and β will be triply infinite, and tlte laires
+which, individually, pass through two conjugate points will constitute
+a complex 0.
+
+1 propose to consider the complexes which may be thus ge·
+nerated. Their nature and singularities will, clearly, depend upon
+those ol the correlation es'tablished between the planes, as well as
+upon the relative positione of the latter. Unless the contrary is di·
+stinctly stated, however, no exceptional character is to be as·
+signed to the correlation or special positione to the correlated
+planes,
+
+v ι ‘ Orthe correlationes nvo planes. Proc. nithe Lond. Math· Sociery, 1874
+ο. 5, p. 40.
+
+ 
+

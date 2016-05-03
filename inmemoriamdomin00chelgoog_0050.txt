@@ -1,0 +1,30 @@
+sUR Les F0NcT10Nso(x) ET mx) DE JACOBI
+
+M? anRLEs murm.
+
+0-
+
+(Estrauo di lettera al pros. Ε. Bellrami.)
+
+Je n’ai point connu personnellement l’ homme excellent et le
+geometre si distingue dont vous voulez honoret la memoire, mais
+j’ai recueilli l’eloge de son talent et de ses vertus de la bouche de
+votre eminent compatriote Μ’. Brioschi. J‘ai pu aussi appreciet,
+par l'etude du beau Mimoire sur la rotation des corps du P. CHE·
+um, combien il merite vos sentiments d'estime, et c’est de tout
+coeur que je reponds ὲ votre appel, en detachant d’une recherche
+dont je suis enee moment occupe les remarques qui suivent.
+
+A la page 187 des Fundamenta, Jacobi adonne, pour les
+inverses des fonctions O(x), H (x), ces formules qui subsistent dans
+toute 1’ etendue des valeurs reelles ou imaginaires de la variable‚ ὲ
+
+1 4q=(1÷q²)sinx 4q⁶(1÷q⁴)sinx„
+
+.....-„.-...†
+sinx 1-2q2coszx†q⁴ 1-2q4c0s2x†q⁸
+
+Elles constituent done pour ces transcendantes un mode d’expression
+
+ 
+

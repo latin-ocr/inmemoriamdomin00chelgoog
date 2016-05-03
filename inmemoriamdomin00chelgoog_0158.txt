@@ -1,0 +1,53 @@
+Sulla integraaione delle equazioni, ecc. 109
+
+dine lineari chesi potrebbero integrare col metodo di Jacom* e
+darebbero i cereati argomenti; bisogna quindi vedere come si possano
+
+, ix„ . . .. ·
+dedurre le derivate 37 dalla equazione a derivate parzrair proposta.
+
+Ι
+
+5. Sia
+(6) Vix1x2···x··zi1i2···i>ni=0
+
+OVC
+
+{⁷⁶²2}
+l'equazione differenziale proposta. Supponiamo sostituita in essa per
+
+z la sua espressione tolia dall'integrale generale ederiviamola rap-
+porto alie n-r variabili κν... x„ avremo
+
+ed analogamente dalle (3) e (4)
+
+dra-1„ ⁸„ ira
+
+HV- r*ria—‘H ii=2,3‚...n
+-1ε 2
+
+'digia-zi ar iffi„
+
+——u— .-
+
+dx¹ ix, A⁴·,ffi·';‘'⁶h²'6x1‹iz„
+Le equazioni (7) diverranno aliora colla sostituzione
+
+’κ rip.- ς, rV rrae-h
+(8) irffi[7ai(ffffi)]ss÷
+-Ι-ΔΞ-ζ--ἓ-Ι-ᾃί-ρμὶ-ἓῖἔεο i=2,3‚...n.
+i ι ⁴1 i& ··
+Ora converri distinguere il caso in cui lep contengano nuove surr-
+zioni arbitrarie non contenute nelle equazioni integrali, da quello in
+eui cib non accade. Nei primo caso ciascuna delle derivate di pr
+rapporto alle varie α conterri linearmente una nuova funzione che
+non si trova in nessun altro termine della i·esima equazione (8) e
+
+quindi affinchi questa sia verificata si dovrir avere
+
+(8¹) ,ζώῃ ἕ-Ρῖἱ--ἕ-ἕὲἓ)εο k=2‚3‚...n.
+
+' Vedasi peres. Marsrorr op. citata, pag. 58.
+
+ 
+

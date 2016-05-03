@@ -1,0 +1,57 @@
+Alcuni teoremi sulle funzioni di una variabile contplessa. 259
+
+.———- -——-—-——--⁴-—-.-——- .- -α
+
+e poi siano riuniti in un solo i iattori oi termini, corrispondenti ai .
+punti dei vari gruppi, nei prodotti infiniti 0 nelle serie che avremo
+da considerare.
+
+Ammesso allora dapprima che nessuna delle quantit& αι, 02 ,...
+sia zero, incominciamo dall’osservare che volendo costruire una sun-
+zione chesi annulla soltanto perz=a, 05,- .,α,,.,.. degli ordini
+m, ηιμ.. .,m‚.. ,la cosa pit naturale e quella di costruire subito
+
+, m
+il prodotto infinito Π(ῐ-ἆ-) , ma questo prodotto non sarit or·
+,ι
+dinariamente convergente, come non lo sarssa la serie dei logaritmi
+§uhlog ι-ξ).
+
+S'intende per& che se ai fattori di questo prodotto si aggiun·
+
+gono dei sattori esponenziali cii, ove φ,, (χ) ὲ una funzione intera di
+
+ξ, in modo da ridurlo all’ altro 11(1 - ἑ) tii ἶ, potr& darsi che esso
+
+ela serie corrispondente §im log(1—-)†e„ (z) siano conver·
+
+genti, incondizionatamente e in ugual grados in ogni spazio finito 5
+che non comprende punti a„ insieme alla serie delle derivate
+
+-—„m
+
+>..}‚
+
+e allora, per noti teoremi generali, ὲ certo che il prodotto medesimo
+sarit una funzione di z che soddisia alle condizioni volute.
+
+Ora, per vedere se e come possono sempre determinarsi le sun·
+zioni W) in modo da iar si che le serie
+
+(Ι) Σ ²²²n¹0ss(1-{n-)†t>niz)}2
+
+m„
+
+(κ) tim-m} (z
+
+convergano incondizionatamente ein ugual grado in ogni spazio
+finito che non comprende punti α,,, ossetviamo che, qualunque sia
+il valore finito di q che si considera, e qualunque siano le funzioni
+m) che poi saranno scelte, le nostre serie potranno decomporsi
+ciascuna in due parti l' una delle quali sia finita, e l'altra sia una
+serie nella quale le quantit& a„ che vi figurano hanno moduli su-
+periori a quello di ᾗ e basterh evidentementc limitarsi a considerare
+queste ultime parti.
+
+ 
+

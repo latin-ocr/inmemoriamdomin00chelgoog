@@ -1,0 +1,51 @@
+L. Cremona,
+
+dine, col punto doppio 0, esistenti sulla superficie Rcomprende
+sei curve composte di due. coniche situate in piani distinti. Queste
+due coniche‚'appartenendo ad una stessa superficie di 29 grado, s'in-
+contrario in 0 ed in un altro punto: punto di ulteriore contattofra
+
+due superficie corrispondenti de' due fasci projettivi. Siccome poi due
+curve della serie non hanno (oltre ad 0) alcun punto comune, cosi
+due·c0niche appartenenti a coppie diverse non s’incontrano (fuori
+nm(
+
+Si hanno cosi dodici coniche di F, situate in piani differenti:
+i quali piani segheranno adunque la superficie secondo altre dodici
+coniche‚ formanti analogamente sei coppie situate in sei superficie
+di 2.⁰ grado di un fascio. Infatti, se le superficie ’
+
+ἱ 892830
+ᾓψὴῇεο
+
+si segario secondo due coniche, per r= 1, 2, 3, 4, 5, 6, indicate con
+
+R=QQ=0
+le equazioni dei piani delle due coniche, si avrit l’identita
+
+s÷na÷pffi†nQ=RQ.
+
+E, scritta l‘equazione (2) della superficie F cosi:
+ffi†kffi&-OE†RQ&=Q
+
+questa, in virtii di quell’identita‚ si mutera nella seguente:
+
+(S¹ -1-)„S,) (S, ψ p„S4)-S, Ρ, Ω,·--ο,
+
+la quale dice che i piani Pr=0‚ Qr=0, oltre adare le due coni-
+che poste nelle superficie di 29 grado 8ι ’1- tr S, = ο, S, -Ι- λ, 8, == 0,
+segario F secondo altre due coniche situate nelle due superficie di
+29 grado
+
+&†½2=QS†QQ=Q
+
+ciascuna delle quali, variando r, da sei superficie d’uno stesso fascio.
+
+In altre parole, anche le dodici nuove coniche formano sei
+curve di 49 ordine (con punto doppio in 0) appartenenti ad una stessa
+serie. E siccome due curve di 49 ordine, appartenenti a serie di·
+verse, s’incontrano sempre in quattro punti (oltre ado), eost cia·
+scuna delle prime dodici coniche incontra ciascuna delle altre dodici.
+
+ 
+

@@ -1,0 +1,40 @@
+358 E. Beltrami,
+
+Designiamo con x, y, zie coordinate di un punto qualunque
+dell'asse di rotazione econ x„ y„ q, quelle del corrispondente centro
+d’ impulso. Queste ultime si possono considerare come individuate
+dalle tre equazioni (5),‚ (4), e (14)· Se dalla seconde e terza di
+queste si eliminano le u„v, w mediante le equazioni (1),¹ si hanno
+dunque, sra le x„ y„ q, le tre equazioni
+
+a²p x¹ ΔΓ b²qy,† c²r z, = 0,
+(²²) P Ξῖ yq¹ Px ³=0,
+t x y zi
+
+Ora le due prime danne, designando con σ una indeterminata,
+umus-Hx), umus-Hit emus-Hs),
+dove per brevite si ὲ posto
+0=u²px†b²qy†c²rq.
+
+Sostituendo questi valoti nella terza equazione (22) si trova
+
+epperb si hanno queste nuove espressioni delle coordinate del centro
+d’impulso
+pet-Hx
+Γ u „
+Px y (P
+Q
+P P '²
+mi
+rO— H z
+P P r
+x P t
+
+μ
+
+mediante le quali il detto punto ὲ determinato dalla direzione del-
+l’asse di rotazione e dalle coordinate di un punto qualunque di
+quest’asse.
+
+ 
+

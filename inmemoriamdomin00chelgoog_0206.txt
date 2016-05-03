@@ -1,0 +1,58 @@
+Supra i sislemi lineari tre'plamente infiniti, ece. 157
+
+ψ. ..ζ- ..q-
+
+passa per O. Se dunque si iudica con le il numero dei punti doppi
+apparenti della curva doppia‚ si aurit
+
+Α = 6 t -( 4Ιι -)- α.
+Sia P‘ il genere della curva doppia: aliora
+
+e¹={{{uv—1uN-2i-e—u}{{(u-1uN-2i-e—2} ’
+
+e quindi, per l'equazione‘precedente *h - 3 t,
+
+41)]εξ(Ν’-3Ν-η)(Ν’-3Ν-2)-2)(αι-Α-6ι,
+
+Infinepostituendo per α, ted A i loro valori (18, 19 e 21), si
+trova che il genere della curva doppiae
+
+P'={<N-u‹u—u†e<u—nuuc-u*-
+
+22. Indicando cou k il numero dei puntiC(16)‚ si trova che
+ira il genere P‘ della curva doppia e quello (εο) Ρ della sua ima-
+gine, esiste ia relazione
+
+k=2(P-1)-4(P‘-1):
+
+questo risuitato confrontato con una nota sormola di ZEUTHEN**‚
+costituisce una verifica dei valori trovati. ¹
+
+23. Abbiamo veduto (17) che i punti della curva Δ sono coniu-
+gati due a due, due puuti coniugati essendo comuni ad uua rete di
+
+curve Φε determiniamo l’inviiuppo delle rette che contengouo queste ·
+
+coppie di punti.
+
+Preso ad arbitrio nel piano Πο un punto P, si chiamino corri-
+spondenti due raggi x ed x' uscenti da P, che vanno a due punti
+coniugati della curva Δ. Ροίοὴὲ un raggio x incontra in (N - 4) n -) 3
+punti la curva, srai raggi x ed x' vi sarit una corrispondenza
+
+[(N-4)n÷3. (N-4)11†3'l‚
+
+la quale ammette επ (N - 4) †6 raggi uniti. Ogni raggio che con·
+tiene due punti coniugati di Δ, conta per due ira questi elementi
+uniti; inoltre sono raggi uniti quelli che vanno ai k puuti C. Se ne
+deduce che:
+
+⁸ Si posseggono ora sufficienti dati per calculare le altre caratteristiche della
+curva doppia. si trove, per esempio‚ che le tangenti delia curva doppia generatio una
+sveiuppabiie dele ordine 2 (N - 2) (N — 3) -Ι- 2 p (N - 13) ÷ 4 (σ - 1).
+
+⁰· Zuuuutu, NouvcHe demonstration des thoeimes sur ies series de points corre·
+spondanus sur deux courbes. Maru. Anu.
+
+ 
+

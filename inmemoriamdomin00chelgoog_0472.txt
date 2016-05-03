@@ -1,0 +1,48 @@
+Supra una certa superficie di quart’ordr'ne.
+
+Indichiamo con a uno qualunque de’sette punti 123456.· ,
+Le rette perun punto a rappresentano curve di 4.⁰ ordine con punto Ι
+doppio in 0; e curve affatto analoghe sono rappresentate dalle curve
+di 5.⁰ ordine che passano semplicemente per quel punto a e dop-
+piamente per gli altri sei. E siccome uua di quelle rette ed una qua·
+iunque di queste curve di 5.⁰ ordine costituiscono insieme una curva
+di 6.⁰ ordine 0² 1² 2² 3² 4² 5² 6², cosi le due curve gobbe di 4.⁰ or-
+dine, di cui quelle sono le imagini, giaciono in una stessa superfi-
+cie Sdi 2.⁰ grado; e quel fascio di rette equel fascio di curve di
+59 ordine rappresentano due serie di curve generatrici della super·
+ficie F, gii da noi considerate altrove (s 1‚4).
+
+Ciascuno de' punti a da cosi due serie conjugate di curve gobbe
+di 4.⁰ ordine con punto doppio in 0. Anche le coniche per quattro
+punti a e le curve di 4⁰ ordine passanti semplicemente per questi
+e doppiamente per gli altri tre rappresentano due analoghe serie
+conjugate di curve gobbe di 4⁰ ordine. E 'lo stesso deve dirsi di
+due fasci formati l’uno dalle cubiclre passanti per cinque punti a
+ed aventi un nodo nel sesto, l’altro dalle cubiche passanti per quei
+medesimi cinque punti ed aventi uu nodo nel settim0.
+
+Per tal modo si ottengono:
+
+7†⁷-g-⁶†⁷-'3⁶7'3-⁵=63
+
+coppie di serie conjugate di curve gobbe di 4⁰ ordine con punto
+doppio in 0. E poiche (s 4) due serie conjugate corrispondono ad
+una generazione della superficie mediante due fasci projettivi di su·
+perficio di 2.⁰ grado (tutte toccantisi fra loro in 0), cosi possiamo
+dire che F ammette questa generazione in 63 maniere differenti. ⁴*
+15. Come gia si ὲ veduto (s 5), una serie di curve gobbe di
+4⁶ ordine ne contiene sei spezzantisi ciascuna in due coniche (poste in
+piani diversi); eid che del resto &immediatamente confermato dalla
+rappresentazione piana F ''. E siccome due curve gobbe appartenenti
+a serie conjugate sono in una stessa superficie S di 2.⁰ grado, cosi
+vi sono superficie S di 2.⁰ grado che segano F secondo quattro co-
+niche. E queste superficie sono pur conjugate due a due. Insatti‚
+se quattro piani segano F secondo quattro coniche situate insieme
+in una superficie di 2.0 grado, anche la rimanente intersezione, sor·
+
+‘cn Sternere, liigerrrchesteu der Cutem vicrten Grories rurksicbtiicir ihrer
+Doppcitnngeuten - e flesse, Ueber dic Doppeituugcuteu der Curvcn vitrier Ordnung,
+nel Giornule di Crelle, tom. 49.
+
+ 
+

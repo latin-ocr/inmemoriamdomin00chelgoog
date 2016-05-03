@@ -1,0 +1,54 @@
+(seber Potentiale n·saclzer Mmmgrfaltzgokciten. 225
+
+——-. ——--
+
+fc· multiplicirt und iiber alle Werthe von s summirt‚ so kommt
+
+§mn÷tbn>fzfsv=ffbnsprfffl (ρ, q, r, s=0‚ 1,... υ),
+
+oder unter Anwendung der Relation (A)
+
+(Β) βρΞ-ζῦηῆνίς. (p, q, r, s=0‚ 1,... n),
+wo s' die nach t genommene Ableitung von f bedeutet. Ueberdiess
+ist die Ableitung D'(t) durch die Gleichung
+
+D'(³)²D(²)2}b''s'· (r,s=0,1‚...n)
+
+bestimmt. Setzt man nunmehr
+
+(C) F(²)=§fnzrz.‚ F‚(t)=2{f„z., F„=2s„, (r,s=0,1,...n)‚
+
+so ist fr die nach χ, genommene Ableitung von F und F„ die nach
+{r und z, genommene zweite Ableitung von F, und fiir die nach t
+genommene Ableitung von F, welche mit Ε’(ϊ) bezeichnet werden
+soll, kommt
+
+Pw=gmnm ’ωψῑαὴ m ·
+
+oder mit Benutzung der Relationen (Β) und (C)
+(D) 4F'(t) =—r2⁸b„Ff(t)F„(t) (r, s=0‚ 1,... n)
+
+und endlich
+(E) 2D'(t)=D(t)r),]b„F„ (r, s=0‚ 1,... ιι).
+
+Dies vorausgeschickt‚ sei
+
+V=memmaa
+
+ιθ
+
+Die Function Φ(ῖ) und die obere Grenze des Integrals V sci von
+den Variabeln χ unabhiingig. Alsdann ist, wcnn man die nach z«
+und resp. die nach {r und (a genommenen Ableitungen von 1⁰ und
+
+V mit 12, 22„ V„ V„ und den Ausdruck
+F(t⁰)[12t2‹w(t⁰) † tss,‹1›(t⁰)] ÷‹1³(t⁰)[1212F'(t⁰)† 12F‚(t⁰)÷ τῑῐμιὴ]
+mit Ubezeichnet,
+
+V„=-U †JF„(1)‹1›(t)dt.
+
+ιο
+Setzt man nun einerseits ιο von dcn Variabeln χ unabhiingig andrer·
+
+ 
+

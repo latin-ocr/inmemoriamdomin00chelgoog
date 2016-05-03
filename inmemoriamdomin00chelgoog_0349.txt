@@ -1,0 +1,57 @@
+C. F.. Geiser,
+
+Secanten der vollstindigen Schnittcurve m ,um Grades einer Fliche
+mu.. und einer Fliche n“” Grades gebildet wird. Es ist x eine Function
+von m und n welche sich nach den bereits gesundenen Resultaten sin
+m= 1, 2, 3 resp. auf
+
+—}n(n-1)(n—2)‚ }n(n-1)(n—2)‚ }(3n-2)(311-5)
+reduzirt. Diese Function ist symmetrisch in Bezug aui m und n, also
+nach beiden vom dritten Gnade, sie muss zudem fiir m oder n =0
+verschwinden; damit haben wir hinreichende Bedingungen zur Be·
+stimmung derselben nach der Methode der unbestimmten Coefficien-
+
+ten. Man findet unter Anwendung leichter Reductionen:
+
+x=jm-n<m·n-2).{2m·n-³(m†n)÷n·
+
+Das nimliche Resultat wird auch erreicht, indem man eine der bei·
+den Flichen, z.B diejenige nn„ Grades zunichst in Ebenen zerfallen
+lisst. Die Regelfliche F„ lnst sich dann auf in die m Regelflichen
+wel'che den dreisachen Secanten ‘je der m einzelnen ebenen Schnitte
+
+von F„ entsprechen von denen jede den Grad -ἑ- n(n—1) (rt—2)
+
+hat; 'fernen in die m (m — 1) Regelflichen, deren Erzeugende einen
+ebenen Selinitt einmal‚ einen andern zweimal treffen und von denen
+njn-ljjn-zj
+
+2 zihlt5 endlich in die
+
+jede als vom Giade
+
+mm—dmffq
+
+1.2.3
+
+Regelflichen aus Secanten bestehend, von denen jede drei verschie-
+dene ebene Schnitte trifft und deren Grad jeweilen n² (2 n - 3) be·
+trigt. Die Summe ⁴
+
+1 ·n(n—1)(n—2)
+
+''²·-g⁷²('²-¹)('²-²)†m(m-¹)·-—2-·l·
+
+mim-nn-zi 2
+
+ψ —··n (zu-3)
+
+1.2.3
+
+stimmt in der That init dem vorigen Werthe von x uberein.
+Da die vollstiindige Selinittcurve pu„ Grades (pr-mm) einer
+
+Fliche mu„ und einer⁰Fliche n''’' Grades lc: ἑ m . n . (m - 1) (n — 1)
+
+ 
+

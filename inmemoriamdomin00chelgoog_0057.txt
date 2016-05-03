@@ -1,0 +1,38 @@
+8 F. Siacct',
+
+Se ora da queste si eliminano due delle tre quantitb r¹ r, r„
+la terza dipende da un’equazione di 2⁰ grado: d'altra parte due
+delle tre r sono date linearmente in funzione della terza. Dunque il
+problema avrb due soluzioni.
+
+Colla precedente analisi noi abbiamo in sostauza surrogato ai
+punti dati Α Β C i tre punti A' ff C ‘‚ le cui coordinate dipendono
+,dalle quattro quantiti v r¹ r, '³- Sars dunque possibile avere i nove
+coefficienti a„ b„ c„ a2... in funzione di queste solequattro quantitb.
+
+Portati ai secordi membri i termini delle (4) che contengono
+le z, moltiplicando poscia le equazioni due a due e dividendo per la
+terza si ricava
+
+Le quali, posto
+R = immi
+
+si possono scrivere nel seguente modo:
+
+(vau—mysi- Μ’ ](vx1—r,y,-—Rffl—=o
+
+ff†½ffi ff†ssss
+
+R z, R z,
+(Ἡρη-ΡΜ) (vx2—r2y2-W)=0
+R 23 R 23
+(νη-ω’, -i-W) (vx, — r3y3-ffi)=0.
+Consrontando ora i fattori dei primi membri coi primi membri
+delle (1), si vede quali siano le espressioni dei coefficienti cereati in
+
+funzione delle sole v r¹ r, ηε οἱοὲ si vede che
+
+Ivalori espliciti dei nove coefficienti non servono al nostro
+
+ 
+

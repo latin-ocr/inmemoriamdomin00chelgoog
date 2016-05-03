@@ -1,0 +1,52 @@
+E. Beltrami.
+
+le proiezioni delle rette (cui CHEIJNI riconduc'eva fin d'allora quelle
+delle aree) nella forma da lui senrpre preferita e che riesce realmente
+molto utile, cioe: la proiezione che una retta riceve da un’ altra ὲ
+eguale alla somma dei prodotti di ciascuna componente di quella
+per la proiezione che riceve da questa. Vi ὲ data eziandio la regola
+per attribuire un segno alle aree generate dal moto d’ una retta, e
+vi ὲ latta l'applicazione delle regole generali per la composizione
+delle aree a quelle aree speciali che si presentano in meccanica e
+che corrispondono ai momenti delle lotze.
+
+A questo lavoro tenne subito dietro il Saggio di geometria ana·
+lr‘tr‘ca trattata rou nuovo melodo, Saggio ehe ὲ distribuito in due tomi
+
+· del Giornale Arcadico e ehe lu anche pubblicato in volume separato.
+Il metodo eui allude il titolo di questo Saggioe quello delle proie-
+zioni, che il CHELINI applica largamente tanto nella geometria del
+piano quanto in quella dello spazio‚ lacendo sempre uso di assi obli-
+qui, introducendo, insieme eon questi, gli assi eh’egli chiama sup·
+plementari eche il CAUCHY ehiamo poscia coniugati, ed adoperando
+simultaneamente le coordinate componentie le coordinate proiezioni,
+fra le quali trovo relazioni semplici ed eleganti. Questo lavoro, pre-
+gevolissimo per il tempo in cui fu scritto (1838), riesce lorse di mi-
+nor interesse al dl d’oggi, specialmente dopo l’introduzione delle
+coordinate omogenee e di altri coneetti fondamentali che hanno
+rinnovato tutta la geometria analitica; ma vi si trovano alcune parti
+molto felicemente trattate. Vi edata, per esempi0, sotto una forma
+molto semplice ed elegante, l' equazione dell'ipe'rboloide considerato
+come superficie gubba a tre direttrici rettilinee (rispetto ad assi obli·
+qui diretti parallelamente a queste direttrici), e vengono dedotte
+molto spontaneamente da quest’equazione (come in altro luogo dal-
+l'ordinaria equazione riserita agli assi) le proprieta delle generatrici
+e delle direttrici.
+
+Questo libro piaeque molto al POINSOT eui CHELINI ne aveva
+offerto un esemplare: in una lettera del 16 aprile 1839* l’illustre
+geometra, che non era lacile alla lode, gli scriveva infatti quanto
+segue: '
+
+‹Je viens de pareourir votre ouvrage et je puis vous dire avec
+‹satisfaction que'je n’y ai rien trouve qui ne m’ait paru elair, exact
+ι et fait dans un tres bon esprit. Cette methode des projections est
+‹en eflet une des meilleures pour demontrer et decouvrir. Elle a
+‹le vrai caractere qui appartient a toute bonne doctrine: je veux
+
+——-—
+
+‘Riportata nella presazione agli Elemenrr' dt nrecconica rationale.
+
+ 
+

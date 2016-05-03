@@ -1,0 +1,49 @@
+Sur liquation de Riccati.
+
+l’equation precedente pourra s’ecrire
+
+‹er-t en r
+
+ou plus simplement
+
+(14) ξξψξσψμί·
+
+Dans la derivee ἔζη ety sont traites comme des constantes.
+
+Adoptons les notations d’ARONHoLD et de CLEBSCH. Posons
+
+stne-r) (mady) =5a
+to nt=tr1122²-y†ry)=n²·
+
+Quand on prend la derivee— ἒξ tous les coefficients de f sont rern-
+places par leur ἀέκνέεε; il faut donc adoptet un autre s'ymbole et
+poser
+
+Nous voyons d’ailleurs que lorsqu’on templacera tous les coefficients
+de f par leurs derivees, il soudra substituer z ὲ a.
+Avec ces notations l’equation (14) devient
+
+(15) «:†na:·¹n(an)=ra:·
+
+Si l’on a une autre solution particuliere bss' elle satisfera ὲ une equa-
+tion analogue
+
+(16) p2'4n'b2‘·¹p,(bp)=p'b;
+
+οὺ β, μ’ ont des significations semblables ὲ celles de α, μ. Cela
+pose, tous les covariants des formes assbz' se formant au moyen des
+
+superpositions (Ueberschriebungen) des deux formes, il suffita, pour
+verifier notre theoreme, de montrer que la superposition
+
+H = o;·⁰b2'·⁰ (o b)⁰
+est encore une solution particuliere cest odire que
+
+{gr-{rr r)
+
+est divisible par H.
+Or H depend des coefficients des deux formes oz, bss' et pour
+prendre sa derivee par rapport ὲκ, il suffita de consideret successi·
+
+ 
+

@@ -1,0 +1,57 @@
+Soprala aprnpnga ione del calore. 233
+
+—.———.-. -.--—.‚-——-. ...— ————-.—.
+
+nella qualeh denota la conducibili& esterna ed α, α ,τι1 sonoi
+coseni degli angoli che la normale alla superficie n diretta verso
+l‘interno dello spazio S sa cogli assi delle'x„ x„ τις.
+
+Sia U una funzione del tempo t e delle coordinate, la quale
+insieme eolla sua derivata prima rispetto al tempo e colle sue deri·
+vate prime eseconde rispetto alle coordinate si conservi finitae
+continua in tutto lo spazio S e in tutto il tempo da t=o a t= τι.
+
+Moltiplichiamo la equazione (1) per U dtds e integriamo,
+estendendo la integrazione a tutto lo spazio S e a tutto il tempo 1,.
+Denotando rispettivamente con V„ U¹ e con VO, U⁰ i valori di V
+ed Ucorrispondenti a t=t1 e a τεο, avremo
+
+(4) 112 Ulds- [ το [τοτε
+
+enen τ--ιιι
+
+nn
+nx„
+
+Sia orat' un valore di t maggiore dit ed U sia tale che
+
+quando uno spazio s qualunque non contuene un punto (x'‚ x ',x')
+si abbia
+
+t ‘'ffia„ ›de 0.
+
+lim
+
+(5) ¹:ffllldss 0,
+
+equando uno spazios contenga il punto (x, x ,x3') sia invece
+
+(ὁ) ¹¹⁰¹ Ηῖ [ττι-
+
+ed U si conservi sempre dello stesso segno finche τΙ non supera τ’.
+Decomponiamo lo spazio S in due parti: una s' che contenga
+
+il punto (xl' x2' κζ) e 1’ altra 5 che non lo contenga. Denotando con
+V' un valore compreso tra il massimo eil minimo dei valori che
+
+prende V¹ in 5', e con V ⁰ uno compreso tra il massimo e il minimo
+di quelli che prende ins, avremo
+
+(7) [13 υτεειῖτ, nxns'n'n', (τιτι
+
+*when-nnn,
+
+s.
+
+ 
+

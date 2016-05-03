@@ -1,0 +1,52 @@
+Sulla integrazione delle equazioni, ecc. 115
+
+le b potranno considerarsi come le funzioni arbitrarie delle α che
+debbono introdursi per rendere generale 1’ integrale.
+La z si ottiene dalla equazione
+
+dz= (P ΡΣΡὴδὲ δχ dx ΡΣ &aff—{wa
+
+man 1 8b
+
+:naxdx -Ι-Ῡ, dat, -3--2—“0-1-{2r δα
+
+e se fra le funzioni arbitrarie b si stabiliscono le relazioni (16), che
+nel nostro caso divengono
+
+1δό 188
+
+-·—= -—
+
+οι·δαι 015‘801¹
+
+il secondo membro della precedente equazione diviene un differenziale
+esatto e si ottiene la funzione z espressa per mezzo di κιαι2 . . . α,Ι senza
+la introduzione di nuove funzioni arbitrarie*. E poich& le equazioni di
+condizione fra le b equivalgono alla condizione che la espressione
+
+sia un differenziale esatto, cosl si vede che una delle b potr& sempre
+prendersi arbitrariamente e le altre si potranno scegliere in modo che
+questa condizione sia soddissatta5 la prima b tester& a rappresentare
+la funzione arbitraria che si deve avere in <- In questo caso non si
+presentano che n—1 funzioni arbitrarie, perch& la ζ manca nella
+
+equazione data.
+2.⁰ Sia
+
+Le (12) daranno
+
+· 8x 8x
+
+PP3 ·P ΡΡ, fP
+
+·=<›2-1>⁵‘³‹x,c1†a,>'·‘·· ‘8202÷aP·¹---‹x.c.÷a..)”‘³*
+
+* De'vo qui sar notare una svista in cui Amne ὲ caduto apag. 19 della sua
+
+Memoria inserita nel Cahier 18ch Journal de P’Ecolc polytcchnique; quando χ non
+cntra nella equazione V =o si hanno sempre soltanto n—1 Punzioni arbitrarie,
+perch& si hanno soltanto 201- ι) equationi diflerenziali (nel caso di Auvm una
+sola come ὁ sacile vedere).
+
+ 
+

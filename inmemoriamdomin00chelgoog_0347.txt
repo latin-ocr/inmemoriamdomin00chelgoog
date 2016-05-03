@@ -1,0 +1,58 @@
+.—— Q— ..
+
+Curve vom Grade zn—1 ruit zwei (rr-1) lachen Punlrten). Da
+also von jedem 'Punkte aul C„ nln— 1) Doppelsecanten nach C„
+ausgehen, so ist C„ eine n (u- 1) sache Curve aul Ε. Der Kegel·
+schnitt (Ε, Ε) hat mit C„ 2 n Punkte gemein und jede derssfllfflzssl
+Verbindungsgeraden von zweien desselben zuhlt als (rr—2) sache
+Erzeugende der F„ weil sie C„ ausser in den zwei Ansgangspunkteu
+noch in n-2' andern Punkten triflt, deren jedem sie zugeordnet
+werden muss. Da jetzt der vollstiindige Schnitt von F, et E herge·
+
+stellt ist, so haben wir
+x=n.n(n—1)-†-n(2n—·1)(n—3)=n(3n²-6n-1-2)
+
+Die Geraden, welche C„ doppelt, C„ einfach treffen und welche eine
+Regelflu'che F, vom Grade y bilden mdgen, liegen in E und gehen
+durch einen der zn Schnittpunkte von E, F² und F„ Eine Gerade
+durch einen solchen Schnittpunlrt wird C„ noch in n—1 Punlrten be-
+(n 1¹) (2η - ηζ Arten zu zweien combinirt werden
+kdnnen‚ d. h. das Strahlblischel um den Schnittpunlrt herum gehdrt
+
+(n “ ¹) (n “ Ζγω Grades
+
+gegnen, die aul
+
+. als Regelfliiclre —-- -—— der F, an, so dass also
+
+1.2
+y=2nQ
+1.2
+ist. Bezeichnet man endlich mit z den Grad der Regelfliiche der
+
+dreilachen Secanten {dr den ebenen Schnitt C„ so hat man:
+
+,nln—1lln-2l (n-urn—zl
+
+4 1.2.3 †rr(3rr²-6n†2)†2rr.——ffi-—†
+
+. †2=},(3u-2)(3n-5l
+
+woraus sich z = -ἑη (n - 1) (n — 2) und damit das srfiher gesun-
+
+dene Resultat ergibt.
+
+Wenn F3 in drel Ebenen E„ E„ Jia zersiillt, welche F„ resp.
+in C J„ 62, C ῗ, schneidet, so zerfiillt die Regelfliiche der dreilacheu
+Secanten des Schnittes (Fa, E.) in folgende Theile:
+
+1. Die dreilachen Secanten jedes der ebenen Schnitte bilden
+
+nach I eine Regelfliiche vorn Grade --ἑ-νι (n - 1) (n - 2), sie nuls-
+
+sen also zusammen als vom Grade {⁷² (n- 1) (n— 2) aulgelasst
+
+werden.
+
+ 
+

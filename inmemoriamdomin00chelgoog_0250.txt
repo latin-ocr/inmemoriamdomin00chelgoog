@@ -1,0 +1,43 @@
+Sur quuation de Riccati.
+
+nerale de l‘equation proposee sera
+
+(9)
+
+On verifiera tous ces resultats en se servant dela methode
+que j'ai indiquee dans mon Memoire: Sur les &quatinus differentielieu
+(Bullatin des Scienccs Mathemaiiques, t. 2, 2e serie).
+
+Si les racines d’un equation
+
+(Η) ’ fin vi=0
+
+doivent etre des solution de l’e‘quation (4) on devra avoir pour cha-
+cune de ces racines
+
+(Ῑῖ) Af=3(4-⁰1²)}{giy¹²-·y2—3)=0.
+
+Le premier membre est un polynome en y qui doit s'annuler pour
+tontes les racines de l’e'quation (11); il doit donc etse divisible par
+f(y, α) et l’on doit avoir identiqurmrnt
+
+As=iMreNrf
+
+En supposant que le degre de s(y‚ α) soit n, on trouve que M doit
+etre egal ὲ n et l‘identite ὲ verifier devient
+
+(13) Δ] = ΜΟ - ⁰)s2
+
+0 etant une certaine fonction de x.
+Le symbole Δ jouit des memenproprietes que la derivee‚ c’est·
+&edire on a
+
+Δφ(ιι, v, w)=e‘„nu-{-n'„Av-}-52'„Aw.
+Cela pose, on trouvera sans peine
+As =4(r-2)s
+AH=(4)'-62)H
+AT: (6y—92) T
+A(4-2²)=—62 . (4—n²)
+
+ 
+

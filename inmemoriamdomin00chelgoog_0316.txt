@@ -1,0 +1,50 @@
+Alcuni teorcmi selle fimeioni di una variabile complesset. 267
+
+al termine della serie (5) nel quale fosse (ιη-το, quando il punto Ι
+zero sosse un infinit0, ma cib evidentemente non ὲ di alcuno osta-
+
+colo per le nostre cohclusioni, poiche un terlnine finito in una serie
+non ha influenza sulla convergenza della serie medesima.
+
+3. Dimostrato cosl il teorema di M1TTAG·LEFFLER pel caso
+che siano dati soltanto i coefficientiA„‚1,A„‚2,... Am per ogni
+
+punto d‘ infinito a„ si pub trattare subito anche il caso in cui sono
+dati al tempo stesso anche i coefficienti Bm, Bw... ΒΜΓι di q„
+
+termini della parte intiera dello sviluppo nell'intorno di a„; giacche
+si trova subito che la funzione cereata risulta ora dal prodotto di
+una qualunque delle funzioni intere lle) che divengono infinitesime
+degli ordini q„ qm, qm... nei punti al, aff.. α ..... moltiplieata
+per una funzione pst) che diviene infinita degli ordini ingl-ql,
+m² -l-r] ...... m„ -l- q, ..... negli stessi punti, eche pub costruirsi coi
+processi del paragrafo precedente, poiche per essa vengono ad esser
+dati soltanto i coefficienti relativi alla parte frazionaria dello sviluppo
+nell’intorno degli stessi punti.
+
+Supposto inlatti che lle) sia una funzione che si annulla nel
+punto a„ e dell’ordine q„ e soppressi gliindici n per semplicitlr <li
+scrittura‚ avremo:
+
+Β im( ΒΒΒΜ( Β-ΒΜ(-ΒΒ. imru w) i
+÷tiarr÷uA -ΒΒΒΒ
+
+ove Mo, M„ MN... saranno quantit& determinate, e Mosarla disse-
+rente da zero; e se si determinantia funzione pst) per la quale si
+abbia nell· intorno di a:
+
+ll ςι-ΒΒΪΒ) alte)
+
+l· Βῑςῇ-ΒΒΒΩΒ- ei
+
+allora, eseguendo il prodotto femie), si vede subito che onde nel·
+l’intorno di a esso si comperti come la funzione cereata, cioe sia
+della forma:
+
+τῖ’-ἀ* ‘¹' ···-⁸5⁷ss Blz- ΒΙΒ -e-ar·¹÷.-.
+t (κ’ a) (W) ·
+ove A„ ΑΜ... A„,‚130,B„... B„¹ sono i coeffieienti dati relativi
+al punto a, basta che per le P„ ΡΒ... PU... Pffl sisino presi i¹
+
+ 
+

@@ -1,0 +1,69 @@
+Α. Cayley,
+
+The example shows that although the differential equation
+
+· ziz-n xlx-1)
+
+can be integrated generally in a quasi-algebraical or algebraical
+
+sorni as above, yet we cannot from the general solution deduce,
+at once or easily, the various particular intcgrals comprised therein:
+nor can we find sor what values of the constants a, b,c and α’, b', c'
+the differential equation admits of a simple solution, or say os a
+solution where z is expressed as an explicit (irrational) fonction ol x.
+
+In the cases considered by Kummer there is a second (or it
+may be also a third) differential equation ol the like form, the equa·
+tions being each of them satisfied by the same value ol z: hence
+
+eliminating the differentials dx, dz, the relation between x and r is
+of the form ·
+P' - P
+o- a
+
+' where P, Q are quadric fonctions ol ιη Ρ, Q' quadric fonctions
+
+ol a. But P and Qmay contain acommon lactor, and the inte·
+
+¹gral is then expressible in the form x = Z, the quotient of two
+
+Q
+
+quadric fonctions ol κς or P' and ρ’ may have a common factor,
+
+and the integral is then expressible in the lorm z= R, the quo·
+
+Q
+
+tient of two quadric fonctions ol x; or there may be a common fac·
+tor ol P, Q, and also a common lactor ol P' and Q‘, and the inte-
+L
+
+gral is then ol the form p: —
+
+M, the quotient ol two linear fonctions
+
+of x.
+
+In the general case the differential equation is
+hlnF-l-bQ') ἄπ’ - (dP-lb Q) dx²
+
+z² (r— rj² astla-11²
+
+where a,b are arbitrary constante, λ is a constant the value ol which
+
+can in each particular case be at once determined; so'when the in·
+
+tegral is z: f, the differential equation is
+
+Q
+nazariae - taplbdlde
+
+—
+
+²²l²-¹l² ““ x²(x-1)²
+
+where a, b are arbitrary constants, but l is now a linear function of
+
+ 
+

@@ -1,0 +1,53 @@
+, Sapra urm certa superficie di quart'ordt'ne. 42 3,
+
+——...—--— --n . --—--.-...-.. .
+
+Ciascuno dei due sistemi contiene una rete di curve razionali,
+per le quali 0 ὲ un punto triplo, Le imagini di esse deduconsi
+dalle imagini dianzi niente, staccando da queste la cubica
+
+0.1.2.3.4.5.6.7.8.9.10
+
+che rappresenta il punto 0: ossia supponendo che le superficie se-
+ganti di 3.⁰ ordine, non solo passino per 0, ma ivi tocchino il piano
+x =0. Allora si hanno per imagini delle curve razionali di 6.⁰ or-
+dine, nell'un sistema le rette del piano F ''‚ nell'altro le curve di
+8.⁰ ordine 0³1³2³ 3³ 4³ 5³ 6³, Due curve razionali di uno stesso
+sistema si segano in un solo punto; due curve di sistemi differenti
+in otto ponti, oltre ad 0.
+
+17. Mediante la trasformazione quadratica (s 6) adoperata sinora
+si potrebbe continuare a dedurre propriet‘a della superficie F dalla
+nota teoria della superficie generale di 3.⁰ ordine F '. Per ora io non
+addurro che la costruzione geometrica della rappresentazione piana.
+
+Perta superficie F ¹, assunte in essa due rette o„ u² che non si
+seghino, i punti di F ' si possono projettare su di una superficie di
+2.⁰ grado S‘ che passi per u„ mediante raggi appoggiati alle diret-
+trici u„ α’. Con cio i punti delle superficie F ' ed S‘ sono messi in
+corrispondenza univoca.
+
+Passiamo ora ad F ; prendiamo in essa due coniche til, o, non
+segantisi all‘insuori di 0, e sia fi una conica che incontri tanto o,
+quanto d, in un secondo punto, dopo 0 '*. Sia poi P il piano di o.
+Per un punto qualunque M di F si puo condurre una (ed una
+sola) conicafi la quale passi per 0, ivi tocchi x=o ed altrove
+incontri ancora le tre coniche fi, οἰχ, Q. Insatti: la conica fi sara
+l' ulteriore intersezione di due superficie di 2.⁰ grado passanti per
+fi e per M, toccanti in 0 il piano x=o e condotte l'una per
+fi„ l'altra per d„ La conican incontra il pianoPin un unico
+punto M„ poiche gia lo attraversa in 0. Viceversa‚ assunto ad arbi·
+trio un punto M, in P, costruendo la conica (unica) ti che tocca
+x = o in 0, passa per M¹ e incontra fi, dx, d„ si otterrebbe univo-
+camente il punto M nell'unica intersezione di ἡ con F (unica, per-
+chi gia quattro intersezioni sono riunite in 0 e altre tre cadono
+
+risp. in fi, til, 6,).
+
+—n———na
+
+· Per esempi0, siano ίμί, le conichc rnppreseutntc in F ¹ dai punri1,2,
+e sia fila conica arente per imagine la retra 12.
+
+ 
+

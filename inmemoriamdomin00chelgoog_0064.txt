@@ -1,0 +1,56 @@
+L'iperboloide centralc3 ccc. 15
+
+L’ asse istantaneo essendo diretto secondo ΟΡ, le componenti
+della velocitl angolare attorno ad Ox ed oy saranno proporzionali
+adh ea v. D’altra parte le componenti secondo gli stessi assi,
+relative alla terna Oxy z, sono date, com'l noto, da
+
+le quali funzionano da Oy verso On, e da Oz verso Ox. Ma la
+terna Oxy: non ὲ fissa, poich& 0 y gira parallelo a v. percio, dl·
+cendo ἅμ lo spostamento nel tempo dt dell' asse Oy, odel ragglo v
+verso 02, le velocitl angelari assolute, secondo Ox e secondo Oy,
+
+saranno
+Σόιέῖ-’ἦ-Ξ-ἓ, Σιιςέ.
+Dunque
+
+thaffu-Q ossia Ἠι-Σ-ἧ-αῙ-ἒ-Ι-ΞΞ-ἅό1
+lt v ¹ lz‘ v lt Ἀ
+
+E questa ὲ 1’ equazione differenziale dell'erpoloide.
+Per integrarla osserviamo‚ che
+
+vdv r22r2r3dv
+
+a1da,= =---———
+
+m-wm-m'¹ wm-mm-w'
+
+Onde ponendo per compendio (r2—r3) (r3-r1) (r1-r2)=-A‚
+sarit
+
+2c1da1=ss2st2=r3lg¹=
+
+chb-QQ2(r-r)Q-QQ”(r-r)f¹-
+Ιι’Δ vl ³ ²01‘Av²“² ³a,'
+
+Ma c² a, -ι, a, = b„ dunque
+
+Σ(ν —rlff- ossia “r ·c-²-—f³- -l'b—‘fi——I-Xa rb
+³ 'a ⁰ ⁸ ¹ α, 113-‘112113—‹1111203 ¹¹¹
+
+Finalmente
+
+ΣεᾸα-τ-Ῠίἕυα “
+¹ ¹ Aa1a2a3' “¹
+
+vdv ἠως
+
+ἄξιε-(ΜΤ)
+
+Δαιαμῖ]
+
+L’equazlone dell'erpoloide dipende cosl da integrali ellittici
+
+ 
+

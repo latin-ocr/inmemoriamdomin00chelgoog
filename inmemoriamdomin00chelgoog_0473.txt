@@ -1,0 +1,53 @@
+422 L. Cremona,
+
+mata dalle altre quattro coniche poste in que’ quattro piani‚ gia-
+cerit in una superficie di 29 grado. Quale ὲ 11 numero di coteste su·
+perficio S segauti F secondo quattro coniche?
+
+Le coniche incontrato in un punto, oltre ad 0, da una data
+conica sono (s 7) in numero di 27: ossia una data conica ia parte
+di 27 diverse curve gobbe di 49, ordine.
+
+Per due coniche aventi, oltre ad 0, un punto comune, passano
+cinque superficie S ciascuna delle quali contiene altre due coniche.
+Infatti: quelle due coniche, come componenti una curva gobba di
+49 ordine, appartengono ad una delle 2.63 serie (s 14), e questa
+serie (s 4) contiene altre 5 paja di coniche, i pinni delle quali seghe-
+ranno F secondo altre 5 paja che appartengono alla serie conjugata,
+E siccome due curve gobbe di 49 ordine appartenenti adue serie con·
+jugate sono sempre situate in una stessa superficie S di 29 grad0,
+cosi, prendendo ad arbitrio un pajo dal primo gruppo di paja ed
+un pajo dal secondo gruppo‚ si avranno quattro coniche situate in
+una stessa superficie di 2.⁰ grado.
+
+Da eid segue che per una data conica di F possano 3-7-5 = 43
+
+superficie S di 29 grad0, ciascuna delle quali sega F sedondo tre
+
+altre coniche. 11 che si pud anche dedurre dal notissimo teorema
+che la superficie generale F ' ha 45 piani tritangenti: ai quali piani
+corrispondono superficie di 29 grado passanti per n e seganti F in
+altre tre coniche. Ora ste una qualunque delle 56 coniche di F 3
+dunque, ecc.
+
+11 nurnero totale delle superficie S contenenti quattro coniche
+di F ὲ adunque
+
+conjugate due a due, chiamando, come gie s’e detto, conjugare
+due superficie S le cui otto coniche giacciano, due a due, in quattro
+piani. Percio possiamo concludere chesi hanno 315 coppie di su-
+perficie S conjugate.
+
+16. La superficie F contiene infinite curve gobbe d’ ordine 6
+e genere 3, le quali formano due sistemi triplamente infiniti. Quelle
+di un sisterua sono rappresentate sul piano F'‘ (S 10) daile curve di
+49011111100.1.2.3.4.5.6.7.8.9.10;0110110(1011’21110 dalle
+curve di 11.⁰ ordine 1⁴.2⁴.3⁴.4⁴.5⁴. 6⁴.t.8.9.10. Le une e le
+altre passano pel punto 0. Due curve di diversi sistemi giaciono
+in una stesso superficie di 3.⁰ ordine e si segario in altri dodici punti.
+. Due curve di uno stesso sistema hunno invece soltanto cinque punti
+
+comuni, oltre ad 0.
+
+ 
+

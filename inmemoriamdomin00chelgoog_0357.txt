@@ -1,0 +1,36 @@
+308 ·F. Casorati,
+
+—--——-—-.-.—-—.-————-————-—-.-.—
+
+coincide bens} colla (1) in quanto al grado di ἄκεά), ma potra dit·
+serirne nei coefficienti.
+Indicando con
+
+n
+t.
+
+itti·
+le derivate prime delle
+
+m niman
+
+rispetto ad x e y, e sostituendo a ciascun differenziale ὀί, la espren
+sione χ, d x -)- (μὶ y, lo sviluppo del determinante (3) prendera la
+sorma ·
+
+n‘ anx,aristaenete-nr..nnn-20
+
+dove i coefficienti fo, F,‚..., F„ significano espressioni intere nei
+simboli (4) e (5), le quali si possono pensare in forma di somme di
+determinanti ottenibili dal (3) col sostituire alle linee formate coi
+differenziali linee formate colle derivate (4). Questi coefficienti do·
+vranno essere proporzionali a quelli della (1). Percib potremo porte
+
+(n n=⁰n R=an›fi=⁰n· .
+
+Consideriamo ormai i discriminanti delle equazioni (1), (2), (3),
+che indicheremo con le lettere ς, g, G e potremo imaginare sotto
+la forma
+
+ 
+

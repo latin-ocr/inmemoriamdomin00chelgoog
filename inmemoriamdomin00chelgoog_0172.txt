@@ -1,0 +1,49 @@
+De fractionibus quibusdam continuis. 123
+
+———-—-...-——.—-————-— ——0-
+
+unde apparet ipsos P, et P² iore formae y²-3x², aut iormae μ’ —y²,
+prout a· par est aut impar.
+
+Coeterum in aequatione penultima R,=R,-,-q,-,P„ si est
+P,= ὲ 2, oritur ambiguitas ·in determinatione quotientis q„,; quam
+ita tollimus ut quotientes q,-„ q, (e quibus hic certe unitas erit)¹
+afficiantur signis contrariis. Facile autem demonstratur in serie quo·
+tientium q„ q„ . . . q„ si duae eodem signo unitates juxta veniant,
+mutationem signi fieri in proximo quotiente. Hinc in fractione eon·
+tinua
+
+..ἧι-491, —3q,. q„.··-3q‚‚ l2· -3rl
+
+si fiat deinceps
+
+et sic porro, erit ut supra [9,] >Ug— [⁰0] >}. Quotientes autem q„
+
+q„ . .. determinantur per aequationcs q¹ = lt„ q² = I 6„ . . .; inter
+quas etiam extrema illa q, =I θ, locum sibi vindicat. Nam, si q, ς :t r,
+(qui solus est casus de quo dubitatio oriri potest) erit necessario
+Ρ, = ὲ 2, atque discrepabunt inter sc signa quotientium q,„„ et φ,
+quo fit ut valor absolutus ipsius p,= q, -l- ———¹—1- unitate
+major evadat.
+
+Quum autem numerus ε ΡΙ infinitis modis per formulam y²-3 ,τ’
+repraesentari queat, ostendere convenit eam repraesentationem quae
+continetur formula
+
+el'1=lr12-3r2›···r2›-3nl
+per numeros minimos fieri. Et generaliter quidem, si est
+
+y²-Ax²=N‚ 1²-Au²=1,
+
+inveniri possunt in una eademque repraesentationum familia totidem
+
+repraesentationes repraesentatione data magis simplices quot habentur
+numeri u tractionefflabsolute minores. Etenim cum omnes inde·
+
+Ν
+terminati x valores in hac formula tx - u y comprehendantur, si qua
+est repraesentatio repraesentatione data magis simplex, habetur inae·
+qualitas-(tx-uy)²<x²; quae, eliminato numero t, convenit cum
+
+ 
+

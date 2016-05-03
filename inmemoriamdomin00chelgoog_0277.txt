@@ -1,0 +1,49 @@
+228 L. Kronecker‚
+
+Null. Diese Eigenschaften von V geniigen fiir den Nachweis, dass
+
+ναι zu z)=JP(z ddi
+
+ist, wenn Ph, ζ’) das elementa-re Potential der Punkte (z) und (χ’)
+bedeutetd. h. wenn
+
+zz-——ihh 'W' (k=¹2²‚···n)
+
+ist, wenn fernen dv' das Inhaltselement der n·sachen Mannigsaltigkeit
+(χ’) bezeichnet‚ und wenn endlich die integration iiber das ganne
+Gebiet dieser Mannigsaltigkeit erstreckt wind, in welchem die F un·
+ction F (ο), wenn die Variabeln( darin durch die Variabeln χ’ er·
+setzt werden, einen negativen Werth hat.
+
+II.
+
+Um den erwhhnten Nachweis zu siihren, gehe ich von der
+Formel der partiellen Integration aus, welche ich unter N0. (3) aus
+
+pag. 189 des Monatsberichts der Berliner Akademie der Wisscnsehastcn
+vom Mdrz 1869 gegeben habe,
+
+(Q JQQQQQ PQQ Qv— =s1> ἔξω.
+
+Die beiden Integrale links sind iiber eine n· sache Mannigfaltigkeit
+F0(z1‚z‚,... („)<0 zu erstrecken, das integral rechts iiber die
+Begrenzungs-Mannigfaltigkeit F„ = ο, welche zugleich die ganze
+natiirlichc Begrenzung bilden muss. Vertauscht man in der F ormel (G)
+die beiden Functionen P und Q mit einander und subtrahirt die
+dadurch entstehende Formel von (G), so kommt:
+
+(H) -tff'QQQQ41²3an÷j(P}}—Q{-})Q‚
+
+wo iibrigens der nach p genommene Differentialquotient wie in mei·
+ner sehon citirten Abhandlung vom Mirz 1869 durch die Glei·
+
+chun
+g nin-027} =QQQ
+
+definirt wird. Nimmt man in der mit (G) bezeichneten Formel P: 1, ἵ
+
+20 kommt
+[mimi-{gin
+
+ 
+

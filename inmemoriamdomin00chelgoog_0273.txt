@@ -1,0 +1,38 @@
+UEBER
+
+POTENTIALE n-FACHER MANNIGFALTIGKEITEN
+
+Ιι. ΚΒΟΝΕΟΚΕΒ.
+
+Die Uebertragung des Potentials eines nicht aus scine Haupt·
+axen bezogenen Ellipsoids* aus n-saehe Mannigfaltigkeiten snhrt
+. zu einem Ausdruck von bemerkenswerther Einsachheit.
+
+1.
+
+Ist fiir alle Werthe r, s: 0, 1,... n, wobei n>2 vorauszu·
+setzen ist,
+Q=Q‚ κτλ
+
+und Do) die Determinante der Grdssen a„ -{- thr„ und zwar
+D(t)=—lar,-{- Μ (r, s=0, 1‚... n),
+
+ist semer d„=0 oder 1, je nachdem die beiden Indices r, s von
+einander verschieden oder einander gleich sind Μ’, so sind die durch
+die Gleichungen
+
+(A) {liarfftbnsfflin (p,r,s=0,1,...n)
+
+definirten Grdssen fi„ die Unterdeterminanten jenes Systems, dividirt
+durch die Determinante. Wird nun nach t differentia, alsdenn mit
+
+——n—-n-
+
+* vgl. Dlnlcrrter’s: Unlersuchnngcn saber ein Problcm der Hydrodynamik, ς 4.
+Abirandiungcn der Krinigl. Gcscllschasr der Wisscnscirasrcn ru Gottingen, Bd. VIII.
+
+'⁴' vgl. meine: Berrurkungcn rur Dererminanren-Tricorii, im 72 Bande des
+Borchardrscirrn lournais.
+
+ 
+

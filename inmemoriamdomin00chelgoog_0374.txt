@@ -1,0 +1,53 @@
+Sulle curve gobbe rozionoli del 5! ordine. 32 5
+
+.-.-—-—-—- ——ae
+
+e un punto semplice 5 (ad esempio) essere tutti in linea retta. Al-
+trimenti‚ nel piano π, o dovrebbe esistere una quartiea (sondarnentale
+per la trasformazione univoca) avente in 1 un punto triplo e passante
+per 2, γ’, γ”, yx, γ,. . ..γυ ovvero dovrebbe esistere una quintica
+avente in 1 un punto quadruplo e contenente i punti 5, 2, γ’, ss,
+γι, *ssu-{83 ciue si avrebbe una quartica o una quintica che do-
+vrebbe far parte dell’imagine di C5¹ (la prima avendo 145 puntie
+ia soconda 176 punti comuni con questa imagine). Si pud adunque
+passare dal piano π, adun nuovo piano π, con una trasformazione
+quadratica per la quale sieno fondamentaii il punto 1 e i punti γ’, γ”
+(ad esenrpio) e, sopra a„ non saranno successivi ad 1 (l’omologo del
+punto 1 sopra πὶ) i punti 2, 5 (ἱ corrispondenti dei punti 2, 5 sopra n).
+Siccine sara possibile coi punti 1, 2, suna secunda trasformazione
+quadratica (quei punti non potendo essere manifestamente in linea
+retta). Cosi si ottiene infine la rappresentazione di ordine minimo
+di Σ.
+
+In tale rappresentazione ie imagini delle serioni piune sono curve
+di 6? ordine cho hunno a cornrnn nn prnrtoq quadruplo c tredici ponti
+serrrpiici 5, 5¹. s,', 5,, 52', . . .5,, 54'. n punto 5 roppresenta io reno Q
+egli altri ponti inopini, adtira dne, ie sei rotie doppie D. Il punto q
+ἑ 1’ imagine di nno onnia pinna del 4? ordine (avente in x un punto
+triplo), residua intersezione del piano per R (diverso dal piano RQ)
+che contiene una conica di Σ (cfr. n.⁰ 14). L‘imagine di x e una
+curva del 4⁰ ordine che lia in q un punto triplo e passa semplice·
+mente per i punti 5,, sl (e non pers). L'imagine di (15¹ ὲ (1519,ο or·
+dine, ha i punti q, 5 quadrupli e i punti 5,, 5,’ doppi. I punti di essa si
+distribuiscono in coppie, ogni coppia rappresentando un punto di (25¹.
+
+Le sezioni piane di Σ, fatte coi piani condotti per x, hanno
+per imagini coniehe peri punti q, 5. Ne segue dapprima che, il
+{ascio di rette di centro q rappresentando le coniche di fficinqui·
+secanti di C5¹), il fascio di centro 5 rappresenta le curve di 5.⁰ or-
+dine rimanenti intersezioni dei piani di quelle coniche. Evidentemente
+questi due fasci di rette sono projettivi e sono corrispondenti i raggi
+qs„ 55,’ (e qs'„ ssi). Adunque i quattordici pnnti q, 5, (qn, 55,’), (q 5,’, sn)
+stanno sopra nna conica (imagine della linea di contatto del cono di
+2.⁰ ordine circoscritto a Σ e avente il vertice in r). Due punti del·
+
+l'imagine di C5¹, che formano una coppia, congiunti con q, 5, darino
+rette che s'incrociano su quella conica.
+
+Inoltre le coniche per q, s, 5,, 5,’ sono le imagini delle sezioui
+fatte coi piani passanti per la retta Dp Il piano DffDj seghera adun-
+que Σ in una linea (del 3‚⁰ ordine, aventc un punto doppio sopra (ἶς’)
+la quale avra per imagine una conica pressante per q, 5, 5,, sl. 5, st.
+
+ 
+

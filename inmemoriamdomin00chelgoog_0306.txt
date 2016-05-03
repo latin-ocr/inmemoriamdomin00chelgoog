@@ -1,0 +1,44 @@
+Urber quadratisclre Krcgelcomplexe tend corrfocale Cycliden. 257
+
+und
+
+vr = an ‘j‘ a;1{†a;2'n† araz *1- aa?
+
+ist, Da dieselbe bekanntlieh nur reelle Wurzeln λ hat, so sind die
+drei durch einen reellen Punkt gehenden Cycliden dieses Systemes
+alie drei reell. iVerden die a„ und damit auch v, gleieh Null gesetat,
+so repraesentirt die Gleichung (C) eine Schaar coniocaler Fl‘a'chen
+zweiter Ordnung, von welchen eine (v =oj beliebig angenommen
+werden kann.
+
+31. Zu den orthogonalen Cycliden des Systemes (C) gehdrt
+auch die Cyclide des complexbnschels
+
+Σαμίη -j- ).(aj -j- αξ -{— z} — x,x,) = ο.
+
+Dieselbe wird namlich dargestellt durch die Gleichung v = 03 und
+
+da -ξ v der Coefficient von λ3 in der Gleiehung (C) ist, so geht
+
+letztere fiir ir: eo iiber in v =0. Vertauscht man die Cyclide v = 0
+nrit irgend einer anderen des SystemeS, so erha'lt rnan statt der
+Schaar (B1) zu einander normaler quadratischer complexe eine an·
+dere Schaar (B'); das zu letzterer gehiirige System orthogonaier
+Cycliden ist aber mit dem iriiheren identiseh. Die beiden Systeme
+haben namlich zuniiehst jene beiden Cycliden mit einander gemein,
+dann aber auch jede dritte, weil diese die beiden eisteten in je
+einer Krummungslinie rechtwinklig schneiden muss. Mit einer Cy·
+elide sind ja auch ihre Kriimmungslinien gegeben, und durch jede
+derselben kann (29) ein Biischel von Cycliden gelegt werden, von
+welchen aber nur eine zu der ersteren Cyclide orthogonal ist. Weil
+demnach das System aus jeder seiner Cycliden ganz ebenso wie aus
+der ursprbnglich angenommenen v = o abgeleitet werden kann, so
+ergiebt sich (29): Die orthogonalen Cycliden sind confocal und
+
+haben die rans ausgearteten Cycliden des Systemes (C) zu gemein-
+schaftliehen Focalcurven.
+
+snassburg, den υ October 1880.
+
+ 
+

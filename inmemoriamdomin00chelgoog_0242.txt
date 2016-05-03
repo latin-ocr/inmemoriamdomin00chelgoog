@@ -1,0 +1,58 @@
+Sugli assi di equilibrio.
+ed il sistema saro quindi astatico; oppure ritenendo nulle due delle
+dettequantit31‚ ad„ esempio α e β, nel qual caso le (22) equivar-
+ranno alle seguenti:
+
+α--ο, βεο, γει, ΣΡκεΣΡγτ-ο.
+Ricorrendo alle (8) troveremo in corrispondenza a queste condizioni
+
+L=M, N=o
+ἐρεῖ le (21) l=0, m==0, oz=1,
+
+mentre la (20) ὲ soddisfatta‚ ela (19) diviene:
+
+sls÷2le²=q Ι
+
+e per tanto: un sistemo li sorqo parallelo in equilibrio, o non ostatico,
+ammollo un asse principale parallelo allo diroqione dello forqo, il quale
+l oncloo osse unico di equilibrio, od ogni rollo ad esso porpendicoluro l puro
+asse principale.
+
+In secondo luogo si consideri un sistema di sorze agenti' nel
+piano dato per l‘equazione:
+
+pilqolrt=o
+o÷o÷f=n
+
+Per la lorza generica P del sistema dovranno essere adempite le
+seguenti condizioni:
+
+‘ · px÷qy÷rz=o
+p2†qo÷r;f=o;
+
+dove:
+
+(23)
+
+se moltiplichiamo la prima di queste successivamente per Px, Pp, Ργ
+esommiamo ciascuna volta le equazioni che si ottengono attribuendo
+
+a Ptutti i valoti delle componenti date, tenuto conto delle (18)
+avremo:
+
+(24) ρΣΡκαεᾳΣΡγβενΣΡζγι-ο.
+
+A queste equazioni saremmo pure arrivati pattendo dalla se·
+conda delle (23) moltiplicata successivamente per Px, Py, Ρ(
+
+Escludendo il caso dell’astatieitu, in cui i tre coefficieuti di
+p. q, r nelle (24) sarebbero separatamente nulli, consideriamo i casi
+in cui alle equazioni stesse si soddisfaccia supponendo eguali azoro
+uno solo 0 due dei detti coefficienti. Siano adunque dapprima:
+
+ΣΡΝΞΟ, {Pylio Zle=02
+
+ἣ
+
+ 
+

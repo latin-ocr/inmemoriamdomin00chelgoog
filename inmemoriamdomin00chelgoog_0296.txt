@@ -1,0 +1,51 @@
+Ueber quadratisclze Kugelcomplexe und confocalc Cycliden. 247
+
+kugeln, und zwei lineare Kugelsysteme sind zu einander normal,
+wenn sie bezfiglich des Punktkugel Complexes conjugirt sind (2, 11).
+13. Wenn die Discriminante Σ ὲ awanananan des quadrati·
+schen Kugelcomplexes Σαῦ, α, ²1, =0 verschwindet, so giebt es eine
+Kugel α’, deren Coordinaten den funs linearen Gleichungen:
+
+amah-l-assa',†a;‚a‘2†a;³n',-l-a„a'4=o sur i=0, 1, 2, 3‚4
+
+zugleich Geniige leisten. Dieselbe ist jeder beliebigen Kugel α con·
+juglrt beziiglich des Conrplexes, und ihre Polare wird unbestimmt;
+denn die Gleichung Σαῶαςαᾎ, ist fur alle Werthe der α, identisch
+ersullt. Der quadratische Complex geht durch die Kugel α’ und
+durch jeden Kugelbfischeh welcher α’ mit einer anderen Complex-
+kugel verbindet (11); er kann durch einen solchen Buschel beschrie-
+ben werden ahnlich wie eine Kegelfl'ache durch eine Gerade. Man
+beweist leicht‚ dass jeder andere durch α’ gehende Kugelbsrschel mit
+dem Complexe die Kugel α’ zweimal gemein hat, dass also α’ eine
+‹Doppelkugu› des Complexes ist. Wir nennen diesen quadrati-
+schen Kugelcomplex einen r singulaeren »3 die Kugelbsuschel, welche
+eine beliebige Kugel α’ mit den Beruhrungsebenen einer Flache
+zweiter Classe verbinden‚ bilden einen solchen singulaeren Complex
+(9). Aul die noch specielleren quadratischen Complexe‚ welche einen
+Buschel oder gar einen Bundel von Doppellrugeln enthalten, gehen
+wir nicht n'aher ein. ⁸
+
+14. Die Doppelkugel α’ des singulaeren Complexes hnbe in
+ihrem Centrum C die Potenz —q, sodass q das Quadrat ihres Ra·
+
+dius bezeichnet. Wahlen wir dann den Punkt C zum Coordinaten·
+Anlange‚ so ist (4):
+
+e',=n'2=a'3=0 und u'4=-—a'0q,
+und die Gleiehungen (13) lfir die Coordinaten der Dpppelkugel gehen
+uber in :
+‘²⁰0 Ξ Μ ² auf» aa = ‘²er, 020 = unq, ‘¹⁸⁰ ²* ‘¹³⁴9‘
+
+Wegen dieser Gleichungen aber wird der quadratische Complex
+durch reciproke Radien vom Centrum C und der Potenz q in sich
+selbst transformirt, oder mit anderen Worten: Der Complex und
+seine Cyclide sind zu sich selbst invers bezuglich der Doppelkugel
+α’. ΝὲίιηῙίοὴ durch die reciproken Radien werden zwei Kugeln α und
+β in einander transformirt, wenn:
+
+ο rr 3r=ql312 dr=qssm ffa=qllrr “r=q²l⁰
+
+ist (S. K. G., N. 177); durch diese Substitution aber geht die Corn·
+
+ 
+

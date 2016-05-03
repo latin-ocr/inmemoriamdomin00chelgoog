@@ -1,0 +1,36 @@
+SUR L‘EQUATION DE RlccATl·
+
+M.r G. DARBOUX.
+
+Mattre dc Constantes t PEcolc Normale· superstare de Paris.
+
+Considorons l’6quation difforentielle
+
+(Ι)
+
+οὺ p, q, r d6signent des fonctions quelconques de x ; je dis que si
+elle admet comme solutions particulikres toutes les racines d'une
+&quation algobrique
+
+(2) s(y)=0
+
+dont les coefficients sont des fonctions de x, elle admettra aussi
+comme solutions particulinres les racines de tous les covariants du
+potynome s( y).
+
+En effet on sait, que l'intkgrale gtne‘rale de l‘6quation (1) est,
+par rapport ὲ la constante arbitraire C, de la forme
+
+(3) fffflsyffl
+
+et par constquent le rapport anharmonique de quatre solutions par·
+ticuliores quelconques sera constant. Cette propri6t6 explique pour·
+quoi l’on peut obtenir l’inttgrale gonoralo y, de l’o‘quation quand
+on connait trois solutions particulikresy1,y2‚y3. 11 suffit d’tgalera
+une constante le rapport anharmonique
+
+y-73 yx'y3
+que forme y avec γι, y„ γ’.
+
+ 
+

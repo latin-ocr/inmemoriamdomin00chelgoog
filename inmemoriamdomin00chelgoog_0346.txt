@@ -1,0 +1,51 @@
+Ueber dic dreifaclzen Serantcn, etc. 297
+
+Die geradlinige Flrche F„ welche von den dreilachen Secan-
+ten der aus F, und F„ erzeugten Schnittcurve C„ gebildet wird,
+schneidet die F, in einer Curve C„ vom Grade 3x. Die C„ ist reducti-
+bel, da einer ihrer Theile aus den 27 Geraden von F„ der andere
+Theil aus der C„ besteht. Was die 27 Geraden anbetrifit, so er-
+n(n-1)(n—2)
+
+1.2 . 3
+n(n-1)(n
+
+1.2. 3
+Schnittpunkte mit F„) und von der C„ wissen wir, dass sie als
+(3 n²—6n -l- 2) sache Curve in F„ erscheint. (Weil so viele Erzeu·
+
+scheint jede derselben mal als dreisache Serante
+
+(entsprechend den 2²) combinationen zu dreien ihrer n
+
+gende von F, durch jeden ihrer Punlrte hindurchgehen). Es ergibt
+sich also zur Bestimmung von x die Gleichung:
+
+27÷rrn²—6n†2›3n
+
+und damit der Satz: Die dreisaclun Seranten der Schnittcurwe einer
+Fldclre dritten Gradcs mit einer Flriclre n“” Grades bilden eine Regel-
+
+striche vom Grade {¹- (3 n — 2) (3 n - 5).
+
+' Lassen wir die F liche dritten Grades F, in eine Ebene E und
+eine Fliiche zweiten Grades F, zerlallen, so kdnnen wir das Schlus&
+resultat in I bestitigen. In der That, die Regelfliiche der dreilachen
+Secanten der Schnittcurve von F, et F„ besteht aus den dreilachen
+Secanten des Schnittes (F„ F„)=c„, den Geraden welche C„
+zweimal und (E, F..) = 6,, einmal begegnen, den Geraden welche C„
+einmal und C„ zweimal trellen, endlich aus den dreilachen Secanten
+von 6,. Die dreilachen Secanten von C„ haben wir in 1 bestimmt;
+die Geraden, welche C„ zweimal, C„ einmal schneiden, bilden eine
+Regelfliiche F, deren Grad x wie solgt gesunden wird: Projicir‘t man
+C, „ von einem beliebigen Punkte der F, aus aul eine beliebige Ebene,
+so erhilt man eine ebene Curve d„ mit zwei n lachen Punkten,
+deren Geschlecht p= (² n '— ἰ) (2² n '⁸ ²) —2 ,ζ’-(ἴ-Ξ-Ι] ist. Demzu-
+solge hat jede, von einem willkiirlichen Punkte des Raumcs aus ge·
+‚nommene Centralprojection der C„ im Ganzen n(n—1) Doppel-
+punlrte und demnach C„ selbst n (n— 1) scheinbare Doppelpunlrte.
+
+(Die Projection der C„ von einem ihrer Punkte aus ist eine ebene
+
+ 
+

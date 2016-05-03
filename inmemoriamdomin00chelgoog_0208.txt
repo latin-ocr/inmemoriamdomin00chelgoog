@@ -1,0 +1,52 @@
+Sapra i sistcmi lineari triplamente irfim'ti, ecc. 159
+
+Presa una retta R qualunquc, da un punto x di essa si pos·
+sono condurre 24 p piani stazionari (14); i coni quadrici polari dei
+loro punti di contatto‚ segano la retta R secondo 48 p punti x'.
+Viceversa‚ la seconda polare di un punto x‘ della retta R (superficie
+dell'ordine N -2) sega la curva parabolica in (4HN÷2p-2) (N-z)
+punti (24); e i piani tangenti in questi punti, determinano sulla
+tetta R altrettanti punti x. Il numero delle coincidenze d'un punto x
+con un punto x', ὲ percio
+
+4(N-2) (Νη-211481·
+
+Ora, poiche la retta osculatrice in un punto parabolico ὲ con-
+tata due volte nella intersezione del corrispondente piano staziona-
+rio col cono quadrico polare del punto stesso, ne segue che ogni
+punto nel quale la retta R ὲ incontrata da una retta osculatrice in
+un punto parabolico‚ assorbira due dei panti uniti snddetti.
+
+Ma vi sono anche pnnti uniti d’altra specie. E noto chela
+hessiana della superficie Σ, passa tre volte per la curva doppia
+della superficie medesima; in un punto qualunque M di questa curva
+doppia, i piani tangenti alla hessiana sono i due piani tangenti alla
+superficie Σ e un altro piano che diremo μ. Vi esulla curva dop-
+pia un numero finito di panti pei quali il piano μ coincide con uno
+degli altri dne piani tangenti. Sia M uno di questi punti; poiche la
+curva parabolica ὲ l' ulteriore intersezione di Σ c della sua hessiana,
+passerb per M. E quando un punto percorrendo la curva parabo·
+lica si avvicina indefinitamente ad M, il piano tangente stazionario
+corrispondente tende a coincidere col piano p corne posizione limite.
+Percib ogni punto del piano μ si pub considerare corne comune al
+piano tangente stazionario e al cono quadrico polare fii M 3 equindi
+il punto in cui il piano p. incontra la retta R, e un punto unito nella
+corrispondenza dei punti x ed x'. Se dunque si indica con ν l' ordine
+della sviluppabile dei pinni tangenti stazionari e con μ il numero
+dei punti M, si avra
+
+ωψμειιω-κ)(ΝΜ-ψη.
+11 nurnerop ἐ subito ottenuto calcolando le intersezioni (oltre
+
+i panti fondamentali e i punti C) delle curve Δ ed H imagini della
+curva doppia e della curva parabolica. Si ha
+
+r==4l211-3)llN-4)12÷31-4b'llN-4lrl1ll2r-1)
+
+. -4(N†4r-⁶-1)
+ossm
+
+a=4(N-2)lN-3)†8rlN-8)†8(⁶-1)·
+
+ 
+

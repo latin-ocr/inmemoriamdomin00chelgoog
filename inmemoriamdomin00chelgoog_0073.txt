@@ -1,0 +1,14 @@
+A. Cayley,
+
+——-
+
+z a‘z²†2b'z÷c'= ax²†2bx†c=
+
+az²†bz a(x†1)²-l-b(x-1)²
+
+6. same as 2, 3, 4 interchanging x and z.
+
+7.
+
+ 
+

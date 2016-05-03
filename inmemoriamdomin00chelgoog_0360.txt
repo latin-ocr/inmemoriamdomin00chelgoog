@@ -1,0 +1,49 @@
+Una sormola fondamentale concernente i discriminanti, ecc. 311
+
+Sia, per esempio‚ m=2. La forma Φ non conterra ξι, ξι e
+sara precisamente il determinante sopra indicato.
+
+Sia m=3. La Φ sara del terz’ ordine. Formato di essa il
+covariante cubico, si avranno i tre invarianti sinrultanei
+
+Uffl„ nen ΦΘΦ
+
+il primo dei quali sara il k.
+Sia, per ultimo, m = 4. La Φ sara del sest'ordine. Formisi il
+corariante biquadratico Q della medesima
+
+Q=nQ;
+quindi i due covarianti P, L
+P=fflQb L=nQn
+
+ii primo del sesto, l’altro del second’ordine. Si sormi poi il cova·
+riante Θ
+
+θεψω,
+
+il quale sara del sest’ ordine, e del sesto grado rispetto ai coeffi·
+cienti di Φ, e quindi del sesto riguardo ai coefficienti delle s, χ, ψ
+separatamente, e cumulativamente del 18⁰ grado. Colla s forrnisi il
+covariante
+
+⁰=UQ
+
+essendo h l’Hessiano di f; θ ὲ del sest'ordine, e del terzo grado
+nei coefficienti di s. Sara finalmente
+
+k=oeQ‚
+
+invariante simultane'o del 21⁰ grado; cioe del 6· nei coefficienti di
+ciascuna delle Ὺ, ψ e del 9⁰ in quelli di s.
+
+La sormola (8) si mostra particolarmente seconda di conse·
+guenze nel caso in cui l’equazione (1) si supponga algebricodiffe·
+renziale. Aliora le funzioni φο, φ’, . . ., φ, si possano ritenere raaia
+nali, intere e prime tra loro, e quindi intero anche il moltiplicatore θ.
+Tuttavia le applicazioni, che presi a farne per quando m sia mag·
+giore di 2, non le ho potute finora condurre a tal grado di compi·
+rnento da credetne opportuna la pubblicazione. Percib qui nri limito
+a ricordare ai lettore le applicationi relative ai eaeo di m=2, con·
+
+ 
+

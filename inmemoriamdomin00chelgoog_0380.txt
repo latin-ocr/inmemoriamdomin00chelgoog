@@ -1,0 +1,53 @@
+Sur' rirorrrerrtr' obliqui di urr sr'sterrra dr' prrrrtr', ecc,
+
+e, come precedentemente, si dimostra che quando il sistema S e
+piano, se tutt'i punti che lo costituiscono non sono al·
+lineati in una retta,· ad assi orrfssnuurr corrispondono on·
+Fssttssurl centri di 2.⁰ grado,
+
+6. I piani,passanti per A hanno i loro centri di
+2.⁰ grado in α. - Insatti'sia β un piano per A, B il suo centro di
+2·.⁰ grado, ' yi la sua distanza dal punto οί (ι’ = 1, 2,...n) esi sormi ia
+somma Συιμηγ, (momento dr' deuiazr'orre di S relativo ai piani α, ss)
+estesa a rutt’i punti dei sistema. Siccome
+
+xnnrrffyi :Eion rr) W‘E M, ys
+
+ὲ il momento statico dei punti (ΜΛ rispetto al piano β e β passa ’
+per A, centro di 1.⁰ grado di questi ponti, sarii (n.⁰ 3):
+
+Σ νη, ω’,- = 0 ;
+ma, posto M: noy„ ὲ pure
+Σ nn ω’,- = Σ (m‘y‘) κς -- Σ N,· x.·
+
+uguale al momento statico dei punti ομΝι rispetto al piano α; e
+poiche questo momento'e nullo (n.⁰ 3) α passa per B, centro di
+1.⁰ grado dei puoti ο, ,M Se due piani contenenti ciascuno il cen-
+tro di 2.⁰ grado deli‘altro si dieono conjugati, si ὲ cosi dimostrato
+che it momento di deviazione dei punti narn relativo a
+due piani conjugati ὲ nullo.
+
+In simil modo si'dimostra iltteorema inverso: se il momento
+di deviazione Errnrffyfl relativo a due piani ὲ nullo, i
+due piani' sono conjugati.
+
+7. Di quisi raccoglie inoltre: il centro di 2.⁰ grado di nn
+piano& l’inviluppo di tutti i suoi piani conjugati. Esic-
+come, quando il sistenia Se gobbo, i differenti piani passnnti per
+Α hanno centri di 2.⁰ grado differenti (η,ο 5), e situati in r. (η.0 6),
+in quest’ipotesi si ha anche il teorema reciprococioe: un piano
+(punteggiato) e'il luogo dei centri di 2.⁰ grado di tutt‘i
+suoi piani conjugati.
+
+8. Per conseguenza quando il sistema S dei punti n. νηί ὲ gobbo‚
+i piani e i punti dello spazio si corrispondono rrrrr'vocarrrente per modo,
+che se quelli descrivono una stella intorno a un punto· A, questi sni
+corrispondente piano rr descrivono un sistenra puntegginto, valea
+dire i piani z e i relativi centri di 2⁰ grado Α sono gli elementi cor·
+rispondenti di due spazii reciproci projettivi. E poiche a un pianoiss
+passante per A, corrisponde un punto B di 23 e a un pinno γ
+
+passante per Hir, corrisponderun punto Cdella retta ἵξῃ e finnl-
+
+ 
+

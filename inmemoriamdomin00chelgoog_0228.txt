@@ -1,0 +1,58 @@
+Intorno ad una generalizzazione di alcuni teoremi, ecc. 179
+
+il circolo di raggio zero ed allora tutte le trajettorie, qualunque
+sieno h e k, hanno in F un iuoco. In particolare questo succede se P
+
+ὲ della forma tls„ per m > 1.
+
+4. Passiamo ora a considerare il caso di due integrali
+’ Aennn†c<=n
+A1x'†B,i'†C1t'=b1·
+
+della forma (ι). Perche possano coesistere, le linee d’azione della
+iorza dovranno appartenere a due complessi linearis), ΩΙ e quindi ’
+
+saranno raggi della congruenza da essi determinata. Conrbinando
+ira loro i due integrali si ottiene
+
+(hlA-lnAllx' -l-(lJIB-lr 1311110116- h Cxlz'=0,
+
+e per conseguenza
+le trajettorio apparterronno od nn complesso lineare contenente la
+congnnnzn.
+
+Variando le circostanze iniziali‚ si pud iare in gulsa che esso
+sia uno qualunque del fascio Ω, ΩΙ. In particolare i raggi della con-
+gruenza possono essere trajettorie.
+
+Le componenti della sorza saranno espresse per
+
+x=offle-nm‚r=onn-qn,z=onn-nn
+
+dove Θ ὸ una funzione arbitraria degli elementi del moto.
+
+Osserviamo ancora che
+
+nno curvo apportonnte nd nn corrrplcsso lineare Ω pud sompno cs-
+sero liberamento descritta do nn pzrnto materiale sollecitoto da tino sorno,
+lc cni liner d'ozione sieno rette di nna congruenra lineare contennto nel
+complesso. A
+
+insatti oltre al complesso dato Ω, considerisi un altro 91² per
+un teorema giis dimostrato la curva puo essere liberamente descritta
+da un punto sollecitato da una sorza, la cui linea d'azione varii nel
+complesso Ωιι nra la iorza ὲ contenuta nel piano osculatore alla
+curva, e questo ha il suo polo rispetto ad Ω nel punto stesso della
+curva: quindi le linee d’azione della iorza sono rette comuni a' due
+complessi Ω ed 0¹.
+
+Nel fascio esistono due complessi speciali aventi per assi le
+direttrici della congruenza: rispetto a queste direttrici, e aqueste
+direttrici soltanto‚ ha luogo il teorema delle aree inteso nel senso
+ordinario. Quando le due direttrici sono immaginarie, i due integrali
+
+sono immaginari coniugati e dalla loro combinazione nascono due
+integrali reali, che pero non hanno piis il carattere degli integrali
+
+ 
+

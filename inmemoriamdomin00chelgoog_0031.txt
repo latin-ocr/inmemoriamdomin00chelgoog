@@ -1,0 +1,59 @@
+XVI E. Beltrami,
+
+-—- ——-——————— .. ----·—-——-—-..— ...ἡ
+
+dove
+dX—qxdx &Xdy32Xdz
+
+— -- -- —--,ecc.
+
+’⁸ tls by dsssffla ds
+
+cos θ
+
+- Ora il primo membro dcll’equazione derivata equivale a --, p es·
+
+sendo il raggio di curvatura della linea s e θ l'angolo dhe questo
+
+raggio fa colla normale alla superficie; il secondo membro ha uno
+stesso valore per tutte le linee tracciate sulla superficie che hanno
+in comune il punto considerato ela tangente in questo punto. Dun-
+que la quantita
+
+cosl — chdx dl'dy chlz
+7-‘la-sazll-satlffi 11)
+
+ha uno stesso valore, nel detto punt0, per tutte queste linee ¹ed ὲ
+espressa nel modo indicato dalla formola. Questa proposizione, cosl
+enunciata e tradotta in equazione, pud servire di base a quasi tutta
+l‘ ordinaria teoria della curvatura, senza bisogno d’ipotesi particolari
+sulla posizione e direzione degli assi ne d'altr0.
+
+Quasi contemporaneamente CHELINI dava, in altro lavoro, le
+Dimoslrasioni geometriclte delle trasformazioni degli titlegrali mulltpll
+relativi alle superficie ed ai volumi, stabilendo molto speditamente
+le formole di quadratura e cubatura in coordinate curvilinee ortogo-
+nali. L'artifizio di cui egli si vale ὲ semplicissimo e consiste nel porre
+l’equazione differenziale della superficie che si deve quadrare, oche
+limita lo spazio che si deve cubare, sotto la forma
+
+¹¹1dsrll'2d52lss3d532'0
+
+dove sl, s„ 53 sono le linee d‘intersezione delle superficie ortogonali
+Il significato semplicissimo che assumono i coefficienti 11¹, ¹¹2³ ll3 per-
+mette di stabilire immediatamente le riehieste formole, che l’Autore
+applica alle coordinate cartesiane, alle polaril ed alle ellittiche. Alla
+fine della Memoria egli si vale del principio di affinita per dedurre
+alcune lonnole integrali relative all‘ellissoide dalle analoghe relative
+alla slera.
+
+In un successivo breve lavoro, intitulato 'seorcmi relativi alle
+linet di curvatura e geodeticlze sopra i paraboloidi, CHEanr diede
+(senza dimostrazione) le formole integrali per queste linee, e stabill
+
+⁸ Rispetto a queste va corretto un errore sluggiro al Cnsunr nell‘interpre·
+tatione geometrica di una delle variabili, errore che non iuflulsce pero sui ri-
+sultati.
+
+ 
+

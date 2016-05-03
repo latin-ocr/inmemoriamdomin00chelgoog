@@ -1,0 +1,35 @@
+⁰ Constructions planes des bliments, el. 93
+
+---.--- -- -i.—-.--.-—-—--——--- .-...— -——-—.-.-—.--
+
+Prenons l'angle droit (G, G) et sa bissectrice n o (fig. ι).
+
+Βέρίεςοηε cet angle d'e saqon que G engendre (G), que n do·
+crive la ligne d'intersection des suriaces (G) et (G) et que la droite no
+passe toujours par le point o: alors G¹ engendre (6¹). Nous obte-
+nons ainsi la suriace (G) engendroe par une droite 6¹, qui fait partie
+d‘une figure mobile de grandeur invariable.
+
+Pour un de'placement infiniment petit de cette figure, le plan
+(G, 6¹) a une caractkrisque. Cette droite passe par le point fixe o
+et respectivement par les points a et a„ οὺ le plan mobile touche
+les suriaces (G) et (6,), Donc: les points de contacta, a¹ du plan
+(G, 51) avec les surfaces (G) et (Gz) sont sur une droite qui passe par
+le point o.
+
+Ainsi, il suffit de joindre le point 0 au point α, οὺ le plan
+(G, 6) touche (6), pour avoir une droite qui donne, sur Gt, le point
+a¹ οὺ le mime plan touche la suriace (6¹). Nous obtenons un pre·
+mier point a„ pour lequel nouoconnaissons la normale ὲ (G).
+
+Soits le foyer du plan mobile (G, (ᾗ). Ce point est sur la
+perpendiculaire o f ὲ 0 n, puisque la droite on passe toujours par le
+point o. Projetons f en b et b¹ sur Get 6¹. Le plan (G, (ᾗ) est nor·
+malo (G) etio (G) en ces points b et bl. Les points 0, f, b, n, b¹
+sont sur une circoniorence docrite sur f n comme dianiktre.
+
+L'angle b o b¹ est alors droit. Le point b¹ est donc dans la po·
+sition que prend b lorsque G est veno en 6„
+
+ 
+

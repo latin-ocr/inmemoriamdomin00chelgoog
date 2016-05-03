@@ -1,0 +1,48 @@
+L’iperboloide centrale, ecc.
+
+Sl.
+
+Siano AB CO i· quattro punti dati, ed 0 il punt0‚ in cui deb
+bono intersecarsi i tre piani drtogonali passanti per A, B, C. Siano
+x1y121, x, y, z„ x, γ, z, le coordinate di questi tre punti rispetto
+a tre assi ortogonali arbitrari passanti per 0, ed i quali per fissare le
+idee supportemo cos] disposti: Oy ed Oz orizzontali, Ox verticale
+all’ingih. Indichiamo poi con (A) (B) (C)i tre piani richiesti. Icoef·
+ficienti delle equazioni di tali piani dovranno soddisfare alle condizioni:
+
+(a,x14b2y,†c,z1=o a2a,†b2b3†c,c3=0
+(¹) “²x²-†b²)'2 'l's222 =0 (²) '⁰³⁰¹ †b³b1 -1-c,c1‘.-=o
+a3x,†b3y3†c323=0 axa2†b,b2†c1c2=0.
+
+Immaginiamo da un punto Q, arbitrario sull’ asse Oy, tirata una
+
+tetta parallela ad Ox. Essa incontrer& i piani (A) (B) (C) in tre punti
+A'B' 0 3 e se noi poniamo
+
+OQ=v, QA'=r„ QB'=r„ QC'=r3,
+le coordinate di A' B' C ‘ saranno rispettivamente
+r„v,o; r2,v,0; r„v,0.
+
+Onde le equazioni dei tre piani si potranno scrivere nel seguente
+- modo:
+
+κν w w
+myst, =0, ΜΛ, =0, ψῃ, =0. Α
+
+nvo nvo nvo
+
+Quindi per le (1) avremo
+
+a22b22c2=—vz2:r2222vx2--ny2
+
+{osthus-vntum:vm-nyx
+(³)
+
+a‚:b,:c,=—vz3 :r3z32vx‚—-r3y,
+e da queste per le (2)
+(θ’ ’14κῖΜῆ '¹' (Νι-ΥιΪιΝΜῑ-Γύᾎ) ²0
+(4) (v'†'³71)⁸³²1†(²¹x³‘73y³) (²¹71-71)'1)=0
+(v2-l-r, Ιν,)ι,τ,-1-(υιτ,-ν,γ,) (νη-νώ) =0.
+
+ 
+

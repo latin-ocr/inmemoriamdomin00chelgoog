@@ -1,0 +1,35 @@
+> Sur deux algorithmes analogues etc.
+
+Soient m,n deux quantites positives, et posons
+
+de sorte que l’on a ⁴
+n² —m² =4 (n,² — m¹²)=16(n,²- ms) = . . .;
+
+les quantites m„ m convergeront pour des valeurs croissantes de i
+vers la meme limite ω.
+
+Designons par f(m‚ n) une fonction qui reste invariable‚ lorsqu‘on
+templace m, n ρετ m„ τό elle sera necessairement fonction de ω
+seul. Soit
+
+entre μ, ν et fa„ ν1 on aura les deux relations lineaires
+
+4e=2e,†-‚}2-v1‚
+
+4v=2e1†(;}¹¹·†23⁷'7‡)⁹1
+
+Ἴ τιετημ-Ι-ηνεαῙ--τηιμι-Ι-ττῐνι.
+
+Mais la fonction lineaire u=m}2†nv de μ, ν n'est pas la
+seule qui reste invariable lorsqu'on templace m, n, μ, ν ρετ m„ nl,
+μι, ⁹1· Une seconde fonction
+
+v = ττμ -}- mv
+a une ρτορτὶέτέ analogue exprimee ρετ l’equation
+nv=n(n}2†mv)=n¹v1=n,(n1ffi†mlv).
+
+Comme u et v sont, de meme que ω, des fonctions homogenes de
+m, n, on peut definit par les equations doubles suivantes les ex
+
+ 
+

@@ -1,0 +1,41 @@
+UNA CERTA SUPERfflcffi' DI QUART'ORmNE.
+
+MEMORIA
+
+D!
+unul cREnoNA
+Ι Dircnore della R. Scuola d'applicazt'onc per gl’ingcgneri a Roma.
+
+*—
+
+1. Due fasci projettivi di superficie di 2.⁰ grado
+2†xg=o
+83 -Ι- λ 54 = 0
+
+generano, cotp'& noto, la superficie di 4.⁰ ordine
+
+(2)
+
+(Ι)
+
+(3)
+
+Ne segue che sulla superficie (2) sono tracciate due serie (sem-
+plicemente infinite) di curve generatas, le quali, in generale, sono
+di 4⁰ ordine e 1.a specie. Una generatrice qualunque della prima
+serie ὲ rappresentata dalle equazioni(1), una qualunque della seconda
+dalle (3).
+
+2. Suppongasi ora che tutte le superficie di 2.⁰ grado S ab·
+biano un punto comune 0 ed in esso siano toccate da uno stesso
+piano x = ο. Ossia, indicate con x, y, z, w le cqordinate omogenee
+di un punto nello spado, e supposto che le prime tre siano nulle per
+
+0, si ponga
+S,=k,wx † K„
+
+dove k ὲ una costante e K ὲ un polinomio omogeneo di 2.⁰ grado
+m x, y, ζ.
+
+ 
+

@@ -1,0 +1,48 @@
+Ueber qrradratisclze Iiirgelcomplexe und confocale Cycliden. 255
+
+buschels in der Punktlrugel des Gebiisches tangiren. ledes andere
+Kugelgeblisch wird von einem einzigen Complexe der Schaar be·
+ruhrt (vgl. 17). Diejenigen sunl Complexe der Schaar, welche den
+singulaeren Complexen des Buschels entsprechen, reduciren sich aui
+quadratische Kugelcongruenzen; sie bestehen aus den Kugeln, welche
+die Cyclide des Buschels doppelt beriilrren und zu je einer von den
+Doppelkugeln α’ der liinl singulaeren Complexe normal sind (24).
+Die funs Focalcurven dieser Cyclide sind der Ort aller Punktkugeln
+von je einer der runs Congruenzen. Die Complexe der Schaar und
+ihre Cycliden sind bezllglich der n'amlichen sunl Kugeln α’ zu sich
+selbst invers, wie die Complexe und die Cyclide des Buschels (23).
+
+28. Die Gleichung (8,) ist lllr den Paranreter l„ von vierten
+Grade; durch eine beliebige Kugelll gehen deshalb vier Complexe
+der Schaar. Das Kugelgeblisclr, von welclrem β die Ortlrogonalkugel
+ist, wird lolglich von vier Complexen des Buschels beruhrt‚ und
+zwar ist das Gebusch in Bezug auf jeden dieser vier Complexe die
+Polare der zugehdrigen Beruhrungskugel. Die vier Bertlhrungslrugeln
+sind demnach paarweise conjugirt in Bezug aul je zwei der vier
+Complexe, also auch bezuglich des Complexbuschels (18); sie sind
+lolglich zu einander normal (19) und bilden mitll zusammen eine
+Gruppe von luni zu einander rechtwinkligen Kugeln. Auch die vier
+Kugelgebusche, deren Orthogonalkugeln sie sind, sind somit zu
+einander normal, und da sie die vier durch β gehenden Complexe
+der Schaar in (2 berllhren, so kdnnen wir sagen: Die.vier durch eine
+beliebige Kugel (2 gehenden Complexe der Schaar (8,) sind in β zu
+einander norrnal.
+
+29. Isth eine Punlrtkugel, so ist von den vier durch β ge·
+henden Complexen der Schaar (Β) einer der Punktkugelcomplex,
+und die Polare von β bezuglich desselben hat eine mit β zusammen·
+fallende Orthogonalkugel. Die Orthogonallrugeln der Polaren νοηβ
+bezuglich der flbrigen drei Complexe schneiden sich rechtwinldig im
+Punkte β,’ und weil jede von ihnen' die Cyclide des zugehdrigen
+Complexes in β berulrrt (25), so ergiebt sich: Die drei durch einen
+beliebigen Punlrtll gehenden Cycliden der Complexe (8,) schneiden
+sich rechtwinklig in β. Die sammtlichen Cycliden der Schaar (Β)
+bilden demnach ein System orthogonaler Cycliden, und zwar ein
+beliebigeS, weil eine dieser F liichen nebst dern zugehdrigen Corn-
+plexe willkllrlich angenonrmen werden kann (21). Nach DUPIN‘s
+Theorern schneiden sich die orthogonalen Cycliden in ihren Krum·
+mungslinien, und letztere sind solglich algebraisch. Funs dieser or·
+thogonalen Cycliden reduciren sich aul sphaerische Raumcurven
+
+ 
+

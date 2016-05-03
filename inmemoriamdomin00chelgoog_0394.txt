@@ -1,0 +1,46 @@
+Sulla teoria degli assi di rotazione.
+
+dove x, y, r sono le coordinate di un punto qualunque del piano in
+cui giaciono tutti gli assi permanenti, la direzione dei quali ὲ defi-
+nita dai rapporti p : q ε r. Quando si sa variare solamente κ, il punto
+si sposta lungo uno stesso asse permanente ; quando si sa variare so
+lamentet, esso passa da un asse permanente adun altro.
+
+Cosl, se con μ e ν s'indieano due altre quantita indeterminate,
+l’equazione (5) da
+
+opp,
+
+affligi-jv,
+nuru
+
+dove x, y, z sono le coordinate di un punto qualunque del piano
+in eui giaciono tutti gli assi di percossa la direzione dei quali ὲ
+delinita dai rapporti u : v : w. Quando si la variare solamente p, il
+punto si sposta lungo uno stesso asse di percossa; quando si la va·
+riare solamente ν, esso passa da un asse di percossa ad un altro.
+Se con z„ x„ κ, s' indicano i valori di κ corrispondenti ai punti
+in cui un asse permanente incontra i tre plani principali del bari· Ι
+centro x=0,y=0, (ΞΟ, siha
+
+x2:z,:z,=a²:b²:c',
+
+eppero il rapporto dei due segmenti determinati sull‘ asse permanente
+dai detti tre pieni, ovvero il rapporto enarmonico dei quattro punti
+in cui l’asse permanente incontra i tre piani suddetti e il piano al·
+l'infinito, ὲ dato da
+
+Questo rapporto ὲ dunque costante per tutti gli assi permanenti e
+non varia se ad α’, b’, ι’ si aggiunge una stessa quantita. Ne segue
+che gli assi permanenti di qualunque corpo formano un complesso
+tetraedrale i cui piani fondamentali sono i piani principali del corpo
+e il piano all’ infinito. Tutti i corpi che, avendo a comune il bari·
+centro e gli assi principali, hanno ellissoidi centrali omocicliei‚ pos·
+seggono l’identico complesso di assi permanenti. L’equazione di que-
+sto complesso ὲ l'equazione (2) sotto la condizione (ι).
+
+Cosl‚ se con p„ p„ p, s’ indicano i valori di μ corrispondenti
+ai punti in eui un asse di percossa incontra i tre piani principali del
+
+ 
+

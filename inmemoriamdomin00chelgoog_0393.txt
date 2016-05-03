@@ -1,0 +1,51 @@
+344 E Bellrami,
+
+,ae-...-...-—.- -- .-. --...... ⁴ --. ——- ——
+
+formata colle componenti di rotazione. Di queste due ultime eqna-
+zioni (4), e (5),, che risnitano direttamente dalle (ι),, e rispettiva·
+mente dalle (2)„‚ moltiplicando ordinatamente per x, y, (ε sommantio,
+la prima rappresenta il piano condotto per il baricentro normalmente
+alla direzione del moto di questo punto, e la seconda rappresenta
+il piano diametrale dell'ellissoide centrale coniugato alla direzione
+dell’asse di rotazione. Questi due piani sono perpendicolari fra loro (2).
+
+Da quanto precede risnlta chiaramente chela doppia ipotcsi
+· rappresentata dalle eqnazioni (ι) e (2), oppure dalle eqnazioni (3),
+impone nna condizione necessaria tanto ail’asse di rotazione quanto
+all’asse d’impulso. 11 primo diventa cid che si chiama un asse pcr-
+manentc, il secondo cio che diremo nn asse di porcessa. Le direzioni
+di due assi corrispondenti‚ di rotazionee di percossa, sono al tempo
+stesso fra loro perpendicolari (1) e coniu cate (2) rispetto ail‘ ellissoide
+centrale, sono, cine, le direzioni dei due assi di una sezione piana
+del detto ellissoide.
+
+Il punto in cni nn asse permanente ἐ incontrato dai piano ad
+esso perpendicolare‚ contenente il corrispondente asse di percossa, si
+chiama centro di permanerem il punto in cuiun asse di percossae
+incontrato dal piano ad esso perpendicolare‚ contenente il corrispon·
+dente asse di rotazione, si chiama centro di porcessa. Le eqnazioni dei
+· dne piani ora menzionati si ottengono moltiplicando ordinatamente
+
+per pto—ro, ru-pw, pv—qu
+
+tanto le eqnazioni (2)ιι quanto le eqnazioni (1)0, esommando ciascuna
+volta. Si ottiene cosi, nel primo caso, l’equazione
+
+Ρ t r
+(ὁ) (ρκψᾳγψνωοιᾊνᾏωυε u v ω,
+ια’( th θ’(
+
+e, nel secondo caso, l’eqnazione (44..
+
+Dalle dne eqnazioni (4), (5( si deducono le formole segmenti,
+che devono considerarsi come fondamentali nella teoria degli assi
+permanenti. ⁵
+
+Se con κ e λ s'indicano due qnalita indeterminate, l’equa-
+aione (4) d'a
+
+(tt
+
+ 
+

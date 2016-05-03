@@ -1,0 +1,38 @@
+UEBER QUADRATISCHE KUGELCOMPLEXE
+UND CONFOCALE CYCLIDEN
+
+THEODOR lem
+
+Professor an der Universitdt Strassburg.
+
+1. In der neueren Kugelgeometrie erweist- sich der Begrifs des
+Normalen ais ausserordentlich fruchtbar. Wir legen ihn den Defini-
+tionen der linearen Kugeisysteme zu Grunde, indem wir sagen: Die
+Gesammtheit aller KugeIn, welche drei resp. zwei beliebige Kugeln
+rechtwinklig schneiden, heisst ein Kugelbiischel resp. Kugelbiindel,
+und alle zu einer gegebenen Kugel (der Orthogonalkugel) nor·
+malen Kugeln bilden ein Kugelgebiisch. Zwei Kugelgebiische haben
+demnach allemal einen Kugelbiindel mit einander gemein, und drei
+beliebige Gebiische‚ oder ein Kugelbiindel und ein -Gebiisch durch·
+dringen sich in einem Kugelbiische13 auch ergiebt sich leicht, dass '
+zu jedem Kugelbiischel ein Biindel orthogonaler Kugeln gehdrt,
+und dass ein Kugelgebiisch oder ·Biindel jeden Kugelbiischel ent·
+halt, welcher zwei seiner Kugeln verbindet. Aus den Begrifs des
+Norrnalen griinden wir ferner einerseits das wichtige Princip der
+reciproken Radien (die Inversion)‚ anderseits die Polarentheorie der
+Kugel und des Kreises*, indenr wir von der Definition ausgehen:
+Zwei Punkte heissen einander zugeordnet und liegen invers bezii·
+glieh einer Kugel k, wenn jede durch sie gehende Kugel zu k normal
+ist. Auch die fundamentale Theorie der harmonischen Gebilde mit
+ihren vielfachen Anwendungen ldsst sich unmittelbar aus den Be·
+griff des Normalen zuriickiiihren; denn vier Punkte eines Kreises
+
+¹¹ Vgl. Rern, Syntheiische Geomeirie der Kugein und limaren Kugclsysteme,
+Leipzig, 1879, §3 3 und 7. Im folgenden citiren wir diese syntirciischc Kugeigco-
+metrie mit S. K. G.; eine Italienische Uebersetzung derselben hat Prof. Mrsnnr
+soeben bei Hoepli in Mailand herausgegeben.
+
+niz
+
+ 
+

@@ -1,0 +1,49 @@
+Sulla teoria degli assi di relazione. 357
+
+si seorge che le sezioni latte nella cubica dai plani K=costantq
+eloe dai piani perpendicolari agli assi di rotazione, sono circonsc-
+renze che hanno i loro centri sull'iperbole equilatera
+
+eche sono tangenti al piano n=0. L’esistenza di queste sezioni
+circolarie una conseguenza necessaria del latto che tutte le super·
+ficie eilindriche (18), contengono i punti ciclici del piano ζεο.
+Questi punti ciclici sono punti doppii della cubica.
+
+Dall' essere un'iperbole equilatera la linea dei centri delle sud·
+dette circonlerenze segue che sono pure iperbole equilatere le se·
+zioni della cubica eoi plani passanti per la retta E (prescindendo
+da questa retta stessa). Quella, lra queste iperboli, che giace nel
+piano di simmetria ξ-ιο, ὲ stata gia incontrata precedentemente
+corne luogo dei centri di permanenza degli assi permanenti di dire·
+zione E. ⁴
+
+Colle nuove coordinate ξ, n, ζ l'equazione del piano (5)„ in ¹
+cui stanno tutti i'centri d’ impulso, diventa
+
+(21) nlWTrP÷Ht=o
+
+Le due superficie (20).e (21) non hanno in comune altri punti reali
+che quelli della retta ηεξ = 0, eloe della tetta F.
+
+Se lra le coordinate di due punti (ξ, n, ζ), (ξ’, η’, ζ’) dello spa·
+zio si pongono le relazioni ' ’
+
+ε’2
+
+si ottiene una corrispondenza univoca involutoria‚ in cui la cubica
+(20), edil piano (21) sono superficie corrispondenti. La cubica (20),
+viene cosl ad essere rappresentata sul piano (21) in gulsa che ogni
+punto della cubica, considerato come centro di rotazione‚e rappre·
+sentato dal corrispondente centro d¹ impulso, e viceversa. Questa cor·
+relazione non ὲ, in londo, che quella da cui dipende la reciproclta
+a due a due degli assi di rotazione paralleli.
+
+Si potrebbero trattare, in modo analogo, altre¹ questioni relative
+a luoghi geometrici di centri d'impulso: ma preleriamo rimandare
+il lettore ai lavori del prol. ΤυκΑΖΖΑ, il quale ha considerato pa·
+recchi casi dei piu importanti. Ci limitiamo ad aggiungere alcune
+formole, ricavate dalle precedenti, ed atte ad agevolare queste ri·-
+cerche.
+
+ 
+

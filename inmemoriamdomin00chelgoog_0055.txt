@@ -1,0 +1,35 @@
+L’lPERBOLOIDE CENTRALE
+
+NELLA ROTAZIONE DE'CORPI
+
+F. sllccl.
+
+-ς
+
+Quando un corpo nm animato da some gira intorno ad un punto
+fisso, un iperboloide legato ad esso ed avente per assi gli assi princi·
+poli del corpo rispem a quel punto, romola senza strisciare sopra un
+cilindro circolare retlo coll ’asse passante pel punto fisso e parallelo a
+quell o dell a coppia d‘tmpulso. Se A, B, Csono τ momenti principali
+d'inerzia del corpo rispetto al punto fisso, F ὲ la sua sorra viva, G
+la coppiad' impulso, iquadrao degli ass ι 'ldel ’iperboloide sono moer·
+sumente proporzimali a 6²-2AF, G²—2BF, 62-26F.
+
+Se il momento medio eguaglia G ²:2F, il rispetlivo asse si man·
+tiene parallelo ad una mlta legata ‚ol corpo, cle si sviluppa sopra una
+catenario trocciata sul cilindro fisso.
+
+Questi ed altri teoremi relativi alla rotazione del corpi io
+mi propongo dimostrare in questa‘ Nota. Indicherb anche lavia che
+mi ha condotto ad essi, cheb la soluzione del seguente problema:
+ι Dati quattro punti tirar per uno di essi tre plani ortogonali tra
+1010, e che passino rispettivamente per ciascuno degli altri tre.»
+Questo problema s'i riduce facilmonte a quest’ altro risoluto dal Pon·
+celet: ‹Dati in un piano due triangoli, costrume‘un terzo inscritto
+nell’ uno e circoscritto all' altro. Ma ιο proscindet& dalle soluzioni
+
+geometriche, avendo solo m mira, riguardo a tal problema, le lor·
+mole risolventi di esso· ’
+
+ 
+

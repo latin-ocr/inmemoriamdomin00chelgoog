@@ -1,0 +1,45 @@
+Sugli assi di equilibrio.
+
+ciascuna delle (25) pel fattore:
+lt=1†>-²†e·²†v‚
+
+il quale risulta eguale ad: -I—*, e diventa quindi infinito per
+
+cos² Ξθ
+2
+
+6= (2 n -{- 1) π. Onde anche conquesto metodo non potevasi avere
+13 determinazione degli assi principali d’equilibri0‚ E quinon trovo
+inopportuno notare come le accennate relazioni del RODRIGUEZ,
+valevoli ad individuare 13 rispettiva posizione di due terne di assi
+ortogonali, diventano illusorie quando una di queste ottengasi me-
+diante una semirotazione dell' altra intorno ad una retta qualunque.
+Questo inconveniente non presentano le analoghe formule di trasfor-
+mazione dovute 3 MONGE, le quali sono pure razionali, ma intere,
+o quelle trascendenti notissime di EULERO.
+
+Le equazioni (25) possono servire 3113 ricerca degli assi prin-
+cipali d'equilibri0‚ quando si sostituiscano in esse i valoti dei nove
+coseni espressi per mezzo dell’angolo θ e dei coseni di direzione
+dell'asse, l, m, n. A tal uopo converri ricorrere alle seguenti rela-
+zioni, stabilite la prima volta da EULERO‚ e di cui una dimostra-
+zione elementare venne da me data in altra occasioneff:
+
+a¹=2i²sen²gfi -1- cosi, b1=2lmsen²;—O-nsen6,
+
+a2=2iittsen²}t†rzsen0‚ b2=2ni²sen²;-O† cose,
+
+n3=2in sen²}O-msen0, b3=2mnsen²2—O†isen6‚
+
+ιιι-2135332 {tssnzsenn
+²1
+
+c2=2mnsen36-l sent,
+
+Fatte le sostituzioni‚ tenuto conto delle (8), ed usando delle deno-
+
+· Bn1oscn1, La Stniica dei sistenti di forma iiwnrinbiie. Nota agginnta.
+⁰ Reudiconti del R. Istituto Lombnrdo. Serie 11, vol. 11, 1869.
+
+ 
+

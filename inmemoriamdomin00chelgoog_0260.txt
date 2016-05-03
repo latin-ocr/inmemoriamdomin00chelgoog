@@ -1,0 +1,31 @@
+Sur deux algoritkmcs analognes etc. 211
+
+mais cet algorithme se reduit immediatement au pr6c6dent en pqsant
+
+M=m, Νέπ-
+m
+
+ce qui conduit ὲ
+
+M=Q‚M=n
+
+Pour m<n l'algorithme (1) contient la tegle connue pour
+calculer les circonf6rences des polygones ὲ 2p εόῑέε inscrits et cir·
+conscrits ὲ un cercle donne, ces circonf6rences &tant connues pour
+les polygones ὲ p cates.
+
+En posant
+
+la limite ω se rkduit ὲ
+
+R
+
+0)=-.
+
+φ
+Si, en particulier‚ on ἰείη designant un nombre entier,
+
+valgorithme (ι) confluit a ιε limite ¹
+
+ 
+

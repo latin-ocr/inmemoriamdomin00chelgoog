@@ -1,0 +1,49 @@
+Sulle curve gobbe ranionali del 5.⁰ ordine. 319
+
+Ρυὸ notarsi che, delle curve esistenti sopra S, tutte quelle di
+ordine inferiore a 10 sono razionali, si appoggiano in un punto a
+ciascuna trisecante (arbitraria) ed hanno Q per quadrisecante, tranne
+una classe di curve (razionali) di nono ordine che incontrano Q in
+otto punti e ogni trisecante in due.
+
+cometen crnoursecnnsr omn Qunmcn m 1.² SPECIE.
+
+11. Sia· C² u‘na conica cinquisecante di C5¹. Essa non pud gin·
+cere sulla superficie S (n.⁰ ιο) e perd incontra questa superficie in
+un punto pel quale passeri una trisecante T. Le superficie del 39
+ordine che contengono (ἶς’, C„ Tiormano un sistema lineare sem-
+plicemente infinito, cioe un [ascio p. La curva base del [ascio ὲ .
+composta di (15¹, C„ T e della quadrisecante Q. Onde queste quattro
+iinec sono segnia da un piano arbitrario in nove panti base di un fascio
+di cubiche. Segne che per un punto dello spanis passa una sola conica
+cinquisccante appoggiata ad una trisicante, giacche in ogni piano con-
+dotto per il punto esiste, per la proprietit precedente, un nuovo punto
+della conica. , ’
+
+12. La sezione prodotta nel fascio pdal piano π della conica
+C² ὲ (oltre Ca) un [ascio di rette avente il centro nel punto π Q Un
+piano arbitrario πι che passi per questo punto sega quindi π inune
+retta appartenente ad una superficie del fascio p eper consegnenza
+taglierii inoltre questa superficie in una conica cinquisecante di C5¹
+e appoggiataa T. Reciprocamente, avendosi una tal conica, il suo
+piano n¹ sega il fascio p in un fascio di cubiche‚ del quale, essendo
+sei punti base su qpella conica, i tre punti base residui, cioe le
+intersezioni di π1 con C„ Q, giaciono in linea retta. Dunque il
+piano π1 pessa per il punto π Q. Si conclude che:
+
+Le conichc cinquisecanti, appoggiatc ad una trisecante, giaciono in
+pinni passanti perun punto delia quadrisecante. '
+
+Ogni trisecante individua in tal modo un punto di Q (che si
+diri, in seguito‚ corrispondente a quella trisecante) e, come ὲ chiano,
+reciprocamente: il che conferma ii risultato dei n.⁰ 8.
+
+13. Tra le coniche cinquisecanti appoggiate a T, quelle pas·
+santi per un punto comune a C5¹, Tdebbono ivi toccare il piano
+di T e della tangente nel punto stesso a (15¹. Ne discende che le
+due trisecanti T', T'‘ passanti per quel punto (oltre Y) costitui-
+scono una conica cinquisecante appoggiata a T. Ovvero si pud os·
+servare che lasuperficie del fascio p contenente T' (per esempio)‚
+
+ 
+

@@ -1,0 +1,36 @@
+IL RISULTANTE DI DUE FORME BINARIE
+L'UNA CUBICA E L‘ALTRA BIQUADRATICA
+
+NOTA
+
+F. Butoscffl
+
+Professorr nei R. Istituto chnico Superiora di Milone.
+
+ll sistema simultaneo di due forme binarie .l‘una cubica, l‘altra Χ
+di quarto ordine, su, alcuni anni ora sono, argomento di una interes·
+sante dissertazione inaugurate del professore GUNDELFINGER.* ll si·
+
+stema, comprendendo in esso la cubica e la biquadratica‚ si com·
+pone di 64 forme e precisarnente si hanno:
+
+1 Covariante di sesto ordine
+2 » r quinto »
+5 ι ι quarto ²
+8 » ι terzo n
+12 ι » secondo»
+16 > n primo ²
+20 Invarianti
+
+N. 6-4.
+
+Io questo breve scritto aggiungiamo ai risultati del signor GUN-
+DELFINGER il valore del risuliante di quelle due forme binarie espresso
+in funzione di alcuni fra gii indicati invarianti. Sieno uix„ x) la
+forma del quarto ordine, v(x„ x) quella del terzo. Posto:
+
+⁸ Zur Theorie des simultancn Systcms rinrr cubisrbrn und einer biqnndratisrherr
+birnircrr forman. stuttgart, 1869.
+
+ 
+

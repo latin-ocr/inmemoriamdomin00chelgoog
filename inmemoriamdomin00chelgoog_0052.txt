@@ -1,0 +1,58 @@
+Sur les fonctions 0(x) et fl (x) de jacobi. 3
+
+des fonctions rationnelles des quantites ⁵¹¹¹,ch cos-f, quon peut
+decomposer en une partie entiere et en elements εἰΖιηρΙεε, d'apres
+la methode donnee dans mon Cours d’Analyse‚ p. 321. Et, en ob·
+servantque la premiere change de signe, tandis que la seconde se
+reproduit lorsqu’on change x en x 4- 2 K, on voit a priori que les
+
+elements simples seront respectivement
+
+1 1
+et
+
+ηιῑΚ) [Lx-mre)
+
+ἲΚΖΚ(
+
+sln—
+
+ffl-
+
+Un calcul facile donne d’ ailleurs pour resultans
+
+9
+sin x—miK')
+
+ΓΚ(
+
+. ⁸÷³
+
+sin iil-s(r—2niK') tg ᾗμ-ΚηίΚΊ
+
+ct voici les conseqnences auanelles ils conduisent. Nous avons
+d’abord
+
+-ieffinx-srm v (··· 1)an
+Η π
+tg ἷΙ-ξβῐ- miK')
+
+‘’⁸AE
+
+Σ(-1)Κ -ΚΣ (qq
+
+sn- '‘iss-min)
+
+effin÷m
+
+Or, dans le second membre, la serie 2(-1)'⁸q7, composee de
+termes deux ὲι deux egaux etde signes contraires, disparsit, et, en
+se rappelant qu’on a pose m=2 n-l-1, on voit qu' il se re'duit par
+suite ὲ la quantite
+
+..ivm-14⁸ ‘qtnffl’ .
+
+sin ᾑζμ-ΚΜΚἺ Ι
+
+ 
+

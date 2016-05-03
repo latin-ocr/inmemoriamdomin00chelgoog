@@ -1,0 +1,61 @@
+Ueber die dreisaclten Secunten, etc. 295
+
+Curae durch einen Doppelpunkt derselben geht, dieser nur fiir einen
+Sclmittpunkt zelle, (wenn nicht die Secante iu der Ebene der Tan·
+genten an beide sich dort schneidenden Zweige liegt) und also nur
+sur einen der beiden Curvenzweige gilt. Eine Gerade, welche durch
+einen der n Schnittpuukte von ΕΗ E„ F„ geht und in E¹ liegt, wird
+also dem Schnitte von Ε, und F„ einmal begegnen, und um dreilache
+Secante zu sein, den Schnitt von E¹ und F„ zweimal treffen mussen.
+Da aber nach Abzug des Ausgangspunktes n-1 Schulttpunkte
+
+w-uh—u
+
+ubrig bleiben, die aus Arten zu zweien combinlrt
+
+1 . 2
+werden kdnnen, so ziihlt die Gerade eben so oft als dreilache Se-
+cante‚ und das in E¹ gelegene Strahlbuschel, dessen Mittelpunkt der
+
+Ausgaugspunkt ist, gehdrt als Regelfliiche (n - 11) (nz- zl‘0’* Grades
+
+dem Orte der dreilachen Secanten an. Von den n Schnittpunkten
+der Fliichen E„ E„ F„ wird jeder einmal in Ε, und eiumal in E,
+gezdhlt‚ demzulolge bilden die sdmmtlichen Geraden, welche iiber·
+
+haupt einem der ebenen Schnitte von F„ einmal, dem andern zwei· ,
+
+mal begegnen, eine Fleche vom Grade n (n — 1) (n — 2).
+
+Wenn uun die dreisachen Secanten eines ebenen Schnittes der
+F„ eine Regelfldche vom Grade x bilden, so hat man zulolge der
+F ormel sur die Fldche zweiteu Grades:
+
+nw-uh-d
+
+4· 1.2.3 =n‹n-1>‹n-2>÷2x
+
+x=-gun-1un-2›
+
+Um diess cigenthsrmliche Resultat zu erkldren, bemerken wir, dass
+jede Gerade in der Ebene E, hir deren Schuitt mit F„ als dreisache
+
+nln-1lln—2)
+
+Secante mal zu zdhlen ist3 aher durch alle diese
+
+1.2. 3
+Geraden wird E. unendlich olt bedeckt. Es tritt also der nfimliche
+Umstand ein, wie bei der Geradeu in der Ebene, welche im gewdhu·
+lichen Sinne unendlich viele Weudepunkte besitzt‚ aber als curve
+ersten Grades ausgelasst nach den Plficker‘schen Formeln deren -3
+ergibt.* (F ur die Doppeltaugenteu ist die n‘rimliche Bemerkung zu
+macheu: man wurde geometrisch fiir eine Gerade schliessen‚ dass
+,sie unendlich oft als ihre eigene Doppeltaugente aultrete, wdhrend
+
+———
+
+⁸ Vergl. auch: Sruuu, Pldchen drillcr Ordnung. N. 70, pag.·225.
+
+ 
+

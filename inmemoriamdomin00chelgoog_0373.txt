@@ -1,0 +1,52 @@
+324 E. Bertini,
+
+rette di centro 1 l’ imagine (delle trisecanti di Se perd) delle coni·
+che di Σ. ’
+
+Ad una sezione piana di S, la quale (η.ο 9) ha per imagine una
+linea del 5.⁰ ordine avente in 1 un punto quadruplo, passante sem·
+plicemente per 2 e (in generale) non contenente i panti s, γ, corri-
+sponde sopra Σ una linea dei 23.0 ordine, poiche in un piano per
+R si hanno otto panti, estemi ad R, corrispondenti aquessi comuni
+al piano e alla sezione piana di S e, sopra R, il punto x ὸ multiplo
+secondo 13 e sono semplici i panti (oltre x) in cui R sora Σ. Adun-
+que deve essere
+
+§rr—4(rr-2)l-2=23,
+
+da cui si trae n= 17. Cioe ia imagini delle seponi piane di Σ sono
+curve del 17? ordine cire hanno a comune rm punto r nrrrltipio secondo
+15, rmdici ponti doppt 2, γ’, -s¹‘‚ “fn 72, .. ,γυ etredici panti semplici
+s, s„ δι’, 52, 52¹. . ·5⁶› 56'. Ϊῖ evidente che tutti i panti fondamentali
+
+sono semplici per l'imagine dix, tranne il punto 1 che sar'a (μ - ι)“”’“ο
+rappresentando con μ l' ordine di quella linea. Si avra quindi
+
+17p—15(p-1)-22-13=0,
+
+onde l’imagine di xe una linea del 10.⁰ ordine. Analogamente, es·
+sendo i punti fondamentali 2, γ’, γ”, γι, v„ . . ης, quintupli, il punto
+s semplice, i punti s„ s! doppi eil punto 1 multiplo secondo v-5
+per l'imagine di C5¹‚ di cui v indichi l'ordine, si trova che deve essere
+
+17v—15(v-5)—11o—1-24=ro
+
+e perdia detta imagine ὸ del 35.ο ordine.
+
+Per trovare la rappresentazione d'ordine minimo, si noti dap·
+prima che, sul piano rappresentativo π, ρυὸ sarsi una trasformazione
+univoca del §.⁰ ordine, di cui 1 sia punto quadruplo e γι, γι, . . ,γε
+punti semplici. La possibilita di tale trasformazione risuita dall’os·
+servare che, nella rappresentazione di S, i punti γι, ‘ia . ..γε sono
+imagini di otto punti sopra una retta (la R) e per conseguenza esiste
+un fascio di quintiche (non spezzantisi) aventi in 1 un punto quadru-
+plo e passanti per 2, γι, γι, . . . γε. Quella trasformazione univoca
+condoce ad un piano nx, nei quale le imagini delle sezioni piane di Σ
+sono curve del 9.⁰ ordine aventi un punto settuplo r, tre punti doppi
+2, γ’, γ” e tredici punti semplici s, 5,, sl (mantenendo le denomina-
+zioni dei punti primitivi sopra π ai loro corrispondenti od omoioghi
+sopra ²1)· Dico ora che, nel piano ³1³ ne i punti 2, γ’, pu, sono tutti
+successivi (in diverse direzioni) al punto 1, ne possono i medesimi
+
+ 
+

@@ -1,0 +1,53 @@
+De fractionibus quibusdam continuis. 141
+
+designantibus literis P„ P, numeros positivos reales, R„ R'r nume·
+ros complexos conjugatos, atque in hac aequatione fiat
+
+R2=R,-,u,P„ 123:ssss
+Ι
+et sic porro, numeris R, ita determinatis ut norma R,><R', evadat
+quam minima. Hinc erit P, > P, >P, . . . atque ad extremum ha·
+
+bebitur
+P1=(n‚‚n'2‚ mur„ ra, r'lr
+
+quae formula, cum universi numeri primi formulam 1 -1-x² †y² me·¹
+riantur, continet. demonstrationem theorematis Fermatiani omnes
+omnino numeros esse summas quattuor quadratorum.
+
+Plane autem eodem modo evincitur omnes numeros habere
+
+hanc sormam x2-1-y2-1- 3 (κ’ -Ι-υἺ, atque praeterea hanc etiarn
+τ’ -Ι- 2y2-1- 3 u² -l- 6 v¹. Quarum enuntiationum altera intra verita·
+tem cadit, cum omnes numeri in alterutra harum formularum
+
+x²ty²†3n{‚ x²†3n²†3v²
+
+comprehendantur ; id quod a viro clarissimo LEJEUNE D1RICHLET*
+jampridem demonstratum est: altera ea ipsa est quam olim summus
+in hac disciplina magister C. G. J.JA00131** ex notissima formula
+elliptica originem trahere indicavit. Hoc autem loco satis erit de-
+monstrare, proposita aequatione p' -l- p -Ι- 1 =o‚ omnem numerum
+realem esse summam normae simplicis et duplicis.
+
+Sint igitur A, B, P numeri reales, Α-Βρ numerus complexus
+integer continens radicem aequationis ρ’ †p-l- 1 =0; erit
+
+A²†AB†B²=N(A-Bp).
+
+Quodsi ponatur
+Α-ΒρεμΡ-Ι-(ι-ῠρ,
+
+numerus complexus μ ita determinari potest ut sit
+
+N·(a-br)<}(P²-·1)·
+
+Fiat enim, quod utique licet, αΞΑ, ὺΞΒ, mod. P, [a]{}P,
+
+[b] ἕξ Ρ. Hic, si signa numerorum a et b contraria sunt, habebimus
+
+⁰ Journal sar dic reim und angcwandtc Mathematik. Vol. XL, pp. ²31·232·
+·’ Ibid. Vol. XXI.
+
+ 
+

@@ -1,0 +1,53 @@
+Ueber die dreisaclten Secanten, etc. 299
+
+2. Die Geraden‚ die C l, einmal‚ 63, zweimal begegnen sind
+n (n— 1) (rt—2)
+2
+sechs derartige Combinationen geblldet werden kdnnen so muss man
+siimmtliche Geraden, die einem ebenen Schnitte einmal‚ einem an-
+dern zweimal begegnen, als Fliiche 3n(n-1)(n—2)“” Grades
+
+ziihlen. .
+
+3. Die Regelfliiche a der Geraden, welche jedem der drei
+ebenen Schnitte einmal begegnen findet sich wie solgt: Ein Punkt
+aus Οἱ, bestimmt als Scheitel mit C ξ, und C: zwei Kegel n‘'” GradeS,
+von denen n gemeinschaftliche Kanten nach den n gemeinschaftlichen
+Punkten von C} und Cf, gehen. Die dbrigen n²—n zelgen an, dass
+in der gesuchten Regelfliiche C ξ, als n (n— ι) fache Curve austritt.
+Jeder der n Schnittpunkte von CL und C„ kann mit jedem gemein-
+schaftlichen Punkte von c: und C} durch eine Gerade verbunden wer-
+den, welche C ζ noch in n —2 Punkten trifft und demzufolge (rt-2)
+mal als gemeinschaftliche Secante von Css, CZ, Cf, anzusehen ist.
+‚ Der Schnitt von E¹ und F„ enthdlt also ausser der viellachen Curve
+noch n² Erzeugende‚ die n-2 mal zu ziihlen sind und man hat
+demnach
+
+x=n(n-1).n†n²(n-2)=n²(2n—3)*.
+Die Identitiit Ι
+
+nach I als Regellliiche vom Grade anzusehen. Da
+
+1
+
+-3nzn-nd-2llsnln-1)<n—2)†n²(2n-³)=
+
+=}(3n-2)(3n-5)·
+
+zeigt, dass die speciellen Entwicklungen das nlmliche Resultat erge·
+ben, wie die allgemein'en.
+
+ΙΙΙ.
+
+Wir sind jetzt in den Stand gesetzt die Aulgabe zu ldsen:
+Welches ist der Grad x der Regellliiche, welche von den dreifachen
+
+‘ Die Regelfliche die aus den Geraden gebildet wird, welche den Reum-
+curven Cp, C„ Cr von den Graden p, q, r gleichzeitig begegnen, hat den Grad
+2 p q r. Haben zwei der Curven einen Punht gemein, so sondert sich von der Fliche
+ein Kegel ab, der ihn zum Mittelpunlne und die dritte Curve zur Leitlinie hat. Wen-
+det man diess aus drei ebene Schnitte einer F.. an, so‘erhdlt man wieder das
+oben angegebene Resultat.
+
+ 
+

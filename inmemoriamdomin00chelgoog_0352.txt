@@ -1,0 +1,52 @@
+Ueber die dreifacleen Secutum, etc. 303
+
+——————-
+
+V.
+
+Wir kehren zur vollen Schnittcurve CM zweier F lichen F„
+et F„ zurdck und setzen vorans, dass in einem gegebenen Punkte P
+derselben die beiden Fliichen die niniliche bestimmte Tangentialebene
+E besitzen. Zudem mbge P im Schnitte (st, E) einp sacher, im
+Schnitte (Ρ,Η Ε) ein q sacher Punkt sein, was cintreffen kann, ohne
+dass P in der einen oder andern Fliiche ein vielfacher Punkt ist,
+welchen Fall wir' zunichst ausschliessen wollen. Wird jetzt in E eine
+Gerade durch P gelegt, so schneidet sie F„¹ in p, F„ in q Punkten
+und sie erscheint eben so oft als dreisache Secante von C„ als drei
+der p erstgenannten Punkte mit dreien der q nachsolgenden combinirt
+werden kdnnen. Ebenso ost etscheint E als Theil der Regelflfiche
+der dreisachen Secanten der CM, d. h. von dieser Regelfliiche, wel-
+che im Aligemeinen irreductibel ist, sondert sich in dem speciellen
+
+Falle die
+pii-1in-2i-rn—1in-2i
+
+1.2.3 1.2.3
+
+sach gelegte Ebene E ab.
+
+Wir behandeln noch die Annahme, dass Ρ in F„ ein p sacher,
+in F„ ein q sacher I'unkt sei. Typisch wird dieselbe veranschaulicht,
+indem man annimmt, F„ bestehe aus einem Kegel pm Grades K„ mit
+dem Mittelpunkte P und aus einer beliebigen‚ nicht durch P gehenden
+Fiiche des (m—p)“'' Grades ΡΗ, F„ aber sei aus einem Kegel
+qu. Grades Kq mit P als Mittelpunkt·und einer nicht durch Pgehenden
+Fische des (u-q)'‘” Grades ΡΗ zusammengesetzt. Der Schnitt
+(R, R) = CM zersnllt in vier Theile, die wir mit (ΡΗ, ΡΜ) =
+Cw-nMn-nii (F„-„‚K9)= Cim-nnn* (Fu-n’Ki1)=ciu-n·n²(Kn’Kn)=cb·q
+bezeichnen und von denen die drei ersten irreductibel sein konnen,
+wibrend die vierte aus p.q durch P gehenden Geraden besteht.
+
+Zu der Regelfli'che der dreisachen Secanten von C„ gehb'ren
+die dreisachen Secanten jedes der genannten Theile. Fiir Q„,„,(„,„
+kann die Regelfliiche desselben nach der allgemeinen Methode gesun-
+den werden, ebenso siir [ΜΗ et [ΜΨ wo beidemal ein Zersallen
+
+eintritt, indem bei der der erstem zugehdrigen Regelfliiche der Ke-
+
+ssel K, als (m *m (m —1p ζ ¹3) (m —ffl sacher, bei der zweiten
+
+--Ξ- -Lffl sacher Bestandtheil erscheint.
+
+ 
+

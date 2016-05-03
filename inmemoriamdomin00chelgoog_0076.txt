@@ -1,0 +1,38 @@
+SULLE CUBlCHE TERNARIE SIZIGETICHE
+
+G. BAT'I'AGLINI.
+
+--—-
+
+' Noffevole proprie& delle cubiche ternario ὁ la reciproci& tm
+i flessi comuni alle cubiche di un fascio sizigetico e le loro polari
+armoniche, ο sia le tangenti cuspidali comuni alle Cayleiane di quelle
+cubiche. In questo lavoro ho ricercato le coniche per mezzo delle
+quali si pub stabilire tale redprociffi, ho sviluppato una importante
+corrispondenza tra le cubiche del fascio sizigetico e le loro Caer·
+iane, ed infine ho generalizzato alcuni teoremi di Clebsch intorno
+
+alle coniche polani, ed alle poloconiche rispetto alle medesime cu·
+biche.
+
+1. Essendo v„ v„ ι·3 le coordinate di un punto V‚e V„ V, Χ)
+le coordinate di una tetta v, rispetto ad una terna fondamentale di
+
+rette e di punti, consideriamo due linee di 3⁰ ordine rappresentate,
+in notazione omme, dalle equazioni
+
+9:24) =A‚'³ = ΙΨ a 0, '4²' B) = B,'³ = [22⁰³ ε Ο;
+
+siano (Χ, Χ ”, Χ '‘') ed (Υ, W, Μ le terne dei punti che ᾳ e gb
+hauno di comune con una tetta v, determinate su di essa dalle
+forme binarie cubiche ²3³ = 0, e ,9ηἶ = ος se le due terne dei ponti X
+ed Y sono armoniche sta loro, va1e a dire se due dei ponti V sono
+coniugati armonici rispetto alla coppia dei centri armonici di 2⁰ grado
+del terzo punto Χ rispetto alla terna dei punti X, 0 viceversa se
+due dei punti X sono coniugati armonici rispetto alla coppia dei
+centri armonici di 2⁰ grado del terzo punto X rispetto alla terna
+dei punti Ksi annullet& (come ὲ noto per la teofia delle forme bi·
+narie cubiche) l'invariante (2⁶1)ss quindi, pel principio col quale
+
+ 
+

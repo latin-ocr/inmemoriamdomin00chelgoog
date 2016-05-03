@@ -1,0 +1,47 @@
+Ueber die dreisacben Secanten, etc. 305
+
+--—‘——————.—-————... ——...⁴.——-
+
+VI.
+
+Die vorstehenden Betrachtnngen sind einereingehenderen Un-
+tersuchung iiber die in einem Flfichenbiischel dritten Grades enthal·
+tenen geraden Linien entnommen*. Diese Geraden bilden eine Re-
+gelfliiche, deren Erzeugende dreifache Secanten der Grundcurve des
+Biischels sind. Die characteristischen Zahlen so wie die Singularitfiten
+der Flnche (Gradzahl, vielsache Curven, vielsache Punkte‚ etc.) sind
+fiir die gewbhnliche irreductible Grundcurve als Specialsiille in den
+umsangreichen Resultaten der Herren CAYLEY et ZEUTHEN *⁴⁶ iiber
+Raumcurven und Regelflnchen enthalten; sobald aber die Grundcurve
+in gewisser Weise zerffillt, treten Ausnahmesiille von den allgemeinen
+Zahlen ein, die eine einlisslichere Beachtung verdienen.
+
+Indem die Ausnahmesille gehiirig interpretirt werden, fiihren
+sie auf einem ganz elementaren Wege zu den allgemeinen Resultaten
+zuriick. Wiihrend Herr CAYLEY neben einigen wirklichen Eliminatio-
+nen hauptsfichlich Functionalgleichungen zur Bestimmung der nnthi-
+gen Zahlwerthe anwendet und Hert ZEUTHEN sich des CHASLEs’schen
+Princips der Correspondenz bedient, kommt hier Alles aus den Satn
+zurfick: dass von den Lnsungen eines Systems algebraischer Gleichun·
+gen keine verloren gehen, wenn die allgemeinen Gleichungen durch
+
+specielle des nnmlichen Grades ersetzt werden. (Es sei denn, dass ,
+
+iiberhaupt an Stelle einer endlichen Anzahl von L6sungen deren
+unendlich viele treten). Kennt man also die Lnsungen fiir den Special·
+fall, so geniigt diess, um die Anzahl derselben fiir den allgemeinen
+Fall sestzustellen. Und so wie es beim Correspondenzprincip‚ wie
+Herr ZEUTHEN in seiner Abhandlung bernerkt‚ wesentlich darauf
+ankommt, die snmmtlichen Coincidenzen und deren Multiplicitit zu
+finden, so verlangt auch die Elementarmethode, dass in jedem zu
+behandelnden Falle die Vielsachheit der singuliren L6sungen (die,
+wie aus dem behandelten Beispiele hervorgeht, unter Umstinden
+durch eine negative Zahl gegeben sein kann) richtig bestimmt werde.
+
+⁸ Swnu, Fldchen dritta ordnung. N? 59, pag. 193.
+” ΕΑγιεγ, Phil. Transactions Bd. 15 3.- Znunnnn, Annali di Maum. Serie 11,
+Βῖξῗκίῐιίῐὲε-Ρ xge'rgl. auch: cunone, Obcrflcichen, Erster Thasi, Cap. 11 und Zweiter
+ἱ 0 0
+
+ 
+

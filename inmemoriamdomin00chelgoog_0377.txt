@@ -1,0 +1,54 @@
+328 G. Jttng,
+
+--—-- .-.- .—--——- --.—...———-- -—-...-
+
+in quanto che essa conduce beust a una quadrica imaginaria, quando
+tutti i coeflicienti sono di ugual segno (come avviene nel caso delle
+masse trattato da Hessss), tna puo dar luogo nel caso generale a una
+quadrien reale.' Questa tapptesentazione nasce cosi spontanea, che,
+a conferma dell' idea di Ret'e e di HESSE, si puo veramente consi-
+derate come il fondamento naturale della· teorica dei momenti di
+secondo grado, dei momenti resistenti, del nocciolo, ecc.; la quale
+teorica per tal via puo svincolarsi da ogni idea meccanica e stabi·
+lissi in modo puramente geometrico, giusta i concetti del Cttettttt ⁴.
+Mi limitetis a dare brevi cenni sulla maniera di svolgere la detta teo·
+tia da questo punto di vista (n.i 11-16), e mi giovero della nominata
+rapptesentazione per trattare due sole questioni: una (n.i 17, 18) rela-
+tiva alla riduzione di un sistema din punti ομιτί a un sistema
+eqttivnlettte di quattro soli punti, l’altta (n.i 2 e 1922) relativa ai mo·
+tttctttt' obliqui.
+
+2. Nelle ordinarie applicazioni di meccanica quando si parla
+di momento d' inetzia rispetto a un piano (o rispetto a un asse sei
+punti o,.m, sono in un piano) si sottintende sempte che nella somma
+
+gemat? le distanze x, dei punti dati dal piano siano misurate per·
+
+pendicolarmente a quest‘ultimo: di manieta che variando il piano
+
+dei momenti, rimane contante l'obliquiti delle x, rispetto a questo
+piano, mentre variano tanto le grandezze quanto la direzione comune
+delle x„ Peto in certe questioni nelle quali si presenta quella somma
+ὲ necessario di considerare le distanze x, come misurate pa·
+rallelamente a una direzione fissa >ndi maniera che variando
+il pinno dei momenti, mentre rimane fissa la direzione, variano le
+
+‘Esco conte il Cneutst spiegn lo scopo dell'elegante sut Memoria: snut
+sotttpost'tiottt grotttetrictt titi sistenti tit' rtttt, dt' oret ι tii putttt' (Mem. necas. Bolo-
+gna, serie 11. t. X, 1870). «Espnrre le leggi geometriclte che presiedono alla
+«compositione e trassomtnzione dei sistenti, sia di reste, sia di aree, sia di punti
+«affetu da coefflcienti, tt'tttossn ogni ideo disorzo etii velocitti, tale e l'og·
+«petto del presente scritto. In altre Mentorie ho piu volte toccaro questo argo·
+« mento, tua sempre pattialmente: qui mi propongo soprattutto di nterterne in ri·
+‹tlieuo il principio di uniti cite ne informa ed anima per cosl dire tutte le parti,
+tt collegandole in una teoria semplice ed elementare. La quale, ove sosse introdotts
+‹t nell’insegnnmento, aprirebbe un accesso olrre modo piano ed atttaente (secondo
+tt che a me pare) non solo nlla geometria analitica e sintetica, nto ben nucis
+«atta messaniam essendomi stutiato di rendere puramente geometrici igrsndi
+tt conce-tri di Potusot e Cttttstns sulla composizione e riduzionc delle sorze e delle
+«rotationi simultanee, ecc, ecc.» Penetrato e inspirato da queste idee, cereri di
+estendere e sviluppare iconcetti del Ctttsuts't, c nti venne fatto un lavoro (ancora
+inedito) dal quale stacco la patre che pubblico nella presente Memoria.
+
+ 
+

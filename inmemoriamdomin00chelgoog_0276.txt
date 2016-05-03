@@ -1,0 +1,45 @@
+Uaeber Potentiale n-faclter Mannigsalttgkeiten. 227
+
+auszusetzen, dass F (0) nur fiir endliche Werthe der Variabelnz
+negativ, also F(0)<0 ein endliches Gebiet von n-saeher Mannig-
+faltigkeit ist. Soll nun AV fiir Punkte (z), die im Innern der ge-
+schlossenen (n-1)·fachen Mannigsaltigkeit 1³(0)=0 d. h. in dem
+Gebiete F (0) <ο hegen, den Werth -ῶ, fiir aeussere‚Punkte aber
+den Werth Null haben, so braucht man nur fiir innere Punkte Peon·
+stant und fiir aeussere Punkte t⁰ durch die Gleichung F (1⁰) =0 be·
+stimmt auzunehmen. Da aber aus der Begrenzung f (0) =0 der ⁸
+Werth von t⁰ gleich Null ist, so muss, wenn V eine stetige F unction
+der Punkte (z) sein soll, fiir die inneren Punkte t⁰=0 genommen
+werden. Die hieraus resultirende Bestimmung von V kann folgender·
+massen formulirt werden: Es ist
+
+(F) V=÷{-&D(0)&JF<t).D tsv'wt,
+
+wenn F (t) und D(t) durch dic Entwickelung der Determinante
+
+Z‚1‚z„ ow· h
+Ι) avo, affl! a022⁰2 aon
+
+(ιι am, αιΓΗ, anw- at„
+
+affl...
+
+als lineare function von Z in der form
+[Νὴ-ΖΜ)
+
+bestimmt sind, und wenn die Integration im Sinna wacbsendcr Wertbe
+von t aber alle diejenigcn positiven Werthe von t erstreckt wird, wosz'ir
+F (t) <0 ist.
+
+Das demgemiiss mit V bezeichnete Integral ist eine iiberall
+stetige Function der reellen Variabeln z„ (Ἠ... (a oder des Punktes
+(χ) und verschwindet fiir unendlich entsernte Punkte. Auch die ersten
+Ableitungen V„ sind durchweg stetig, die zweiten Ableitungen Vi„
+sind nur in der (n— 1) sachen Mannigsaltigkeit F (0) =0 unstetig.
+Der Werth von 221⁷„ oder AV ist in dem von dieser (n - 1) fachen
+
+Mannigsaltigkeit umschlossenen innercn Bereiche d. h. im Gebiete
+F(0)<0 gleich -ῶ, im dussercn Bereiche f(0)>0 aber gleich
+
+ 
+

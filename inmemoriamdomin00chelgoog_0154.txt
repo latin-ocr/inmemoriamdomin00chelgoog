@@ -1,0 +1,46 @@
+SULLA INTEGRAZIONE DELLE EQUAZlONl
+A DERIVATE PARZIALI DEL PRIMO ORDINE
+
+nl
+
+ERNESTO Panovr
+
+Professore nella R. Universilr'r di Pisa.
+
+La importanza che in seguito ai lavori di LIE, MAYER e DAR-
+13on ha acquistato il melodo di CAUCHY per la integrazione delle
+equazioni a derivate paiziali del primo ordine, mi ha indotto a cer·
+care se ed in qual modo questo metodo poteva essere dedotto dalle
+ricerche di Al1PERE*, estendendo queste al caso in cui il numero
+delle variabili indipendenti sia qualunque. In questo scritto mi pro·
+
+pongo di mostrare che il metodo di AMPERE esteso al caso di
+un numero qualunque di variabili conduce alle equazioni trovate da
+CAUCHY, evitando quella difficolta che notata da BERTRAND su poi
+remossa da SERRET**.
+
+Non conosco che un lavoro Μ in cui si sia cereato di esten-
+dere i metodi di AMPERE, ma esso ha uno scopo affatto diverso
+da quello che io mi sono qui propost0.
+
+..-.-——-.-
+
+‘ l lavori di Airrlae si trovano nei callers 17e 18 del Journal dc l'Ecolr
+polyleclmique, quelli di Caucirv nel ν volume dei suoi Exercicer d’Arralysr. Ambedue i
+metodi di questi geometri si sondano sul cangiamento di n-1 variabili indipendenti‚ '
+ma e differente nei due la definizione dell’ integrale generale; e perb facile vedere
+che la definizione dell' integrale generale data da Cavcrrv si pub sar rientrare irr
+quella di Amerina.
+
+'⁸ SERRET, Cours dc Calrul difflrcnlirl el integral, T. 11, pag. 624. La dimo-
+strazione di Sssaaar e forse un poco oscura ma non mi sembra meritare il rim-
+provero sattole da Mavs10lr nella sua Tlrlorie das lqualions aux dlrirrlcr particlles
+du l'' ordre, a pag. 243, ove e detto: Serrei esl peu priris dans les rairorrnemerrls
+qui se rapporlrnt ὰ σι’ car critique qui a besoin encore d'elrc lludil plus ri fond.
+
+'“ Sur lc nombre des fonctions arbitrairrs des lqualions aux dirivlcs parlirllm
+par M. F. Goaraz 'suxeram Mlmoires dc la Socilll des Scirncer de Bordcaux, 2⁸¹³· serie,
+2⁴¹ Tome.
+
+ 
+

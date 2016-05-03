@@ -1,0 +1,45 @@
+'348 E. Beltrnmi‚
+
+Con οἰὸ ὲ assegnata la legge di distribuzione degli assi di per·
+cossa nello spazio.
+Analogamente, dalle equazioni (4)ι si deduce
+
+him -πὲετ
+
+Ora se ii punto (x, y, (ν) si considera corne un centro di permaneam,
+le sue coordinate debbono soddisiare all‘equazione (6), la quale, in
+virtri delle sormole (4), si pun scrivere piir semplicemente cosi:
+
+nr rx4n÷m=÷
+
+quindi perun tal punto si ha
+
+<n -‡-†-‡—÷-‡—=1
+a²†x h²†{ ι’(λ
+
+Quest’equazione, in cui entra il parametro variabile ξ, rappresenta
+
+un sistema di quadriche omoiocali tra loro ed a quella d‘equazione
+x
+ῑ(((ἓ“
+
+D'altronde la direzione (p, q, r) deliasse permanente ὲ identica‚ in
+virtir delle equazioni (9), a quella della normale alla quadrien (9).
+sulla quale si trova il punto (x, y, z). Dunque, poiche sono tre le
+quadriche del sistema (9))ι che passano per ogni punto dello spazio
+e poiche esse vi si intersecano ad angoti retti, si ha ii teorema se·
+guente: Ogni punto dello spazio ὲ centro di pernranenza per tre
+distinti assi permanenti perpendicolari fralmo: questi tre assi sono
+le normali alle tre quadriche del sistema (9), che passano per il
+punto dato.
+
+Α Con οἰὸ ὲ assegnata la legge di distribuzione degli assi per·
+manenti nello spazio.
+
+Questa legge ὲ notissima; non sembra che lo sia egualmente
+quella stabilita dianzi per gli assi di percossa, la quale, se pub parere
+meno importante, ὲ tuttavia cosi semplice da meritare d’ essere men·
+zionata insieme colia precedente.
+
+ 
+

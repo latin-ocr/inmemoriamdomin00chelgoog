@@ -1,0 +1,58 @@
+Sulle cubiclre ternarie siargretiche. 29 ’
+
+esso coincidera evidentemente anche il terzo punto X, sicche Μ sara
+, tangente d’inflessione in quel punto di φ; adunque il fascio sizige-
+tico non ὲ altro che il fascio delle cubiche che hanno i flessi nei
+loro punti comuni, ο sia il fascio determinato da una cubica e dalla
+sua Hessiana.
+
+Da eid risultano immediatamente le note proprieta intorno ai
+flessi W di una cubica; indicandoli con W, W2,.. W9, per essi
+passeranno quattro terne di rette, appartenenti al fascio sizigetico‚
+ve rappresentate dallo schema
+
+(v) (vu)
+ivl...W1‚W2,W3, U¹U“·W’W⁴'W7’
+Μ... W, W5, ΜΜ,, Μ’... W, Ws, Wg,
+Μ,...ΜΜ,, ΜΜ’,, W, vy... W, W, W9,
+
+(Μ’) (W)
+v( W, W, ¹¹⁷9» Μ’ W, ΜΜ,, ΜΜΜ,,
+v... W„ ΜΜΜ,, W, Μ,’” Μ..Μ, ΜΜ, W,
+(Μ,’...ΜΜ,,ΜΜ,, W Μ’ ...ΜΜ’, ΜΜΜ, ΜΜΜ.
+
+3“57
+
+Disponendo i flessi a modo di determinante
+Wx, W„ W
+
+3
+
+W, W, W6
+W, ΜΜΜ, ΜΜΜ9,
+
+saranno in linea retta in (Μ) tre punti di una linea del determinante,
+in (v‘') tre punti di una calonna, in (Μ’) tre punti che nello sviluppo
+del determinante corrispondono ad un termine positiVO, e finalmente
+in (Μ”’) tre punti che corrispondono ad un termine negativo¹
+
+Consideriamo la terna sizigetica (Μ) ai cui lati (Μ , Μ , Μ) ap·
+partengono rispettivamente le terne di flessi con gl’ indici (1, 2 3),
+
+4,5,,(76) ,,),89 sr vede dallo schema(1che le congrungentr dell
+coppie di 7flessi m colonna nelle disposizioni degl’ indici
+
+1‚2,3 1‚2,3 1,2‚3
+
+4‚6‚5 6254 5.4‚6
+
+0 pure nelle altre ,
+1‚2‚3 1,2,3 1‚2,3
+
+729,ss 9‚8‚7 8‚7‚9
+concorreranno rispettivamente nei flessi con gl‘indici
+
+7‚8‚9 oppure n n6r
+
+ 
+

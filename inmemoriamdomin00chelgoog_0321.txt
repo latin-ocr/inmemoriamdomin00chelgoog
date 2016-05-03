@@ -1,0 +1,55 @@
+272 U. Diri,
+
+6. I processi precedenti, oltre a'dimostrarci l’esistenza delle
+funzioni renate, ci danno anche un modo di costruirle; ε in sostanza
+le varie questioni si riducono tutte ai casi considerati nei §5 1 e2,
+e piu specialmente a quello del § 2.
+
+Nei casi particolari pero si possono seguire altri processi, e io
+incominciando dalle funzioni de'rs ι trovo opportuno di considerare
+il caso in cui gii infinitesimi datirr1‚or2,..., or„,... sono tali che la
+
+serie Σὲ per un certo valore finito di s converga incondizionata·
+
+mente, ese os„ ὲ il modulo di oq, gli ordini dati m„ m„..., rrr„,...
+per gli stessi infinitesimi sono sempre finiti o almeno sono tali che
+si puo scrivere m„ = σμ’ξ, essendo r„ un numero inferiore a un nu·
+mero finite, ρ t un altro numero finito
+
+Con queste ipotesi insatti si vede subito che se non ὲ con·
+
+vergente lo serie logaritmica21o„10g Ι-ἆῖ), lo sar& pero evi.
+
+dentemente la serie delle derivate (s -{- t)‘, εἱοὲ
+
+§1.2.3...(r†t—1) m* ·
+
+ε questa convergenza sarssa incondizionata e uniforme in ogni campo
+finito che non comprende punti rr„; quindi integrando questa serie
+termine a termine s-{-t volte di seguito lungo curve che vadano
+al punto χ da punti tim, βμΓμΗΗἿ (32, β, arbitrariamente scelti ma
+diversi da r„ o.„..., rr„‚... quando queste curve non passano pcr
+questi punti rr„ rw, r„‚... ε 1¹ ultima non gira neppure attorno
+ad essi, si formeranno altrettante serie convergenti incondizionata·
+mente e in ugual grado in ogni porzione.f1nitadel piano z che non
+comprende punti or„ or2„.., o„,...; e l’ultinra ‘di queste serie cioe
+
+‘q'
+
+, , d⁸÷‘log(1 mi)
+„sorsum [ ⁷²· r·
+
+βπ 13² i3s÷t
+
+verrii ad essere appunto della forma
+
+Σ rrr‚‚log( 1 -ἣ -ξ- qm}
+
+ove le q„(;) sono funzioni intere determinate del grado r-l-t- 13
+talche evidentemente il prodotto
+
+n . a„ wi
+Π(ι-ἆ“Ν-) c
+
+ 
+

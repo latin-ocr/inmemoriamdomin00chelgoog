@@ -1,0 +1,55 @@
+snm tmn nge ass· n· rum.
+
+IlCRmmsiraleiniattiquasisernprediconsiderazionigeo-
+metriche, semplici ed ingegnose si, ma che riebieggono una trudu-
+zione, non sempre facile ed immediata, quando si mgna lame l'ap-
+plicazione a problemi da suolgeisi col oelcolo. 11 professore Turum
+si ὲ servito anche del caleolo, ma lacendo quasi sempre scelte par·
+ticolari di variabili e d'assi, con che le lormole diuentano piu sem
+plici c di piri semplice deduzione, ma perdono quell’unitormiu e
+quella simmetria che non solo permettono di rilevarne piu prout:-
+mente il significato, ma ne rendono altresi piu manifeste le mutue
+attinenze ed i caratteri distintivi.
+
+Ora a me sembra· che la teoria suolta dagli egregi geometri
+teste menzionati si possa presentare in modo da conseguire questi
+vantaggi, senza rinunciare alla semplicin, anzi ponendo nella piu
+chiara luce possssiile la vera indole geometrica della questione. Le
+pagine che seguono contengono i primi fondamenti d’una esposicione
+informata a questi principi, esposizione alla quale io non prefiggo
+altro scopo che quello di rendere maggiormente note ed appreuate,
+se ὲ possibile, le ricerchc dei due valenti italiani, eche io arresto a
+quel punto in cui lo studioso che voglia piu prolondnmente adden-
+trarsi nella questione non puo lardi meglio che ricorrere alle loro
+Memorie originali.
+
+Con cio credo anche di cooperare, benche in minima parte,
+ad uno dei principali intenti dell’ottimo CHELINI, aquello‚ ciol, di
+perlezionare la forma didattica delle singole teorie cui Egli rivolse
+la mente.
+
+Consideriamo un sistema rigido, del quale sia M la massa to
+tale esieno a, b, c i raggi d’inerzia rispetto ai tre assi principali del
+baricentro, che assumeremo come assi coordinati delle x, y, q. Sieno
+u, v, w le componenti, rispetto a questi assi, della velocita istantanee
+
+del baricentro ep, q, r le analoghe componenti della rotazione istan·
+tanea del sistema intorno ad un asse E, passante peril baricentro
+stesso
+
+Trasportando all‘origine tutte le quantita di moto che animano
+il corpo si ha, come ὲ noto, una risultante le cui componenti sono
+
+Mu, Mv, Meu,-
+
+cd una coppia risultante, le cui componenti sono
+
+M a'p, M b'q, M c²r.
+
+Affinche il moto istantaneo equivalga ad una semplice rota·
+zione, bisogna che si abbia
+
+(ι) nu÷qv÷rw=n
+
+ 
+

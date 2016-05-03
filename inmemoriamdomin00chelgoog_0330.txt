@@ -1,0 +1,51 @@
+Einige Bemerkungen iiber dic Lami 'sclzen Funktioncn. 281
+
+Kann die Gleichung (4) gleiche Wnrzeln habeni das heisst:
+kann das System (2) mehriache Ldsungen haben? Wenn Ja, so miissen
+die aus dem Systeme abgeleiteten Differentialgleichungen zugleich
+bestehen konnen, obgleich ihre Anzahl diejenige der Verhaltnisse der
+Differentiale dxl, dx„ . . ., dx„ um 1 iibertrilit. Diese Verhiiltnisse
+werden alle reell sein, weil die Coefficienten von d xl, d x„ . .. alle.
+reell sind. Man kann daher die Differentiale durch proportionale
+reelle und endliche Werthe -ΧΗ - sz· . .‚ -Χ, ersetzen und
+bekdmmt das System
+
+rg—{sffirffi—Jffl ,[48,ν ’ᾗ ÷X
+
+ΧΣ(44ΧΙ)-- (x ’,Γ
+
+Χ-Χ Χ-,Χ
+
+-4ΠΧ
+
+Multipliciert man diese Gleichungen der Reilre nach mit Χ, X² , . .. ,Χ,
+und addiert, so kdmmt
+
+le-Xlffimffl 4βΧ1 4,Χ
+
+4453-5), (),
+
+(Das erste Summenzeichen bezieht sich auf alle Μ’( 21) Combi-
+
+nationen von je zwei Zeigern‚ das zweite aui alle ν Zeiger). Die
+linke Seite der Gleichung besteht daher aus lauter positiven Ter·
+men; die Gleichung ist unmoglich. Zur Exponentengruppe (κ, β, γ)
+gehoren also ν -{-1 von einander verschiedene ganzo Funktionen Q.
+Hieraus solgt dann weiter, dass es (2 n -Ι- 1) verschiedene LAME'sche
+Funktionen nm Ordnung gibt.
+
+Es gibt keine zwei zur selben Exponentengruppe (z, β, γ)
+gehorende Ldsungen des Systems (a), bei denen in dasselbe Inter-
+vall, zum Beispiel von a bis b, ⁸gleich viele Unbekannte lielen3 son·
+dern man kann die ν -l-1 (wenn man von Permutationen der Unbe·
+kannten absieht) Ldsungen so ordnen, dass bei der (l-l-1)'‘” Lh'sung
+
+die Unbelrannten x„ xz, . . . , xi in das Intervall von abis b, und die ‚
+
+ν - λ librigen indas Intervall vonb bis c lallen. Um diese Behauptung
+zu beweisen, sehe ich mich gendthigt, von einem Ellipsoid aus zu
+gehen, das sehr wenig von einern Umdrehungsellipsoid verschieden
+ist. Wenn in der Kette (3) von Relationen a = b =o angenommen
+
+ 
+

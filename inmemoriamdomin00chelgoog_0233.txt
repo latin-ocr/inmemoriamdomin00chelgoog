@@ -1,0 +1,54 @@
+184 G. Bardelli,
+
+-—--.-.- ————---.——-
+
+potremo altresl supporre che questo sia condotto per un punto scelto
+ad arbitrio nello spazio, perocche ὲ noto che ad una rotazione finita θ
+di un sistema invariabile intorno ad un ¹asse fisso si puo sostituire
+una rotazione eguale intorno ad un asse parallelo passante per un
+
+punto qualunque, la quale sia susseguita da una traslazione 23 sen-216
+
+diretta in un piano perpendicolare ai due assi, e comprendente l’ an·
+golo 9οο-ἑθ colla distanza δ di questi.
+
+Cio premesso, riferiscasi il sistema nella primitiva posizione ad
+una terna di assi ortogonali aventi origine in un punto dell’ asse di
+rotazione, di cui diremo l, m, n i coseni di direzione, e siano x, y, r
+le coordinate di uno qualunque de' suoi punti, ρ ed r le distanze che
+questo ha rispettivamente dall'asse di rotazione e dall’origine. El·
+settuata la rotazione θ del sistema, il punto imaginato sara venuto in
+una nuova posizione, le cui coordinate χι, γι, χι soddislaranno alle
+seguenti equazioni:
+
+ltxr-xffmtn-lltnta-ow
+1
+
+(Ι) xla-xllill-nlrln-z)=-2r²sen²·2-⁰
+
+(x1-x)²† (li-*llaL (t1-tl²=4.⁵²⁵el¹²}⁰‚
+
+delle quali, la prima esprime che durante il movimento del sistema,
+il punto x, y, χ non esce dal piano perpendicolare all’ asse di· rota·
+zione‚ la seconda che il punto stesso conserva la medesima distanza
+dall' origine, e quindi dall’ asse, l’ ultima che il raggio ρ ha ruotato
+dell'angolo θ.
+
+Poste le denominazioni: ‚
+
+amna-ny
+(2) b=nx—-lz
+
+c = ly -mx
+· d†r†ffl=ff
+sostituisco alle (1) il sistema dl equazioni lineari rispetto alle x1y1z1:
+a(x,—x)†l(y1—y)† clz1-z)=5
+l(ns-xllmln-rllitter-alr—0
+1
+
+x(x¹-x)†loa-llllztz2-z)=-²r²⁵⁶¹¹²3⁰³
+
+' e quindi:
+
+ 
+

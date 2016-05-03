@@ -1,0 +1,53 @@
+On a differential equation. 23
+
+——-—— ————— —————————— ——-——-
+
+z the value of which can in each particular case be at once de·
+
+termined. When the integral is 2²thst the differentialequation is
+
+ttae -l-zbz-l-c)dz² - (aL2 42bLM-tcrtfitdx2
+ε’ (z — 1)² χῖ (x— ιγ
+
+containing the three arbitrary constante a, b, c; λ is a constant the
+
+velue of which can be at once determined.
+
+There are in all 6 integrals ol the form z :Agr ior which the
+differential equation contains three arbitrary constants: 18 integrals
+
+ol the form z=-P (and of course the same number ol integrals os
+
+' μθ r> rr
+
+the form τεῦ), and 9 integrals of the form 5:327, lor all ol
+which the differential equation contains 2arbitrary constants. It is
+to be remarked that Kummer‚ considering the values oi z as a sunc-
+tion os x, obtains the 72 rational and irrational values mentioned in
+his equations (31), (35), (36), (37), (38), and (39): but the 72 values arc
+made up as follows, viz. the 18 values osz as a rational sunction
+of x, the 36 irrational valucs obtained srorn the 18 expressions ol x
+as a rational function oi 2, and the 18 irrational values of z obtained
+from the9 integrals in which neither ol the variables is a rational
+fonction ol the other: 18 -Ι- 36-l- 18:72.
+
+The several integrals together with the expressions ol the sunc-
+
+tions a'z¹ -l- 2ὐέ † c' and ax² ΑΓ 2bx†c which enter into the dis·
+serential equation are as follows.
+
+2.- a‘2²÷2b‘z÷c'= ax²†2bx†c=
+
+——-.-.....
+
+az²÷2bz-l-c ax²÷2bx†c
+a(x-1)²-2b(.r—1)-l·c
+
+ιτ-Ι-πὸκ-Ι-τεε2
+
+’ a-2brx-1>÷crx—1>2
+
+ax2÷2bx (x-1)÷c(x-1)²
+
+ 
+

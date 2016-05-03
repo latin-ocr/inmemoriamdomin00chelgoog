@@ -1,0 +1,37 @@
+ow A Dirrevevrrne EQvAwow
+
+eaor. A. cumr.
+
+.....-..—.
+
+In the Memoir on hypergeometric Series, Crelle t. XV (1836),
+Kummer in eiiect considers adiiserential equation
+
+(Μ’ -i- zb'z -i-c')dz² — (Μ’ -i- ‚sz 4c) dx²
+
+βψς-1)* stix—ly '
+
+viz. he seeks for solutions osan equation of this form which also
+satissy a certain differentia} equation of the third order. The
+coefficients a, b, c are either all arbitrary‚ or they are two or one
+os them, arbitra1y; but this last case (or say the case where the
+sunction os x is the completely determinate function κ’ -Ι- sz -}-c)
+is scarcely considered: α’, b', c' are regarded as determinable in
+terms of a, b, c; and z is to be found as a sunction os x indepen-
+dentosa, b, c: so that when these coefficients are arbitrary, the
+equation breaks up into three equations, and when two of the coef-
+ficients are arbitrary‚ it breaks up into two equations‚ satisfied in
+each case by the same value of z; and the vaiue oi z is thus de·
+termined without any integration: these cases will be considered in
+the sequel, but they are of course included in the general case where
+the coefficients a, b, c are regarded as having any given valucs
+whatever.
+
+Writing for shortness X ax20-t- sz -i- c, in general the in·
+
+tegral
+Ndx
+irrr-
+
+ 
+

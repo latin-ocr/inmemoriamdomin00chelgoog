@@ -1,0 +1,60 @@
+Supra una certa superficie di quart‘ ordine. 417
+
+6. Dall’esistenza di una conica fi giacente su F e passante per
+0 si pud subito dedurre un'interessante trasformazione della super-
+ficie di 49 ordine.
+
+Le superficie S di 29 grado che passano per sse toccano in
+Ο il piano x=o formano un sistema omaloidico, epperd sommi·
+nistrano una trasformazione birazionale del dato spazio Σ in un
+altro Σ, i cui piani e le cui rette corrispondono ordinatamcnte alle
+superficie S ad alle coniche d toccate in 0 dal piano x = 0 e se·
+ganti fi in un secondo punto. ⁴* In qual superficie F‘ vienc allora a
+trasformarsi la data F?
+
+Αἰ punti in cui F' ὲ incontrato da una retta arbitraria dello
+spazio Σ corrispondono i punti di ulteriore intersezione di F con
+una conica d5 i quali punti sono in numero di 2.4—4-1=3,
+perche 0 assorbe gia 4 intersezioni e vi ὲ poi un altro punto co-
+mune ad ed a fi. Dunque F‘ ὲ una superficie di 3.⁰ ordine.
+
+Viceversa, se Ρ e fi' sono una superficie di 3.⁰ ordine ed una
+conica toccate in un punto comune θ’ da uno stesso piano x'= 0,
+edel resto quali si vogliano; trasformando punto per punto lo spazio
+Σ nello spazio Σ per modo che ai piani di questo corrispondano
+le superficie di 2.0 grado passanti per λ’ e toccanti in O' il piano
+x' = ος la superficie F' si trasformera in una superficie analoga ad
+F. Infatti la nuova superficie
+
+1.⁰ ὲ del 49 ordine, perche qualunque conica dello spazio §J
+toccata in θ’ dal piano x' : o (e incontrata in un altro punto da fi')
+avrd con F' altri quattro punti comuni;
+
+29 ha in 0 un punto doppi0, perche ogni retta per 0' incon·
+tra Ρ in altri due punti;
+
+3.⁰ e tagiiata dal piano x = 0 secondo quattro rette incrociate
+in 0, perche la superficie F' contiene quattro punti di ss‘ (oltrc
+ad 0’); ,
+
+49 esegata da un piano arbitrario per 0 secondo una curva
+(di 49 ordine) di genere 1, eppcrd arente in 0 due punti doppi
+infinitamentc vicini, perche un piano condotto arbiirariamente per θ’
+sega F' secondo una curva (di 3.⁰ ordine) di genere 1.
+
+7. Cio stabilito, la nota geometria della superficie generale di
+
+39 ordine F' sommipistra immediatamente la geometria della nostra ,
+superficie F.
+
+---. ---.
+
+’ Io ho gia adoperata questa trasformazione in altra occasione: Rend'conti
+
+dell’Isriruro Lombrrdo 9 marzo 1871. Veggasi anche: Annali n· Mutcmutico (Mi-
+lano, 1872), tom. V della serie secondo, pag. 142 e 143.
+
+ἣ
+
+ 
+

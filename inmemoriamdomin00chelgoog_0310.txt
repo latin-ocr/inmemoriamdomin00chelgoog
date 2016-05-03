@@ -1,0 +1,60 @@
+Alcrrrrt' reorrmi stille furmioni di una variabile corrrplessn. 261
+
+-—-·--—· ·-———-——————— · ·-—‘· --—-——-—-—.-0ae-
+
+bero potuto portare ia diverge’nza‚ e ellora si poteua anche prendere
+enh) =0·
+
+Limitandosi cosi al caso dip non superiore a 3, il BETTI ha
+limitato il suo teorema3' ma se avesse lasciato che il p potesse anche
+superare il 3 e anche uariare con n, il teorema‚ colle poche osser·
+vazioni che ora faremo, sarebbe stato dimostrato fin d'allora pel
+caso generale.
+
+Si ammetta insatti chei numeri p, che ora indicheremo con
+¹ p„ possano anche variare nei singoli termini della serie determinan—
+doli convenientemente; e mentre questi numeri p„ dovranno deter-
+minarsi per ogni termine delle serie (1) e (2) e indipendentemente
+da {a si ammetta pero ancora, come giis del resto dicemmo, che le
+serie (3) e (4) incomincino soltanto da quei termini pei quali conr
+
+compreso nel campo 5 che si considera si ha mod J< 1 -=·r.
+
+Si osserui poi che, dopo di avere fissato a piacere il numero
+·r., ὲ certo che corrispondentemente a ciascuno dei punti αι, ny...
+o dei termini delle serie (1) e (2) si pud determinare un numero p„
+talmente grande che il prodottom„(1-·r)²‘„, o la somma dei pro-
+dotti corrispondenti ai termini che si debbono riunire onde seguire
+le leggi di aggruppamento delle quantitee1,e2‚... α ..... stabilite
+in principio, sia inferiore al termine corrispondente di una serie
+convergente a termini positivi; e noi determineremo, appunto con
+questa condizione, i numeri p„ per ogni termine delle serie (ι) e (2).
+Aliora, determinate in questo modo lep„ peruginum dei termini
+
+,νυ
+
+delle serie (1) e (2), si vede chiaramente che le parti neppssff,
+,ι’-ι ⁷³¹
+
+Ernffiff'delle serie (3) e (4) quando s'incomincino ai termini pei
+
+quali in tutto ssi ha mod ἐ· < 1 -·r. convergono incondizionata·
+
+mente e anche in ugual grado entro 5. D‘nltra parte ὲ chiaro che
+r‚,-¹ ,,
+
+se nelle serie (1) e (2) prendinmo in ogni termine o„(;) :111AE ᾐ-
+!=1 'u
+
+ove le p„ hanno i valori ora determinati, le serie stesse (1) e (2)
+per ogni campo s possono ciascuna scomporsi in due parti una delle
+qualie finita el‘altrae tale che, quando χ ὁ entro 5, per i suoi,
+
+termini si ha appunto m0d3-<1—n, e qnindi per essa si ha con·
+r
+
+vergenza incondizionata e in ugual grad03 dunque si pud ora evi·
+dentemente concludere che altrettanto accede delle serie medesime
+
+ 
+

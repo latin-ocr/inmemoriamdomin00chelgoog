@@ -1,0 +1,61 @@
+(leber quadratisclee Ihrgrlcomplexe und consocale Cycliden. 243
+
+--- ————.-..—— .--. ...-..—. —-- ——-
+
+wiirdigen Beziehungen werden wir auf eigenthiimlichem Wege direct
+
+zu dem Systeme orthogonaler Cycliden gelangen‚ welches 1864 von
+MOUTARD ⁴* und gleichzeitig von DARBOUX ἢ entdeckt und seitdeni
+besonders von letzterem*** vielseitig untersucht wurde.
+
+4. ¹Die Gleichung einer Kugel in rechtwinkiigen Coordina·
+
+ten sei:
+e0(x²†y²† 2²)-221x -222y-2nan-1- α·ι =0;
+
+wir erhalten dann sur die Coordinaten ξ, n, ζ ihres Mittelpnnktes
+und hir ihre Potenzp ‘im Ansangspunkte der Coordinaten die Aus-
+
+driicke:
+
+2³ αι
+ι ᾎΞ-’ν p: 5
+αθ 20
+
+wiihrend ihr Radius r sich aus der Gleichung ergiebt:
+r'={²†n²†{²-p oder njr’ =2}†n}-}-n}-n0r4.
+
+Die Coefficienten οις der Gleichung wellen wir die ‹Coordinaten der
+Kugeb neuneu, weil durch ihre Verhiiitnisse die Lage und Griisse
+der Kugel bestimmt ist; wir bezeichnen die Kugel durch (αο, a„
+22. ῃ, α.) oder khrzer durch α. Wenn rr„ verschwindet, so ist die
+
+Kugel eine Ebene‚ und a„ n„ ora, {a4k611nen ais deren Coordi-
+
+naten aufgesasst werden; sind auch ²1, oe2 und r, ΝυΙΙ, so liegt diese
+Ebene unendlich sern. Die Kugel ist eine Punktkugel, wenn ihr
+Radius r versehwindet, also αἵ -i- a} -}- αζ - ²0 ῃ =0 ist.
+
+5. Zwei Kugeln α, β sind zu einander normal, wenn ihre Coor·
+dinaten 2„ βδ der Gleichung:
+
+οῑιβι 'l' “rssr†“rss³-·: (ἵοβι †⁰2‹sso)=0
+
+geniigen. Sind niimlich (ξ, n, ζ) und (ᾗ, n„ ζ,) die Mittelpunkte,
+r und r, die Radien der beiden Kugeln, so schneiden letztere sich
+rechtwinkiig, wenn:
+
+.6-6ΤΗΞ-ΕιῗΗτι-τηγμμζι),
+und soiglieh
+²(35¹†⁷·†¹1†311)=r†n
+
+*Mournnn in den Nouvdhs Annales dc Marhe‘mariquek, 1864, pag. 536.
+** Dnnnoux in den Amiales scienhfiqurs de I’Ecoir Normalc Sap„ 1865, p. 62
+und 1866, p. 98.
+*** Dnnnoux, Sur unc classe remarquablc dc corrrbcs ct dc snrsaces aiglbr'ques,
+
+PariS, 1873, 8⁰. vgl. Cnser, On cyclides and spirare-quartia, in den Philas. Trans·
+actions, London‚ 1871.
+
+ 
+

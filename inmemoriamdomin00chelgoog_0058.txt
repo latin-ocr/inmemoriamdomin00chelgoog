@@ -1,0 +1,56 @@
+L'iperboloide centrale, ecc. 9
+
+scopo; ad ottenerli d'altronde basta risolvere le equazioni (4). Qui
+supporremo i punti A B C in linea tetta e coincidenti con A' B‘ C ‘ 5 e
+quindi v r1r2r, quantit& date. Supporremo inoltre che tali quanti&
+
+oltre ad esser reali, siano competibili corr R reale. Cio importa che
+dei tre binomi
+
+ohim„ ossi-rm, ehi-rm
+
+uno sia negativo (ὲ impossibiie che lo sian tutti, se le r sono reali).
+Noi adotteremo la gradazione
+
+ffl>½>&·
+
+Dovendo essere in questa due valori di segno contrario} sari sempre
+
+r, >ο, r3 <02 ma r, potr& essere negativo o positivo. Se sarii po
+sitivo avremo
+
+rr7⁴2>r2r3>71733
+
+se sare negativo avremo
+
+ηη>ηη>ηῃ
+
+Dunque in ogni caso si verificherir
+(⁶) ²¹²·i*r2r³>0‚ v²†r,r,<o‚ v²-i-r1r2>0.
+
+Lo stesso risultato si sarebbe trovato se avessimo adottato la gra-
+daziorre inversa r¹ < r2 < r„ poiche dall’una si passa all’altra inver-
+tendo solo gl’indici 1 e 3.
+
+La condizione geometrica equivalente ad R reale e, che dei
+tre angoli B 0 C, CO A, A OB giacenri ora sullo stesso piano, uno,
+
+ed uno solo, sia ottuso o retto — esar& il medio, se B ὲ medio
+sta A e θ’ ’
+
+52.
+
+Se alle condizioni (2) aggiungiamo queste altre
+W†W†oe=ff†ff†oe=w†ff†ff=h
+
+i nove eoefficienti rappresentano i coseni degli angoli fatti cogli assi
+
+⁶ Se A B C 0 non sono nello stesso piano, perche la soluzione dei problema
+
+proporro sia reale, ὲ necessario che coi supplementi dei tre angoli B 0 C, C O A,
+A OB sia sattibile un triedro ; cioe
+
+c0s¹ssoc÷c0s²COA†cos²Aoss÷2eosBOCcosCOAcosAossg1.
+
+ 
+

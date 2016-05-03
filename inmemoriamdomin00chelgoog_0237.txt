@@ -1,0 +1,49 @@
+G. Bardelli,
+
+cotg³}l†eorg}u ==0
+
+ed escludendo le ¹soluzioni imaginarie:
+
+(ιι) cotg-21-ll=0, ·
+
+eice, indicandosi con n un numero intero qualunque:
+θ = (2 n -Ι- 1) rr,
+
+e perd la rotazione θ ῖτειεροῐῐετὲ il sistema in una posizione chesi
+potra dire supplementum rispetto alla sua posizione originaria. Soddi-
+ssatta la (11), le (10) riduconsi alle due seguenti:
+
+Φ-Ψ-θ
+
+l ““ r'n “ ii'
+
+ossia, ricordando 'i valori di Φ, Ψ, Θ, e ponendo eguale ad S cia·
+scuno dei precedenti rapporti avrem0:
+
+—Ll-l-Fm-l·Err=Sl
+(12) Fl—Mrn-l-Dn=Sm
+El-l-Dm-Nn=5n.
+
+Queste equazioni sono identiche nella forma a quelle che servono
+alla determinazione degli assi principali d'inerziadi un corpo, o dei
+diametri principali di una superficie di second’ordine. L’eliminazione
+delle l, m, n dalle medesime conduce ad un’equazione cubica in S,
+che sappiamo ammettere sempre radici reali, corrispondentemente alle
+quali si avranno tre direzioni ortogonali che saranno assi di equili-
+brio del sistema per rotazioni θ eguali ad un multiplo dispari di π,
+e per queste il sistema stesso va ad occupare posizioni supplemen-
+tari della primitiva. Potremo pertanto enunciare il seguente teorema:
+Dato un sistema di forma invariabile in eqrrilibrio, esistono semprr tre
+direrioni ortogonali fra loro, intorno a ciascuna delle quali ructando il
+sistema di un ungulo 6=(2n†1)r, erro virne in una nuova posi·
+niune d'rquililrrrn quando non variino nl in grandem, nd in direrionc
+le forre applicate ai suoi puali. — Le direzioni ora determinate, che
+si possono supporre condotte per un punto arbitrario dello spacia,
+si denomineranno assi principali di rqrrilibrio del sistema·
+
+Si riferisca il sistema ai suoi tre assi principali di equilibrio
+passanti per l’origine degli assi coordinati, ed indichiamo colle stesse
+lettere, ma accentate‚ le quantita ad essi relative definite dalle (8);
+
+ 
+

@@ -1,0 +1,37 @@
+sonte
+CURVE GOBBE RAZIONALI DEL 5·⁰ ORDINE
+
+Ennnnln BER'l‘lNl .
+
+Professorc neila R. Universitd di Pania.
+
+Questa Nota deve essere considerata come nn primo tentativo
+di ricerche intorno alle curve del 59 ordine (che indico brevemente
+col nome'di quintiche) gobbe, razionali, prive di ponti doppi; delle
+quali prendo qui astudiare soprattutto la pin generale che denomino
+di 1.² specie.
+
+LE DUE SPECIE DI QUINTICHE.
+
+1. Una quintica gobba pud sempre ottenersi da una quartica
+(curva del 4⁰ ordine) per una trasformazione quadratica. Si prenda,
+nello spazio della quintica, per conica fondamentale una sua conica
+cinquisecante (cioe appoggiata alla quintica in cinque punti) eper
+punto fondamentale un punto della quintica stessa. Nell' altro spazio
+corrisponde alla quintica 'una quartica appoggiata in tre pnnti alla ⁴
+conica fondamentate (e non contenente il punto fondamentale).
+
+2. Ora si ha ta proprietit: Per ogni punto dello spurio passa una
+(sola) conica quadrisecante di nna quartica gobba rarionale e appoggiata in
+duc punti ad una conica trisecante delia quartica stesso. Infatti si indichi
+con C⁴ la quartica econ C² una conica trisecante di C4. La conica
+C¹ non pud giacere sulla superficie Σ di 2.⁰ ordine passonte per C⁴
+e perd incontraE in un punto (esterno a C), pel quale passa una
+retta Ttrisecante di C4. Le superficie di 39 ordine passanti per
+C4, C„ T costituiscono evidentemente un sistema lineare doppia·
+mente infinito. Qnelte di queste superficie che possano per un punto x
+appartengono quindi adun fascio, di cui la curva base si compone
+di C4, Q, Te di nna nuova conica C,' contenente il punto x. ΙΙ
+
+ 
+

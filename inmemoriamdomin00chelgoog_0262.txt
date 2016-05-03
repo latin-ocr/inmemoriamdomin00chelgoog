@@ -1,0 +1,40 @@
+UNA FORMA BINARIA DELL'OTTAVO ORDINE
+
+’ NOTA
+
+1⁴². Batosclss
+
+Professore nel R. istituto chnico Superiora di Mdano.
+
+——-
+
+E noto che essendo sq„ z) una forma binaria deli’ ordine n
+pari, il covariante g dell²ordine 2( —4) che si ottiene dalla ope·
+fazione:
+
+i= ξω»
+
+ρυὸ essere identicamente eguale a zero, nei soli tre casi di n =4,
+6, 12. Se la forma f ὲ dell'ottavo ordine, il covariante g ὲ pure delio
+stesso ordine. Di qui la domanda alla quale rispondesi in questo
+scritto: quali sono le proprietd della forma s dell’ ottavo ordine che
+soddisfa identicamente alla relazione:
+
+(1) s=ts
+supposto ρ costante?
+
+In un mio lavoro La theoria des formes dans l'intdgration des
+equations difflrentiellcs linlaires du second ordre, pubblicato alcuni anni
+ora sono nei Mathematische Annaten (Βά. XI) ho dimostrato che indi·
+cando con z„ ζ, due integrali particolari dell’equazione disserenziale
+
+del secondo ordine:
+2=sz
+
+nella quale:
+
+1
+ἱ
+
+ 
+

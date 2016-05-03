@@ -1,0 +1,41 @@
+cosicchk non rimane che da determinare il valore comune di questi
+tre rapporti nel detto punto. A tal fine basta ricordare che le coor-
+dinate di questo punto debbono soddisfare all’equazione (14), oppure
+alle equazioni (12). Nell’uno ο nell'altro modo si trova
+
+t..stru—b'qw
+
+N ᾡω-ύα
+
+,ἵὲ
+
+Nell'ipotesi particolare 5= ο, si pub, coll'aiuto delle relazioni (5)„
+che son conseguenze di quest‘ipotesi, eliminare dalle espressioni pre·
+cedenti le p, q, r: si ricade allora sulle formole (11) relative al centro
+di percossa.
+
+Il centro di rotazione si ottiene conducendo dal centro d'im·
+pulso una tetta di direzione
+
+(qm-tv, νει-ριν, pv-qu),
+
+la quale incontra necoesariamente l'asse di rotazione nel punto cer-
+
+eato. Ora, in virt& delle formole (16), un punto qualunque di questa
+tetta ὲ rappresentato dalle coordinate ’
+
+dove ρ ὲ un parametro indeterminato. Per assegnare il valore che
+questo parametro assume nel punto ceream, basta ricordare che le
+coordinate di questo punto debbono soddisfare all'equazione (13),
+oppure alle equazioni (1)‚. Nell’uno ο nell'altro modo si trova
+
+(¹7), H †<⁰²†?0²=0.
+
+talch& introducendo nelle formole (17) il valore di ρ dato da questa
+relazione si hanno le coordinate dal centro di rotazione. Nell’ipotesi
+particolare s=0, si pub, coll'aiuto delle relazioni (4)„ che sono
+
+⁸³
+
+ 
+

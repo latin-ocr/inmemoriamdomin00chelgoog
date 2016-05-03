@@ -1,0 +1,61 @@
+118 H. J. S. Smitla
+
+atque hinc haberi partitiones numerorum J} et P, in summas duorum
+quadratorum. Eadem fere methodo aequationes
+
+RR-2R²=ss 1, 121122-3R²=‡ 1,
+
+tractari possunt ope lemmatis quod viro clarissimo J.J. SYLVESTER
+acceptum referimus;
+
+‹Sit q,q„···qt›qti···q2tq1
+
+› quotientium series ordinesymmetrico disposita, e quibus alterni per
+»numerum p. multiplicentur; determinans
+
+‚K=mmamn0emnumi
+
+›erit formae A²-1-pB², designantibus A et B numeros inter se
+›primos.›
+Fit enim, si numerus i¹ par est,
+
+mannffuad=unnennnu
+
+si vero idem numerus impar est,
+
+unauavuun=udnuavnm·
+Itaque erit aut
+
+aut K=iqfli²q²tq³³⁰diiiiiitiiq12y·'q2‚...q1,.)
+
+K=uuaawnant÷nnanvuannnffi
+
+Aperte autern confitemur totam hanc disquisitionem angustis
+finibus contineri; quam, annis abhinc amplius viginti a nobis inchoa-
+tam, nunc demum longo post intervallo retractatam absolutamque,
+ideo arithmeticorum hominum judicio committere ausi sumus, quod
+elementis arithmeticae incrementa etiam tenuissima afferre operae
+pretium putamus. Quaestiones autem in eodem genere latius patentes
+
+2
+t
+
+continuam ita significamus ut quotientium series uncinis quadratis includatur. Itaque
+
+habetur aequatio
+tn· anu-n)
+
+[iriq2tq3,...q,.]:-—-'
+
+(naun)
+
+Coeterum in fractione periodica utimur punctis spperpositis ad distinguendos
+primos atque ultimos· periodorum quotientes. Sic exempli gratia erit ’
+
+’ [a,b‚c,...q¹,q2,...q„]
+
+fractio continua constans e quotientibus heteroclitis a, b, c, . .. et periodo ql, q„ . . .q„
+infinities repetita. ’
+
+ 
+

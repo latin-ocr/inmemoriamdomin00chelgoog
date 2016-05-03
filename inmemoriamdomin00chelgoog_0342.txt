@@ -1,0 +1,51 @@
+(leber die Abspiegelung der Sorrnenfleckenperiode, etc. 293
+nahezu die Variationen von Rom dar, wie wir nus unserer Tabelle
+sehen, in welche die nach dieser Formel berechneten n', und iiber-
+diess die Differenzen v-v‘ eingetragen sind; denn Letztere sind
+gegeniiber den frsrhern Differenzen m''—v klein geworden, zeigen
+durchaus nicht mehr einen systematischen Gang, und ergeben
+
+Z(v-²f)²=2‚8585‚ Μ’ἿΙΗ 20 =‡o‚38,
+
+so dass die Summe der Abweichungsquadrate auf 7¹9 der srnheren,
+und die mittlere Abweichung nahe auf ’λς reducirt worden ist. - Trotz
+
+dieses ganz erfreulichen Resultotes glaubte ich doch auch noch den
+Versuch machen zu sollen, die fiir Rom passendste Formel
+
+v=a†bm
+
+ohne eine solche Voraussetzung zu bestimmen, und erhielt nun aus
+den 20 Gleichungen
+
+10,87=a-{-b.93,8 10‚96=a-}-b.95,7 9,77=a-{-b.77,2,etc.
+
+nach den Regeln der Methode der kleinsten Quadrate die Normal·
+gleiohungen
+
+17o,320=2o.a†1o89,o.b 10506,436=1089‚o.a÷88671,86.b
+
+aus welchen sich a=6,23 und b=0,042 ergeben, so dass als beste
+Variationssormel fiir Rom
+
+v‘' = 6,23 -}- o,o42 . r
+
+hervorgeht, eine Formel, die nur wenig von der F riihern abweicht.
+Berechnet man aber nach dieser Formel die Μ’ =0,042.r, die 21¹¹
+und v-o''‚ so erhiilt man die in die Tabelle eingetragenen Werthe,
+undans ihnen
+
+22(v-v'')²=2,4186, Av'' παΣΕῇ-ᾝὝΞ ss 035,
+
+so dass wirklich die Summe der Abweichungsquadrate und die mitt·
+lere Abweichung noch etwas kleiner geworden sind, namentlich
+aber die bei ersterer Rechnung fiir 1870 erhaltene grosse Differenz
+wesentlich reducirt worden ist.- Als Schlussresultat darf wohl ansge-
+sprochen werden, dass siclt auch, wie sehon im Titel gegenwfirtiger
+Note betont worden ist, in den zu Rom bestimmren Variationen die
+Sonnensteckenperiode in schb'nster Weise obspiegelr.
+
+zurich im Januor 1881.
+
+ 
+

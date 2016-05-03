@@ -1,0 +1,54 @@
+280 L. Srlrlc‘zfli,
+
+und kann nicht negativ sein. Der erste Term der linken Seite der
+vorliegenden Gleichung ist 2 ζ· ², also nothwendigpositiv3 die Summe
+'der zwei folgenden kann nicht negativ sein, und das selbe gilt von
+der Summe irgend zweier anderer Terme, die sich aus zwei conju·
+
+'⁰ girteUnbekannte‚ wie ις, x4, beziehen; jeder Einzelterm, der zu
+
+einer reellen Unbekannten gehbrt, ist positiv; und die drei letzten aus
+ιι, b, c bez'riglichen Terme sind nothwendig positiv, weil 4α-Ι- 1,
+nur der positiven Werthe 1 und 3 sahig sind3 die Gleichung ist also
+unmbglich. Die ν Unbekannten sinddaher alle reell und sowohl von
+einander als von a, b, c verschieden.
+
+Warex, die (numerisch, nicht absolut) kleinste der Unbekannten ι
+und-augleich kleiner als a, so waren in der linken Seite der ersten
+Gleichung des Systems (2) alle Terme negativ, die Gleichung also
+unmdglich. Alle ν Unbekannten sind daher grdsser als a. Ware x,
+die grdsste der Unbekannten und zugleich grdsser als c, so w'aren
+alle jene Terme positiv, die Gleichung also auch unmbglich. Diev
+Unbekannten liegen folglich alle zwischen a und c.
+
+Wenn man:
+
+Q=x⁹-d,x2·††d,x”·²†···÷(-nd
+
+setzt und die Gleichung (1) mit ΑΒΕ Q multipliciert und nach Po·
+tenzen von x ordnet, so bekdmmt man die Relationen
+
+(λ -}- 1) (2 n — 2 λ -Ι 1) rl)4¹ =
+
+ε[(2ιι-Ι)ιζ-2Σλ(ιι-Ζα-),)α]α’),
+
+(3) j†)J(v-).†1)(2v-}-4r.—2)=-†-1)bc.dr-,-†'-
+¹¹ asur-nasrur-mnarum,
+hir ).=1,2‚..,v‚ wenn mand0=1‚ d„=0, d,÷,=0 setzt. sie
+macheu es mdglich dn als ganze F unktion >1⁰⁸ Grades von ιζ ,ἀετ-
+zustellen und geben zuletzt eine Gleichung (v†1)“” Grades sair
+die Unbekannte ιζ = x¹ ψ x, -ζ- . . . † ιω die Gleichung sei mit (4)
+bezeichnet. Hat man eine ihrer Wurzeln ιζ gew'ahlt, so ist das zu·
+gehbrige Polynom Q einsach bestimmt. Wenn keiner der Unbekann·
+ten x„ x„ . . . ,τν gestattet wird‚ unendlich gross zu werden, so hat
+also das System (2) nur (ν -1- 1)! Ldsungen, obgleich jede einzelne
+Gleichung desselben, in ganze Form gebracht, den (v†1)‘⁰·Grad
+erreicht. Auch das zusammenfallen von zwei Unbekannten mita,
+oder b, oder c, und dasjenige von drei Unbekannten miissen ausge-
+schlossen werden. Ich weiss kein einsacheres Mittel urn die Anzahl
+
+brauchbarer Losiingen des Systems (2) zu finden, als die Kette (3)
+von Relationen, dieselbe, die auch [ΑΜΕ gebraucht.
+
+ 
+

@@ -1,0 +1,54 @@
+Alcimi leoremi sulle srmzioni di una variabile complesset. 269
+
+ι sono dati i soliti coefficienti della parte lrazionaria nello sviluppo
+,scorrispondente ai loro intorni‚ insieme ad alcuni di quelli della
+2 parte intera, e per gli altri punti sono dati i valori dei primi coef-
+›ficienti negli sviluppi corrispondenti ai loro intorni‚ o, il che elo
+2 stesso, sono dati i valori della funzione e di un numero finito delle
+› sue derivate. ι
+
+In particulare dunque supponendo che le nr„ m„..., ΜΗ...
+siano tutte uguali a zero si pud affermare che «esistono infinite
+‚funzioni monodrome finite e continue in tutto il piano che in punti
+»dati ad arbitrio a.. a² ..... a ..... prendono dati valori sl esse che
+2 un numero finito delle loro derivate,
+
+S'intende che si ammette sempre che dei punti a„ α, .....
+a„ . .. ne cada soltanto un numero finito in ogni porzione finita del
+piano ῃ e s’intende pure che, se i coefficienti dati A o B non sono
+consecutivi, i teoremi precedenti sussistono ancora, poiche nulla ci
+impedisce di prendere pei coefficienti che non sono determinati quei
+valori che piu ci piace, e di prendere per gli altri i valoti dati, e
+cosl si ricade evidentemeute nei casl gi'a considerati.
+
+5. Questi risultati del resto possono essere completati nel modo
+seguente. -
+
+Si osservi che, come gib abbiamo notato, le funzioni di cui ὲ
+parola nell' ultimo paragrafo, oltre ad avere gli infiniti e gli infini-
+tesimi dati, avranno talvolta anche altri infinitesimi, potendo darsi
+che questi si trovino nella funzione OQ) dalla quale si parte, o nel-
+l'altra pp) che viene poi determinata. F ondandosi perd sull' ultimo
+
+teorema del paragrafo precedente elacile dimostrare che ‹possono' -
+
+›sempre costruirsi infinite funzioni monodrome e continue che am·
+›mettono soltunto gli infiniti e gli infinitesimi dati degli ordini che
+»pure sono dati, e che soddisfanno alle solite condizioni precedenti
+ι relative al modo di comportarsi negli intorni di questi punti d‘ in·
+> finito o d‘infinitesim03 e in altri punti prendono valori dati ad ar-
+›bitrio sl esse che un numero finito delle loro derivate».
+S'indichi infatti con τρια) una funzione che abbia per infiniti
+e per infinitesimi soltanto gli infiniti egli infinitesimi dati della lun·
+zione cereata, e degli ordini respettivi. Questa funzione potra otte-
+nersi sempre costruendo due funzioni intere di z che abbiano per
+infinitesimi, l'una soltanto gli infinitesimi, e l' altra soltanto gli infiniti
+della funzione cereata degli ordini respettivi‚ e poi lacendone il
+quoziente; e quando con altri processi si losse costruita una fun·
+zione ruffa) che oltre agli infiniti e infinitesirni dati ne avesse anche
+altri, si potrebbero sempre costruire coi processi dels 1 due fun·
+
+:L
+
+ 
+

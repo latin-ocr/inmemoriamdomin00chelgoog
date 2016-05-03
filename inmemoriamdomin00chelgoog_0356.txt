@@ -1,0 +1,29 @@
+1 DISCRIMINANTI DELLE EQUAZIONI DIFFERENZIALI
+
+DELLE LORO PRIMITIVE COMPLETE
+
+mich* casossffl
+
+Professore neila Regia Universitd di Pavia.
+
+Per brevia, consideriamo soltanto un'equazione differenziale
+di ptimo ordine tra due variabili x,y e dell’m-esimo grado rispetto
+ai differenziali dx, dy, cio& un’equazione della forma
+
+(1) viix,ayi=q0ax··†q>,dx··¹dy÷...smy-:0
+
+dove φο, φι, . . ., φ, significhino funzioni dei simboli x, γ. Ed ima·
+giniamo che essa ammetta 13 primitiva compieta
+
+‹2› fioi=f00··÷i0··¹†-.·†f.=0,
+
+so, f„ . . .‚ f„ essendo funzioni di x e y, ed Ω la costante arbitraria.
+In tal caso 13 (ι) 31 potia ottenere daila (2) eliminando 13
+
+costante arbitraria tra 13 (2) stessa e 13 sua differenziale immediata
+df(Q)=dfoss” †df‚ss”·¹ †...-{-df. =0.
+
+Perb 11 risuitante di quest’eliminazione, ossia 11 determinante
+
+ 
+

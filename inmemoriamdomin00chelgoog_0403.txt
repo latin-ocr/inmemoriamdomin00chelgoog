@@ -1,0 +1,60 @@
+354 E. Beltramt’,
+
+——.-
+
+conseguenze di quest'ipotesi, eliminare dalle espressioni precedenti
+le u, v, w: si ricade allora sulle formole (10) relative al centro di
+permanenza. [Ad agevolare tale riduzione ὲ bene tener presente
+l'identita
+ωλι-να ba-Ha)
+
+che segue dalle equazioni (4),].
+
+Abbiamo gia veduto che i centri d’impulso relativi ad assi di
+rotarione paralleli stanno tutti in un piane, eioe nel piano (5).. Cer·
+
+chiamo ora il luogo dei centri di rotazione corrispondenti.
+Dalle equazioni (17) si de'duce
+
+(a²lelex†(b²†r)ll÷(c²÷r)rz=0‚
+
+ossia, per la relazione (17)„
+
+(18) 11113111111σ’ν<)-(Η1ω’)(1κ1111ν11το·
+
+E questa l'equazione del piano passante per il centro di rotazione
+(17) e per la retta comune ai due plani
+
+⁰²lxll²lllc²rt=02 Px†rl†rz=0‚
+
+retta che diremo F, e che ὲ al tempo stesso perpendicolare alla
+retta E e coniugata ad essa nell'ellissoide centrale‚ talche la sua
+direzione e quella degli assi di percossa corrispondenti agli assi per·
+manenti di direzione E. 1 coefficienti dell'equazione (18) non dipen-
+dono che dai rapporti p:q:r:0›. Ora 11 centro di rotazione giace
+anche sull'asse di rotazione, epperb le sue coordinate soddislanno
+alle equazioni (1),; e poiche queste danno
+
+lli
+xli
+
+02²:
+
+ossia
+·(18)0 1121111111)-(Ρκ11111112
+
+echiaro che eliminando ω’ lra le due equazioni (18) e(18)‚ si arri
+l’equazione del luogo cereale.
+
+’ Dunque il luogo geometrico dei centri di rotazione d' un sistema
+d' assi paralleli ὲ rappresentato dall'equazione
+
+111111011111)-(ρκ1111ν11111κ1111νι)
+-l²la²lx÷b²ll†c²rrl=0.
+
+ed ὲ quindi una superficie di terz'ordipe.
+
+(¹9)
+
+ 
+

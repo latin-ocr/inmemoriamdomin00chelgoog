@@ -1,0 +1,40 @@
+ALCL'NI TEOREMI
+
+SULLE FUNZIONI DI UNA VARIABILE COMPLESSA
+
+[TLISSE Dln'1
+Pr‘ojrssoru nullu R. Unirursild di Pisa.
+
+1. Il teorema ‹sulla esistenza di una funzione di una variabile
+: complessa z finita continuae monodroma in tutto il piane, che di·
+rviene infinitesima soltanto in punti dati arbitrariamente, ma dei
+z quali ne cade soltanto un numero finito in ogni porzione finita del
+:- piano z> lu dato per un caso particolare, ma molto importante, dal
+prol.BETT1 nel vol. III degli Annali del TORTOL1N1‚ pag. 82.
+
+Il caso considerato dal BETTI ὲ quello in cui gli infinitesimi
+sono del primo ordine, e le distanze dei loro indici non scendono mai
+al disotto di una certa quantita (ἡ WEOERSTRASS poi dette il teo-
+rema pel caso generale nelle Alrlrundlmrgen dur Berl. Akad. der Wis-
+sausclmstcn pel 1876.
+
+Il BETTI, lacendo i suoi studi sulle funzioni di una variabile
+complessa con speciale riguardo alle applicazioni che egli voleva sarne
+alle funzioni Jacobiane ed ellitticlre, non estese il suo teorema al caso
+generale3 pero bastava fare una leggiera modifieazione al processo
+segulto per ottenere la dimostrazione generale.
+
+cia risulta chiaramente da quanto espongo in questo paragrafo.
+
+S‘indichino con oq, α2 ..... α ...... i punti che noi voglianro
+prendere corne infinitesimi di una funzione monodroma finita econ·
+tinua‚ e siano ur„ ²²²2 ..... ru ..... gli ordini di questi infinitesimi.
+
+Escludiamo il caso in cui questi punti siano in numero finito,
+perche allora la funzione i: subito costruita, e supponiamo natural·
+mente (dietro la condizione posta sopra) che sia lim a„ =0; e pel
+caso che questi punti al, α ..... costituiscano una serie doppiarnente
+infinita, intendiamo che essi siano aggruppati con leggi determinate,
+
+ 
+

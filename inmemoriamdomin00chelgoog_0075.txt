@@ -1,0 +1,35 @@
+Ἰ 26 A. Cayley,
+
+-—— ———------ -.-———— . ——-
+
+’ we obtain either the equations of the set (1) or those of the sets
+(8), (9) and (10); and whether we use the set (2), (3) or (4), the only
+new equations obtained are thus the 9 equations ot the sets (8), (9)
+and (10); these several equations presenting themselves however in
+
+different forms, sor instance instead oi the equation [243AE = (ig-xl),
+
+we may obtain Ἥ = (iffi—1 ¹ etc.
+
+ls, to get rid of this variety of form, we multiply out the
+denominators, the 9 equations are
+
+0= x¹z⁹- 2x²z- 2x2² †x²—12x2-{-²’-2x— 2ῑῆ- 1,
+0= ,ἐπ’ -r6xz-{- 16x†16z-16,
+0=16x¹z²-16x²z—16x2’ -1-16xz - 1,
+0= κη’-καθα †x²†16xz
+0= 16x’z -16xz-z’
+ο 16x²z ' -16x2-16xz†z²†16x
+
+x²z² — 2xz⁹ -i-16xz†z’-16x
+o 16x22- x²-16xz -Ι- 2x -Ι- Ι.
+
+16xz²-{- x2-16xz-1622 ÷16z .
+
+These 9 equations are derivable all honr any one os thern by the
+changes os the set (1) upon x and ε.
+
+Cambridge, γᾶ June ιδῃ.
+
+ 
+

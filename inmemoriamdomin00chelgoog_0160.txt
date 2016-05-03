@@ -1,0 +1,42 @@
+Sulla integratione delle equanam, ecc. 111
+
+—-——- —·—- —.—— ——saffl— ——.
+
+cessarie e sufficienti alla determinazione delle 2n funzioni n, x„
+x3.... x„, pl, ριν.. p„. Di queste equazioni 2n-1 contengono le
+derivate delle funzioni incognite rispetto ad x„ si presenteranno
+quindi dopo la integrazione nn -1 costanti arbitrarie; eliminando
+
+sra queste equazioni le p otterremo χ, κν... x„ espresse in funzione ,
+
+di x¹ e di 2n-1 costanti arbitrarie che potremo rimpiazzare con
+n·-1 argumenti a„ n3‚.1., e„ e n funzioni arbitrarie di questi ar·
+gomenti. Tra le n funzioni arbitrarie hanno luogo n-1 relazioni
+a derivate parziali. Infatti ὲ facile vedere che si hanno le relazioni
+
+oo 11
+
+(14)
+(ιε) ἶι ”, ¹
+
+n> (Leo) enon
+
+’,Ἀ barin· δαιδα, s=2, 3,... n
+
+nin 4- 1)
+
+2 , ma soltanto n -1 sono indi-
+
+Queste sono in numero di
+
+pendenti ira loro.
+Insatti abbiamo
+
+(17)
+
+cosi si vede che la (14)e in sorza della (17) una conseguenza delle (13).
+Derivnndo le (13) rapporto ad x, c la (17) rapporto ad e,-
+abbiamo
+
+ 
+

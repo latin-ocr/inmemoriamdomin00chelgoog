@@ -1,0 +1,53 @@
+’ 100 Α. lir'annlrcim,
+
+Les triangies semblables o a p, a¹ p1 0 donnent
+
+ac><adou l²-·[n¹-}-(y-Iy¹]=ap><ab=y><a¹b1‚
+d’oir
+
+¹ (a)
+
+Les relations (1), (2), (3) permettent d'obtenir facilement les re·
+lations qui existent entre les eloments de [G] et de [G ]
+Si on determine l, x, y en fonction de lx, x1y¹on obtient des
+
+relations de memes formes que (1), (2), ( ).
+On pouvait privoir ce resultat, puisqu'on peut faire de'river l’el-
+
+lipsoide de la suriace de l’onde au moyen du meme mode de trans·
+formation.
+
+Pour de'terminer les ‹ile'ments de courbure de [ml] on peut
+, encore suivre une autre marche, qui a, entre autre avantage, celui de
+ne pas supposer connue cette proposition: G¹ est normale& la sur·
+face de l’onde.
+
+Prenons toujours (fig. 4) le centre 0, la droite G, ia circonfo-
+rence C docrite sur c dcomme diametre et le point v tel que l’an-
+gle c dv soit <igal ir l’angle que le grand axe de l'indicatrice de
+l‘eHipsoide [m] en m sait avec le plan de la figure (o, G).
+
+Soit v a la droite auxiliaire de l’une des suriaces elementaires
+de [G] dont la transformee est un element de suriace developpable.
+En abaissant du point u, qui est sur C diametralement oppos& av,
+ia perpendiculaire u b sur o a, on obtient sur G le point oir cette
+suriace elementaire est normale au plan (a, G). Nous savons d’apres
+ce qui aete demontre prece‘demment que l’angle b o a est droit et
+qu'en joignant le point o au point a on a une droite qui rencontre
+' G„ au point c¹ qui est un foyer du pinceau [Gy.
+
+Cherchons ce point ⁶1· Appelons s le point οὺ u b rencontre C.
+Les droites partant respectivement des points o, set qui aboutis·
+sent aux points b, c, a, d, forment deux saisceaux ayant des rap·
+ports anharmoniques egaux5 on a
+
+(4) ‚
+
+tangcoa tangcsa tangcdv
+ffl=ffl⁰uffiffl'
+
+Par les point 0, c, d, saisons passer une circonference5 appe·
+lons c² le point οὺ elle roupe 0 cr. L’angie c oa est egal ὲ l’an·
+
+ 
+

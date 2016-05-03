@@ -1,0 +1,59 @@
+278 L. senlafla
+
+und reell, und innerhalb gewisser Granzen eingeschlossen sind3 serner
+dass die v†1 Funktionen Q, die zur selben Gruppe (α, β, γ) von
+Exponenten gehdren, s‘aimmtlich von einander verschieden sind, dass
+also fiir die ηω Ordnung die durch 'die Lehre von den Potentialsunk·' .
+tionen geforderte volle Zahl 2n †1 der Funktionen P vorhanden
+ist. In Bezug aui die Entwicklung einer Funktion des Punktes= der
+Ellipsoidfl'riche nach Producten je zweier iibereinstimmender P dunk-
+tionen verschiedener Argumente werde ich das aui die ganze Ellip·
+soidfliiche sich erstreckende Doppelintegral, das bei der Bestimmung
+der Coefficienten die Rolie des' Nenners spielt, auidas bekannte
+Integral von CAUCHY mit geschlossenem Wege zuriickiiihren.
+
+Es seien A=x —a, B=x—b, C=x—-c, wo a<b<c.
+Weil ἐξ in Bezug auf die linearen Abmessungen um zwei Grade
+
+d t
+hiiher ist als P, so muss ἓξὲξ eine lineare F unktion von x sein.
+‚Also hat, wenn man vor der Hand den Exponenten α, β,’γ noch
+
+keine Bedingung auflegt,
+1 1 ¹1d²P Q¹¹ '
+
+-—- ..-=2-
+
+2ABC'P αι’ Q
+
+f
+
+die Form ᾖ † ff] -Ι- fg, wo f, g, n Constante bedeuten,
+
+die von seibst sehon der Gleichung f-i-g†lc=0 geniigen werden.
+
+W'are nun zum Beispiel α griisser als ἓ, die hier gebrauchte F unk-
+
+tion Q dagegen nicht durch x — a theilbar, so waire der vorliegende
+Ausdruck mit dem Unstetigkeitsterm
+
+u(2u—1)
+
+<rc-ai
+
+zweiten Grades behastet und kiinnte der Bedingung nicht genfigen.
+Nimmt man jetzt wieder Μ’ = α, . .. an, wie irn Ansang‚ und ver·
+steht unter Q die dortige ganze Funktion 2³⁶⁶ Grades, so erkennt
+man, dass keine Wurzel der Gleiehung Q=0 weder mita, noch
+mit b, noch mitc zusammen fallen kann. Jetzt ist:
+
+Q* Q'2Q÷x= 2n÷n² f
+
+(ι) 2- - ——= -
+
+Q a x-a ³(x-uu-ci x-a'
+
+Ware fernen Q=(x-x1)‘R, ivor eine ganze‚ 1 tibertreffende Zahl
+
+ 
+

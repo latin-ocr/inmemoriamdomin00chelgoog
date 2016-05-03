@@ -1,0 +1,56 @@
+286 ι. sclrafli,
+
+...- . -- —-.--.—
+
+Weil die Entwicklung von U keinen Term mit dem Exponenten —1
+enthalten kann, so ist 5de=05 daher hat eine additive Inte-
+grationsconstante‚ die zu U hinzu treten kdnnte, aul den Werth von
+td²dx keinen Einfluss. (Wenn man. wie hier geschehen ist, iiber
+die integrationsconstante so versiigt. dass die Funktion U nach einem
+einmaligen (also unvollstondigen) Umlaule um das endliche Gebiet
+von x in ihren entgegengesetzten Werth iibergeht‚ mit andern Wor·
+ten, dass sie in zwei iiber einander fallenden Punkten beider Blotter
+(also siir u und ziK' -.u) entgegengesetzte Werthe annimmt, so
+hat sie fiir u=0 den Werth -ΠΛ, Die Entwicklnng von U² be·
+steht aus einer ganzen Funktion T,(2 n- 1)‘⁴” Grades‚ von x, die
+ihren Werth nicht {indere wenn die Zeichen x, a, b, c durch
+
+,τ-ε, ιι-ε, b-e‚ c-e
+
+ersetzt werden, und aus einer unendlichen Reihe, die mit dern Term
+N: x beginnt und nach nathrlichen Potenzen von 1 :x sort schreitet.
+Daher ist:
+
+N: lim..r((l²- T)
+
+o=0ol
+von der erwihnten Constanten ε unablringig; nur eine Funlrtion von
+
+c—rr und b— o, und zwar eine algebraische Funktion von dersel·
+ben Classe wie die LnME’s'che Funktion P selbst hinsichtlich ihrer
+
+s constanten Elemente. Im Wertlre 4inN des gesuchten Nenners
+
+oder Doppelintegrales I ist keine andere transcendente Zahl als der
+Factor π enthalten, woriiber [ΑΜΕ P. 309 seine Verwunderung mit
+folgenden Worten ausspricht:
+
+Colle forme irnpre'oue, ce retour inesplrl au seul nombre π, celle
+esplce de rosus d'amcncr de nouvelles complicatioos, constituent le
+caroctlre le plus important de la solution glrrlrale qui nous occupe.
+
+Der rosus d’omencr de nouvelles complications findet sicher
+in ganz ausgezeichnetem Maasse statt‚ weit mehr als mir hier zu
+zeigen gelungen ist; denn die hier angegebene Art, N zu berechnen,
+ist beinahe ebenso beschwerlich, wie die von [ΑΜΕ gelehrte. Es ist
+sehr walrrscheinliclr, dass N durch ein einziges Product dargestellt
+werden kann.
+
+Weil die Zeit zum Abschlusse dieser Sammlung von Abhand·
+lungen dringt‚ die veranstaltet worden ist, um das Andenlren an
+den seligen Herrn CHELth zu elnen, so selle ich mich gendthigt,
+eine unvollendete Untersuclrung der Oellentlichlreit zu iibergeben
+und bitte deslralb den geneigten Leser um Naclrsicht.
+
+ 
+

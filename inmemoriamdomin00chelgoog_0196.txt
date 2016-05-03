@@ -1,0 +1,61 @@
+Sapra i sistenti lineari triplamente infiniti, ecc. 147
+
+---
+
+3. Sia
+
+(ς) r>r>r>r>...>r⁶.
+
+¹- 2- ³·- 4·- ’-
+Se in luogo di sesi scrive r†r-l-r-{-...(s volte), il primo
+membro della equazione (c) si comporta di Σε termini, ovver0‚ in
+
+virtd della (l) di 3v—1 termini. La (c) potia dunque scriversi nella
+forma
+
+f1†22†⁸‚†···†2v-1†⁵2=nv‚
+
+dove ει, εκ, . . ., εΗ, sono ciascuna la somma di tre dei numeri r
+ed e„ ὲ la somma di due di essi; se percid in luogo di ogni quantit&
+ε sl sostituisce la sommar1†r,†r3‚ in conseguenza delle (g) l' e·
+quazione precedente darn
+
+'q†ss†ffi>n
+
+Cio dimostra che qnando nel sistema vi i almeno una curva
+fondanrentale, esso ὲ ridneibile ad un altro di ordine minore, mediante
+una trasforrnanione quadratica ranienal .
+
+Noi aggiungeremo alle ipotesi del n.⁰ 1, quella che il sistema
+non contenga curve fondamentali*: quando ne possedesse‚ lo si po·
+tro, per successive traslormazioni quadratiche‚ ridurre ad un sistema
+che non abbia curve fondamentali e che percid rientri in quelli che
+ci proponiamo di studiare.
+
+4. Il ragionamento del numero precedente cade in diletto quando
+il sistema possegga due soli puuti fundamentalie la retta che li con·
+giunge sia una retta londonientale (r1 -l- r, = n). Percid le formole che
+saranno date in seguito non sono direttamente applicabili a questo
+caso: ma riusciri facile al lettore di vedere quali modificazioui si
+debbono portare ai ragionamenti che seguono, per iare la trattazione
+diretta del caso speciale suindicato.
+
+5. Abbiasi un sistema lineare Φ di curve dell’ ordine n e siano
+verificate le ipotesi qui sopra adottate. ll sistema contiene un numero
+triplamente infinito di reti; le Jacoblane di queste reti costituiscono
+un altro sistema triplamente infinito Ψ, che eauch’esso lineare. In·
+fatti, presi ad arbitrio tre punti del piano, vl sono tre curvet) le
+
+μ--ψ
+
+'Cosi noi cl ritroviamo nolle medesime ipotesl adottate da Cunascn (loco
+citato). ln queste medesime ipotesi sl pone il Carrei nella citata Memoria (quan-
+tunque non lo diclriari espressamente)‚ poiche approfitta dei risultati dictassent:
+persib il termine correttivo ω che l'uutore aggiunge ad alcunc sue formole e sem·
+pre nullo nei casi in cui possono aver luogo i ragionamentl fatti dall' autore me-
+desimo. Infatti ὲ facile riconoscere che quando due alstemi lineari sono dedotti
+l'uno dall’ altro mediante trasformazioni quadratiche, e sono eutrambi privi di curve
+fondamentali‚ po‘sseggono lo ‘stesso numero di punti fondamentali.
+
+ 
+

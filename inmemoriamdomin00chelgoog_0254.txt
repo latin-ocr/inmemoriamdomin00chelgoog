@@ -1,0 +1,25 @@
+Sur Pe'quation de Riccati. 205
+
+Supposons que l'6quation admette comme solution particulieres
+tontes les racines d’un e‘quation
+
+f(y)=0
+
+d’ordre superieur ὲ quatre. Elle admssttra donc aussi comme solu-
+tions particulibres les racines de tous les covariants. Je prends parmi
+ces covariants celui qui est de degr& moindre et qui est par hypo·
+these de degre} supkrieur ὲ quatre; car autrement on retomberait
+sur un des cas &cartes Il devra jouir de la propridtd que tous les co·
+variants soient de degrd supdrieur au sien. Or cette ρῑορτὶέῑέ, comme
+
+l'a montr6 M. GORDAN‚ caracte‘rise les formes §tudieies par M. KLEIN .
+
+et qui peuvent &tre transformkes en elles-QOes par des substitu-
+tions Enbaires. Ce point une sois ‹Stabli¹ on est conduit sans difficulte
+ὲ tous les cas dans lesquels l‘6quation propos& s'int6gre algkbri-
+quement. J’aurai l¹occasion de revenit sur ce sujet.
+
+Paris, inin ¹880.
+
+ 
+

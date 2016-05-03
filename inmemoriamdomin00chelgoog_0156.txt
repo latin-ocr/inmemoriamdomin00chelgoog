@@ -1,0 +1,64 @@
+Sulla integrazione delle ιᾳιιαείοηί, ecc. 107
+
+, Se re la funzione incognita e con Z si indica una sua deri·
+vata dell' ordine l- le chiano che avrerno
+
+nl ⁹⁸. dlix,
+
+‹2› }{={}†2“¹-Z·i-xf
+
+e dalle prime n—1 equazioni avremo
+
+(3) {3:324}ss- s=2,3‚...rr
+x, n, rr„
+
+ove Δ ὲ il determinante funzionale delle x ...... x„ rispetto alle xe
+
+n„ l'elernento reciproco a ἕξεί in questo determinante. La (2) di-
+ir
+
+viene allora
+
+dZ 82 dlix,
+
+eoa
+
+(4) ΕΞδ-ἦ-ῇᾞιμηῆδῖ·
+
+Dalle equazioni (3) si deduce che se Z contiene una funzione arbi-
+traria delle α tale che ciascuna delle sue derivate dia luogo ad una
+nuova funzione arbitraria non contenuta in alcuna delle derivate
+delle x rapporto alle α, tutte le derivate di Z rapporto ad x ......
+x, conterranno queste nuove funzioni arbitrarie, poiche non possono
+sparire tutte non tr'ovandosi nd in Δ ne nelle ow Parimente la (4)
+mostra che in questo caso delle funzioni arbitrarie non contenute in
+
+‘.dZ
+
+Z si presenteranno rn —, perchd le nuove funzioni contenute nelle
+
+dx¹
+. . . . δΖ
+derrvate dr Z rapporto alle α non sr trovano ιη i?
+1
+
+Quando le derivate di r contengono delle funzioni arbitrario
+non contenute nella funzione primitiva ne nelle derivate di ordine
+inferiore a quelle che si considerano, si dice che esse sono etero-
+genee alla funzione primitiva.
+
+Resulta manifesto dal modo col quale si presentano le nuove
+funzioni arbitrarie nelle derivate che se in alcune delle derivate di
+ordine lsi presentano delle funzioni arbitrarie non contenute nelle
+precedenti se ne presenteranno delle nuove in quelle di ordine l-{- 1.
+
+3. Vediamo quali e quante funzioni arbitrarie deve contenere
+l' integrale di una equazione a derivate parziali del primo ordine con
+rr variabili indipendenti affinche sia generale.
+
+Con s indichiamo il numero degli argomenti delle funzioni ar·
+
+bitrarie, l'integrale consteri allora di 5-1- 1 equazioni; derivandole
+
+ 
+

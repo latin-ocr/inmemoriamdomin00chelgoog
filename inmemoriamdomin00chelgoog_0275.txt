@@ -1,0 +1,50 @@
+226 L. Kronecker,
+
+scits aber t⁰ durch die Gleichung fd) =o mit den Variabeln z ver·
+bunden vorauS, so wird im letzteren Falle
+
+eed÷ed=0
+und also je nach den beiden Fdllen
+U=0 oder U.F'(t⁰)=-d(thFr(t⁰)F,(t⁰).
+
+Hiernach erhzilt man mit Beriicksichtigung der Gleichungen (D) und
+(E) das Resultat, dass je nach den beiden iiber t⁰ gemachten Vor-
+aussetzungen
+
+{dnh—2‘'d(t)dlogD(t)=o oder -4d(t⁰) (r,s=0‚1,...n)
+
+wird, und hieraus folgt, dass wenn die obere Grenze ¹des Integrals
+V unendlich gross und
+
+(ι)(ι);ε1)(ι)“ὲ
+
+angenommen wird‚ je nach den beiden Voraussetzungen
+. Σὺηνηεμυαθγὲ oder :0
+
+ist. Man braucht daher nur die speciellen Festsetzungen
+ὁμο, bsk=dst (5:0,1,...n; i,k=1,2,...n)
+und
+
+εε-ἑῶῦβῆὲ
+
+zu treffen, damit
+
+A'*}(t)d(t)dt=-d oder =0
+
+werde, je nachdem die untere Grenze 2⁰ von den Variabeln z unab-
+hingig oder durch die Gleichung F (d) =0 bestimmt angenommen
+wird. Das Zeichen ΔΙ hat hierbei die ubliche Bedeutung:
+
+AV((1‚K2‚···K„)={Vst (k=¹2²2···n)s
+
+und ὣ soll den Inhalt der (n — ι) sachen sphiirischen Mannigsaltig·
+keit z} † (ξ -Ι- . , . -Ι-ζὲ, = 1 angeben ἦ Ueberdies ist noch χ, = 1
+zu nehmen und die Grdssen a„ sind als reell und so beschaffen vor·
+
+*Vgh meinen Aufsatz: Uebcr Systeme von Functionen mehrcr Variabcln, im
+
+Mmatsbcricht der Berliner Akadcmic der Wsseuschaften vom Mfirz, 1869, pag. 169
+und 173.
+
+ 
+

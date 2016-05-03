@@ -1,0 +1,61 @@
+- —-- ---—--. ..--
+
+18 - · A. Cayley,
+where D is the product oi any number n of distinct linear iactors
+x - p, and N is a rational and integral iunction oi x oi the order n
+at most, and therefore also the integral
+
+pti-333:
+
+D
+
+where N is now os the order n—2 at most, is expressible as the
+logarithm oi a quasi-algebraicai iunction, that is a iunction containing
+
+powers the exponents of which are incommensurable (ior instance aff
+is a quasi-algebraical iunction): in fact the integral is of the iorm
+
+J(n÷A÷.A†...)Q.}„
+
+Η x-r
+
+where'each term is separateiy integrabie‚
+
+Ι
+
+palmari-bid} dlii,
+
+1 og‘apibffiffiiiffl ’
+
+where P is written to denote ap2-{-2bp-1-c: the integral is
+thus =log o, where Ω is a product os iactors clx-i-b-l-d‘ass,
+
+ΨΜ, etc. raised to powers M flate:
+
+Η ia’ te
+
+hence if we have a differential equation
+
+where Z ' (= a'z² † 2 b'z -Ι- c‘), and N'‚ D' are iunctions oi z such
+as X‚N,D are oi x; then taking log C ior the constant oi integra·
+tion, the general integral is log ss' = iog 6-1- logo: viz. we have
+the quasi-algebraical integral Ω’ - C Ω =0.
+
+The constants a, b, c, p, q, . .. etc. may be such that the expo·
+nents are rational, and the integral is then aigebraical: in particular
+
+ior the differential equation
+
+namnida-imo
+
+———....——.....-——- - .
+
+ziz-1> xix-1> ’
+
+the general integral is in the first instance obtained in the iorrn
+
+offla-noge: craxatore-1³²
+tzt2z÷2³si2t² ixnx÷2÷i3w
+
+ 
+

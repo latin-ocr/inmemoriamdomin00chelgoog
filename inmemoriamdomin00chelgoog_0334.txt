@@ -1,0 +1,48 @@
+Einige Bemerkungcn iiber die Lame' 'scltm Funktionen. 285
+
+gangslinie bc aui der Nordseite des obern Biattes folgt und aui ihrer
+Siidseite im obern Blatt nachb zuriickkehrt‚ von da im obern
+Blatt nach dgeht, und von hier an sich mit Blattwechsel widerholt,
+bis der Anfangspunkt b wieder erreicht ist. Erweitert man diesen
+Weg gegen den Horizont hin, so bildet er im riiekiiiufigen Sinne
+einen doppelten (weil in beiden Blittern befindlichen) Umlaus um
+das endliche Gebiet von a, b, c(in Wahrheit also einen vollstiindigen
+positiven Umlaui um den Verzweigungspunkt 00). F iit diesen Weg
+ist nun
+
+¹J= Uer- a)dU=}-1e(x- cii-- 0²,dx
+
+wo ΞῌΓ (x-a)} verschwindet. Macht man den Weg m Bezug aui
+
+das endliche Gebiet rechtl'iufig, so ist
+I= 5 (J ² d x;
+
+man hat also θ’ nach sallenden Potenzen von x zu entwickeln‚ bis
+der Term N: x erscheint3 dann ist
+
+I=4x.N.
+
+Wegen (Γ ist es gleichgiiltig‚ ob man im Ostpunkt des obern
+Blattes ism negativ oder positiv annehme; man kann daher
+
+die Entwicklung von ἑ (Α Β 6)-; mit dem Term {ic-3 beginnen ;
+
+P’ beginnt mit κ’· und ist eine ganze Function von x; die Entwi·
+cklung von
+
+dann ist
+
+U=—¹-x'‘' .³÷-—¹—·e'''x ³†- ÷
+
+zn— 1 2n-3
+
+ε -¹. - 1 ,
+÷i„..,x²-·s..x '-}in÷1x 'in-miv* ’Μ
+
+folglich
+2
+
+N* izn——1›²i2n†1›²'²”‘''¹’”i57233'i273'1i¹i¹†““
+
+ 
+

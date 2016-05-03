@@ -1,0 +1,57 @@
+Eim'ge Bemerkungen iiber die Lamb'sclzen Funktionen. 283
+
+so ist
+
+ι
+QW‘=(c-a)³k25v Cva‚
+
+siidlich lateral, und
+
+2
+VW--ss-afflfSwaDw
+
+negativ. Wenn die Abkurzung ιίιεΖ-Ᾰί-Λτ gilt, so hat man
+
+zfflssc
+
+Ν du d dv d [law
+Ἷῗ-’ῑ '²6²3 ‘²v'''c-a
+
+F ur die Verwandlung der rechtwinkligen Coordinaten ιι, y, ιι eines
+Punktes m die elliptischen Coordinaten ιι, v, w gelten die Formeln
+
+--=k² Su SvSffiv -=-=--Cu Cv Cffiv
+
+Ψῖά W- a
+
+ᾖ-ἰῖῖεὲὒαῦιῦιι,
+
+Wenn ιι, v, w in den oben angegebenen Intervallen liegen, so
+sind x, y, z alle positiv. Hiilt man w und v in irgend einer der
+angegebenen Lagea sest und liisst ιι vono bis 4K gehen, so bek6mmt
+man fiir (Su, Cu) nach einander die Zeichencombinationen † ψ,
+4- —, - —‚ —. -Ι-, also auch fiir (ιι, y), wiihrend z positiv bleibt.
+Nun halte man u in irgend einem der durchlausenen Werthe sest
+und lasse v vonK bis K 4- 2 i K ' gehen3 dann bleiben: 5 v positiv,
+C v siidlich lateral, und nur Dv sinkt von l aus —l herab3 x, y
+bleiben also in dem positiven oder negativen Zustand, den sie sehon
+hatten, und nur z geht aus dem positiven in den negat1ven tiber.
+Aur diese Weise beschreibt der Punkt die ganze Oberfleche des
+Ellipsoids (w). Soll er endlich den ganzen Raum beschreiben, so
+braucht man nur noch w von 1<ss iK' nach iK' gehen zu lassen.
+
+Wenn nun
+
+fe,e')=·--÷c-1>(c'›12<t')†...
+
+die erwzihnte Entwicklung einer Funktion des Punktes (t', ι’) der
+Oberfliiche des gegebenen Ellipsoides nach LAMss‘schen Producten
+anzeigt‚ so ist
+
+sfffflUffl-AEPwfflmnm½=
+²0ssffl-AEffwfffflastn
+
+wenn beide Integrationen sich iiber die ganze Oberfl'ache erstrecken,
+
+ 
+

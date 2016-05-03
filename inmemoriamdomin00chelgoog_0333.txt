@@ -1,0 +1,52 @@
+284 r. serrasti,
+
+...d ——- ——-
+
+Das Doppelintegral rechts, das im Ausdruck sur den CoefficienteuC
+
+als Nenner austritt, sei mit I bezeichnet. Wei1(A'-A') P² (t') P· (ε’)
+in entsprechenden Punlrten der acht Theile der Oberfltiche denselbcn
+Werth annimnrt, so ist
+
+ſtru, tuentur sumetur-'¹
+ι ‚tF²(r')dt' 5A'P²(r)dt¹ i ²
+
+wo tls-'scir' von 0 bis K, und dT--at' vonK bis K -l-r' K' geht.
+Essa P²(t)dt=dU, AP²(t)dt=dV,
+
+ubgesehen davon, welcher der drei Fldchengattungen t (oder wenn
+ma'n will, A) angehdre3 U und V sind Integrale zweiter Art, die
+nur fur A = 00 unendlich gross werden, resp.. von den Ordnungen
+‚ru—3, ‚en ἡ, wenn wieder wie frither A = x - a, . . . gesetzt wird.
+Versieht man eine zweibliittrige zur Ausbreitung der Funktion
+
+tim* und der mit ihr gleichverzweigten Integrale bestimmte
+x-Ebene mit den· Verzweigungspunhten 00, a, b, c und verbindet
+zum' Beispiel den.Westpunkt mita durch eine, gerade Uebergangs·
+linie, ebenso b und c, so hchren U, V nach einem vollstiindigen
+Umlause (bei dem nur die erste Uebergangslinie von x passirt wird)
+um das endliche Gcbiet von a, b, c, auf ihre urspriinglichen Werthe
+zurtick. Die Perioden der ‘zwei Functionen U, V, welche den Perio-
+den 2K‚ ziK' des Arguments entsprechen, scien 2 ΠΙ, 2 U2; 2 V„
+2V2, so dass I=8(QV2-U2K).
+
+Man betrachte nun das einfache Integral rud V, bei dem
+das Argument tic-‘scit = tu von —K bis K, daun nach K -Ι- 2 i K,
+von da nach -- K i· 2 iK‘ geht und endlich nach — K zuriick hehrt.
+
+Fur diesen Weg ergibt sich 4(U1V2-U,V,)={J als Werth
+
+des Integrais. Der Weg umschliesst einen einzigen Unstetigkeits·
+punkt, niimlich i K', kann also aus einen kleinenrechtliiufigen Kreis
+um diesen Punkt zusammen gezogen werden. Es ist aber bequemer
+den Weg aui die zweibldttrige x-Ebene iiber zu tragen. Oberes
+
+Blatt heisse dasjenige, in welchem die Funktion tisr‘lr'Z auf der
+Strecke vona bis b pusitiv, nus der Strecke von c bis zum Ostpunkt
+also negativ ist. Dent rechth'iufigen W ege liings des Urnfangs des
+Periodenrechtecks auf der Argumentebcne entspricht daun aus der
+x-Ebene ein Weg, der im untern Blatt von b nach a geht, hier durch
+die Uebergangsiinie ius obere Blatt tritt, nach b geht, der Ueber·
+
+ 
+

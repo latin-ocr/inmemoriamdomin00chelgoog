@@ -1,0 +1,65 @@
+Sapra la propagazione dcl calore. 235
+
+e quindi il valore di V ¹, in ogni punto interno allo spazio S, sarebbe
+espresso per funzioni date.
+Se la conducibilithe uguale in due direzioni qualunque opposte
+
+1’ una all’ altra, sana*
+aio Ξ am
+
+e se il corpo& omogeneo i coeffieienti af, saranno costanti. In que·
+sto caso una funzione U che soddisfa alle equazioni (5), (6) e (10)
+
+ὲ la seguente:
+..2.
+
+ΛΜ)
+ns> -
+(ΗΓ
+
+nella quale si ha
+
+(16) φτΣιΣιΑω(κι-κε’)(κ.-κ.’),
+
+e posto
+an axz αῖ)
+
+(17) ι D: a²1 a²² a33 .
+
+a3¹ a3² a„
+
+i coefficienti Α), sono determinati dall’equazioni
+
+. 3121
+
+ΛΡΜ-Β.
+
+Effettuando le derivazioni e rammentando alcune proprieth
+elementari dei determinanti si dimostra facilmente che la funzione U
+soddissa alla equazione (10).
+
+Per dimostrare che la funzione U soddissa alle equazioni (5)
+e (6) osserviamo primieramente che la funzione φ con una conve-
+niente trasformazione di coordinate prende la forma:
+
+q>=fflnsffl Μ
+
+ai bi ⁶2
+
+dove le costanti a, b, c sono le radini di una equazione di terzo
+grado, ed abbiamo
+
+(18) aba: ¹
+
+A„ A„ A„ ἑ
+A²¹ A„ A²3
+¹43¹ A3² ΑΞ(
+
+:nv
+
+————
+
+’ Vedi Lm, Lepons sur la thlorie analytiquc dc la Chaleur, pag. 11.
+
+ 
+

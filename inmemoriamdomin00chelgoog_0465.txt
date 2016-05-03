@@ -1,0 +1,52 @@
+414 · 'L. Cremona,
+
+fflmhoefflmm
+(k1k4—k2k3)w²x²†(k1K44-k4K1—k2Kj—ic3li'fflx
+†KK—KK=0
+
+equazione che scriveremo brevemente cosi:
+(cn F=0
+
+e che rappresenta una superficie di 4,ο ordine, avente 0 per punto
+doppio uniplanare e tale che ivi la superficie tocca se medesima:
+ossia, ogni piano condotto per 0 sega la superficie secondo una
+curva che in 0 ha due ponti doppi infinitamente vicini. Il piano tan·
+gente singolare x=0 taglia la superficie secondo quattro rette in·
+crociate in 0: onde 0 assorbe quattro intersezioni della superficie
+con qualunque linea passante' semplicemente per 0 ed ivi toccante
+il suddetto piano x = ο.
+
+3. In generale, una superficie di 4.0 ordine dotata di questa ·
+singolarita in 0 ha per equazione
+
+(s) hw=x=nuwx÷v=0
+
+doveh ὲ una costante ed n,n sono polinorni omogenei in x, y, χ,
+risp. del grado 2, 4. 1
+
+L'equazione (5) pud essere ridotta,e in infinite maniere, alla
+forma (4). Infatti: si considerino le equazioni
+
+τιν-0, v=0
+
+come rappresentanti una conica ed una curva di 40 ordine, poste in
+uno stesso piano, Presi ad arbitrio in o= 0 i punti 12 34 ὅ 6 7,
+descrivansi le coniche
+
+K=0per12345
+K,=0pe112346
+
+le quali seghino inoltre v =0 risp. in mn„ pst, ng. Poi descri-
+vansi le coniche
+
+K3=oper6p1q1rst
+K4=oper 6p2q2nst
+
+le quali, com'e notissimo, si segheranno in altri tre punti pqr della
+curva v=0. Epperd questa curva sara generabile mediante i fasci
+projettivi di coniche
+
+K,†>„K‚=o‚ K3†iK4=o,
+
+ 
+

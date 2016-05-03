@@ -1,0 +1,53 @@
+- Sulla integrazione delle equaziom', ecc. 113
+
+ed ogni funzione di questi integrali uguagiiata a zero soddisfer& le
+(5). Ma le prime n-1 danao le condizioni oeg=cost. e le altre
+sono precisamente le prime n-1 equazioni (12). Ora le (12) sono
+verificate dalle espressioni trovate per le x nella ipotesi che le α
+siano costanti, dunque le quantit& α possono effettivamente pren·
+dersi per argomenti delle funzioni arbitrarie.
+
+7. Ρυὸ accadere che una relazione ira z le x e le α dedotta
+dal sistema di equazioni che costituisce l’integrale della (6) non
+soddisfi que'sta equazione quando si suppongono costanti le ας od
+in altre parole che l’integrale generale della (6) determinato in
+questo modo non dia luogo ad un integrale completo quando vi si
+suppongono costanti ie α. Ma si pub seguendo una via analoga a
+quella tenuta da AMPERE dedurre dall' integrale generale un inte-
+grale completo e conseguentemente anche 1’ integrale generale sotto
+la forma data da LAGR1NGE Se dalle equazioni integrali si cava
+il valore di
+
+Ι” δ(
+
+12:⁸⁶¹”8m
+
+che ὲ quello di p, espresso in funzione di x, az, a3‚,.. α, e si rap·
+presenta con P, questa espressione, potremo introdurre una nuova
+
+variabile u definita dalla equazione
+
+(18) u =(—}J„P„x„.
+
+Eliminandoz per mezzo di questa equazione dalle equazioni che
+
+danno x2, x3 ,... x„ z in funzione di x1⁵¹2=··“·· avremo n equazioni
+ira le quali potremo eliminare le n-1 quantit& xv... x„ esi ot-
+terra cosiluiia relazione della forma
+
+(19) fia, κῃ ev· «„)=0·
+
+Se in questa sostituiamo ad u la sua espressione (18), essa insieme
+ad altre n—1 equazi'oni che al pari di questa siano una conse·
+guenza del sistema integrale potr& rappresentare l' integrale generale
+della (6), talche dovremo trovare, se da esse deduciamo il valore
+
+di p, espresso in funzione di xl, ἂν... a„ la espressione ΡΣ trovata
+precedentemente.
+
+La (19) derivata rapporio ad “a dari
+
+{stiffi} “ Jssfffiiiai
+
+ 
+

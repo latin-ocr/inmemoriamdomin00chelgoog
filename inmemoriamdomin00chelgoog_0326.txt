@@ -1,0 +1,43 @@
+EINIGE BEMERKUNGEN
+
+UEBER DIE LAME’SCHEN FUNKTIONEN
+
+L. scfflffl
+
+Professor an der Universitcit Bern.
+
+In seinen Lecons sur les fonctions inverses des transcendantes
+(Paris 18 57) S. 279, definirt LAMF} eine Classe von ganzen F unktionen
+der Halbaxen einer F liche zweiten Grades durch folgende Bedingung.
+
+Die Halbaxenquadrate der Fliichen seien mit A, B, C bezei-
+chnet‚ die Unterschiede A—B, B-C seien positiv und constant,
+so dass ein System consocaler Fliichen entsteht. Es sei ferner
+
+dt: ΔΑ
+W,
+
+also νΠΛ Argument elliptischer Funktionen im Sinne von JA·
+conl, und P eine ganze Funktion n'‘” Grades der Halbaxen, welche
+in die Form
+
+ffiffimQ
+
+gebracht werden kann, wo 2 α’ = e, 2 β’ = β, η’ = γ, und wo Q
+eine ganze Funktion von A bedeutet, deren Grad ν durch
+
+2st÷ss†e†0=n
+
+bestimmt ist; endlich sei
+
+2222>
+
+Ρ de'
+eine ganze Funktion von Α (die dann nothwendig vom ersten Grade
+sein wird); daun ist P eine LAMss'sche Funktion nm Ordnung.
+
+Ich will nun ohne Hiilse bestimmter Integrale zeigen, dass die
+Wurzeln der Gleichung Q=o siimmtlich von einander verschieden
+
+ 
+

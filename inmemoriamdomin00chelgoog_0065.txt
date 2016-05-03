@@ -1,0 +1,44 @@
+16 F. Siacci,
+
+· di prima e di terza specie, i quali si riducono alle forme tipiche‚
+introducendo un angolo, di cui il C11EL1N1 ha indicato pel primo la
+significazione geometrica.
+
+56.
+
+Il CHELINI, nella Memoria citata, dimostrato il teorema del
+Poinsot, ricava anchei nove coseni degli angoli formati dai tre assi
+dell’ellissoide centrale con tre assi disposti appunto corne Oxyz.
+Tali cosmi, che equivalgono a quelli dello schema (7), sono
+
+eos(xp)={.p‚ cosemsslffl eossffl-—Cec
+
+G v' G v'
+. Β G-Bltq
+cos(xq)=-Cq, εοευᾳμ-Τῦ, cos(zq)=
+
+· C G-Clzr 14-qu
+cos(xr)=-5r, ⁶⁰⁵(yr)=—G—r]' cos(zr)=—-G—-v-,
+
+Ε ben sacile dedurre da queste espressioni ladimostrazione del
+teorema relativo all'iperboloide centrale. Considerando infatti che
+
+00³² (pr † ⁶0⁵² (ie) ÷ 00⁵² (yr) = 1»
+e che, per essere v la proiezione del semidiametro di contatto so·
+
+pra Oy,e
+icosw)eicosryqi÷rcosiyrr=2r
+
+si possono scrivere immediatamente le equazioni
+(G — Ab( ρ’* -Ι- (G -Blt)² ᾤ’ -Ι- (G - Ch)² r'² = 6² h'2
+(G -Alz) β’ -Ι- (G -Blz) q'² -(- (G — cle) r'² = G h'2
+
+avendo posto
+
+E queste equazioni sono la traduzione algebrica del teorema
+enunciato al principio di questa Nota.
+
+Totins, πο rprile 1879.
+
+ 
+

@@ -1,0 +1,50 @@
+200· G. Dnrboux,¹
+
+Ce point etant admis, on voit que si l'e‘quntion (2) est de degre
+superieur ὲ trois, le rapport anharmonique de quatre quelconques
+de ses racines derra etre constant. Or toute racine d’un covariant
+donne lieu, avec trois racines quelconques de la forme fondamentale‚
+{eun rapport anharmonique, qui est constant, ou qui depend seule-
+ment des rapports anharmoniques des racines de cette forme; ce
+
+rapport anharmonique sera donc constant dans tous les cas et par
+consequent la racine consideree du covariant sera une solution par-
+
+ticuliere de Pequation differentielle proposee.
+- 'Considerons par exemple, l’equation differentielle
+
+2dr 2
+(4) str—stffr -r2-3
+
+qui a ete‘ etudie'e par M. CAYLEY (Messenger os mathomarias, 1874,
+p. 69) et qui se presente dans 13 theorie de la transformation du
+troisieme ordre des fonctions elliptiques. Cette theorie nous apprend
+que l'equation differentielle sera ve‘rifiee par les racines de l'equation
+
+str)=r⁴-6r²-4r²-3=0·
+11 saut donc que le rapport anlrarmonique des racines de cette forme
+soit constant. En effet, si l'on calcule les invariants i etj on trouve
+
+i = o
+(s) , . ,
+1:4—1.
+Formons le Hessien de 13 forme s,· nous trouverons
+(6) H=y⁴†2ory³†6y²†2yx-l-n²—3=o
+et on reconnaitra aisement que l'equation (4) admet encore comme
+solutions particulieres le racines dece Hessien.
+Enfin si l’on forme le covariant T, on trouvera
+(7) T: oty⁶ ⁴ 12)νῖ ÷ 15 23¹⁴ ÷ Ιοσῧγ3 ÷ 15 ory² ψ (36-6321)ι ÷ 9² -223
+
+et les recines de T donneront de nouvelles solutions. On sait que
+l’on a entre f, T, H 13 relation
+
+(8) T²=4H³-(4—c²)s³.
+
+11 est nise de deduire des remarques precedentes la solution ge'nerale
+de l’equation (4). Considerons en effet le covariant absolu
+
+Les racines dece covariant seront des solutions de l'equation pro·
+posce, et comme elles dependent de la constante Cl'integrale ge·
+
+ 
+

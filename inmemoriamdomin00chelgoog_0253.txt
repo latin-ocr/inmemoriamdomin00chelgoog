@@ -1,0 +1,55 @@
+204 G Darboux,
+
+vement les coefficients dea2 et deb’¹' comme variables; e’nestndire
+de remplacer successivement a par α et b par β, ce qui donne
+
+00]
+00
+
+On forme de meme (H, p) et l'on trouve
+ζ-(Η, n = (0 — 03030000030000030
+i (n' ·· 0003003000 (a 0000000·
+
+Il n’y a plus ὲ faire que des calculs purement algebriques et ὲ mon·
+trer qu en tenant compte des equat tions identiques (15 )‚ (16) aux
+
+000 {uun
+
+quelles satisfont les symbolesa‚ b „p α ,,β l’expression—
+
+33000030 030003000030.
+
+ne differe de H que par un facteur, fonction de x.
+
+Pour cela, dans l'e'quation (15) remplaconsy1, γ, par y, 0- ir„
+32-0-0(2 et prenons le coefficient de 00 dans.les deux membres.
+Nous aurons ainsi l’t'eqm ron
+
+0300303000 030-00 0003(03300000000000)
+:wailha-
+
+Rempl÷15;ons·yz1,n² respectivement par b²> - t et multiplions par
+030, nous aurons
+
+0300000003 ’00000- 00301 0000000
+000300 300000 00330303 0300 ’00000
+
+On aurait de meme, en echangeant les symboles a et 0
+
+00000000( 000030 33va
+-00300 b3⁸t1⁰ibi⁰ ’000000000--0 03000000)
+
+En ajoutant ces deux equations on trouve
+
+ce qui demontre le theoreme.
+
+Je ierai remarquer, en terminant, que ce theoreme permet de
+definis les cas dans lesquels l‘e'quation differentielle proposee peut
+avoir des integrales algebriques.
+
+Laissons de coto les cas faciles ou l’equation admettrait comme
+solutions particulieres les recines d'e‘quations du second, du troi-
+sieme ou du quatrieme degre.
+
+ 
+

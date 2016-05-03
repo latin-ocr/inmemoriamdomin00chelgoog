@@ -1,0 +1,46 @@
+Sulla teoria degli assi di rotarione. 351
+
+che rappresentano 1¹ asse centrale delle quantita di moto, il quale
+ριιὸ essere, per semplicita, designato tuttavia col nome di asse d’ irn-
+pulso, ed ὲ ancora perpendicolare all’asse di rotazione.
+
+Da queste equazioni si deduce
+
+(η). a²rx÷b²nrc²rr=5÷<uxrvrrwn
+
+quale equazione del piano condotto per l’asse d’ impulso eper il ba·
+ricentro, talehe‚ se si chiama centro d' impulso il punto in cui l’ asse
+d' impulso incontra il piano normale (4)(Ι passante per l' asse di rota·
+zione e per il baricentro‚ si seorge che, per tutti gli assi di rotazione
+di direzione ( p, q, r), il centro d’impulso giace nel piano (5)„ cioe
+nel piano diametrale dell’ellissoide centrale coniugato alla direzione
+suddetta. Questo piano none pilr perpendicolare al piano (4)¹ enon
+contiene piri gli assi d’impulso: questi, corne i corrispondenti assi
+di rotazione, riempiono ora tutto lo spazio, ed i loro centri d¹irn·
+pulso riempiono tutto il piano (5).. Il piano condotto per l’asse
+d‘ impulso normalmente all’ asse di rotazione ὲ ancora rappresentato
+dall'equazione (6).
+
+Moltiplicando ordinatamente le equazioni (τ), per u, v, we
+sommando‚ si ha
+
+Moltiplicando ordinatamente le equazioni (12) perp, q, r e
+sommando‚ si ha
+
+x li
+(¹4) 'r rr ÷H=0.
+
+iuven
+
+Quest’ultimo risultato ὲ indipendente da s, e non differisce
+quindi da quello chesi sarebbe ottenuto operando similrnente sulle
+equazioni (2),‚ relative all’ipotesi s=0. A questa circostanza ὲ do·
+vota la generaliti del teorema cui alludevannoe che ora procediamo
+a dimostrare.
+
+Le due equazioni (13), (14) rappresentano due plani paralleli,
+condotti il prirno per l’ asse di rotazione, il secondo per l’asse d’im·
+pulso corrispondente. Si inmagini un terzo piano, parallelo al pre·
+
+ 
+

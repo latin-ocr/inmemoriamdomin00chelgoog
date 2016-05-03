@@ -1,0 +1,53 @@
+Sulle cubiclre ternarie siazgeticlte. 31
+
+L‘equazione (2) ἐ la forma canonica alla quale puo generalmente
+ridursi l'equazione di una linea di 3⁰ ordine. g
+
+Le equazioni che rappresentano‚ in coordinate di rette, i flessi
+W della cubicas saranno evidentemente (indicando con ε ed ε’ le
+radici cubiche immaginarie deil‘unita)
+
+W,=V,- V3=0, W2=V2-eV3=0, W3==V2—e²V3=0,
+(3)W4=V3—2²V¹=0‚ W5=VJ— V¹=0‚ W⁶=V3—aV¹=0,
+W7=V¹-e V2=0‚ Ws=V1-²²V2=0· W9=V1- V2=o‚
+
+dalle quali appariscono gli aliineamenti dei ficosi, essendo le tre
+equazioni che corrispondono a tre flessi in linea retta tali che una
+Ι qualunque di esse ὲ conseguenza delle altre due.
+
+Risulta da (3) che le equazioni
+
+17²3- V³³=Q ἷζε-((330, (χιε-Κιὲο,
+
+rappresentano rispettivamente le terne dei flessi di f appartenenti
+ai lati (v¹‚v2‚ 213) della terna i0ndamentale, e l‘equazione
+
+, (κ’-νῇ)(νῄ-νῐηνῆ-ΚἿ-εο,
+
+rappresenta in complesso i nove flessi della cubica f.
+
+La conica polare di un flesso si decompone nella tangente d’in-
+flessione delia curva ed in un’altra retta‚ che per una cubica si dice
+la palare armonica del flesso. Per una cubica ia conica polare es-
+sendo! anche prima polare‚ la polare armonica w di un flesso W
+passeri pel punto coniugato armonico di W rispetto alla coppia dei
+punti d’intersezione della cubica con una trasversale qualunque con-
+dotta per W, ed incontrera la cubica nei punti di contatto delle
+tangenti condotte dal flesso. Essendo la conica polare di un punto a
+rispetto ad f rappresentata dall'equazione
+
+M(z¹dd—z{†z2ffi-z†23 di³)†N(3AE4-2 ffi--tz fiko,
+
+a—ro' ιιίευῐ ²dw, ἀπο,
+
+si trovera che le equazioni delle polari armoniche w corrispondenti
+ai flessi W saranno ordinatamente in corrispondenza delle equa·
+zioni (3) ’
+
+w,=v,— v3=0‚ w,=v,-a²v3=0‚ ²⁰3=v2‘⁸²'3=02
+(4) w⁴=v3—ev,=0‚ ²⁰5=vr‘ v1=0‚ w⁶=v3-e²v,=0,
+
+w7=v¹—t²v,=0, w8=v¹-tv,=0, w9'=v¹— ²¹2=0·
+
+ 
+

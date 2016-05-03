@@ -1,0 +1,52 @@
+laterae ad una gener‘alr'zeazr‘one lli alcuni tcorerni, ecc. 173
+
+in cui le 0„ O„ 03 possono contenere le coordinate, le componenti
+della velocita ed il tempo in un modo qualsiasi. L’esistenza dell'in·
+tegrale (4) introduce un vincolo alla direzione non alla grandezza
+della sorza, ma non prescrive alcuna limitazione alla direzione ed
+alla grandezza della velocitlr ἦ qualunque sia il valore attribuito adh
+purche diverso da zero: per lr= 0 invece le tangenti alla trajettoria
+debbono appartenere al complesso n. Invero
+
+Uno curva qualunque puri sempre essere liberamente descritta ria
+un punto solleritato da una sorra, la eui linea d’ap'orre varii in rm rom-
+plesso lineare assegnato ad arbitrio.
+
+Imperocche se λ, μ, ν rappresentano i coseni di direzione della
+normale al piano osculatore della curva, insieme colla (2) reggera
+ancora l’equazione
+
+λΧ-Ι-μΥ-Ι-νΖ-το,
+
+e quindi
+
+(6) hope-213), homi-ic). hona-pn),
+
+dove Θ ὲ una funzione da'determinarsi. Ora detti rispettivamente
+a, b, e; α, β, γ i coseni di direzione della tangente e della normale
+principale: v, ρ, s la velocita del mobile, il reggio del circolo oscu-
+latore e l'arco della curva, e finalmente posto per compendio
+
+Aa-l-Bb†Cc=r,
+
+anzitutto l'integrale (4) ci dar‘a
+
+(7) ¹²²?
+
+edin seguito le equazioni del moto si potranno mettere sotto la
+forma
+
+---,- μα”εθμσ-νθ)
+
+bh² dr §h‘
+
+--‚-- ds p--p-opn -,rc>
+
+da tutte e tre le quali, come ὲ facile verificare, si ricava per θ lo
+stesso valore. Quindi, assegnata la curva ed il complesso lineare,
+
+‘ Per h non zero le rerte del complesso Ω sono rette secondo cui la velo·
+cita diventa infinita. ,
+
+ 
+

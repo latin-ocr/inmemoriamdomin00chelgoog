@@ -1,0 +1,54 @@
+290 Rudolf Wolf,
+
+Zahlenreihe gibt die beigegebene Tabelle in der mit r iiberschrie·
+benen Columne als Muster die aui die 20 Jahre 1859 bis 1878 be·
+
+, ziiglichen mittlern jiihrlichen Relativzahlen‚ und es ergeben sich aus
+
+dieser Zahlenreihe auf den ersten Biick, oder auch indem man sie
+(bei den Abscissen z. B. 1⁰⁴² fiir das Jahr, und beiden Ordinaten
+1¹nm fiir die Einheit der Relativzahlen wihlend) durch eine Curve
+darstelit, theils der charakteristische Gang der Erscheinung iiberhaupt,
+theils die Zeitpunkte von Maximum und Minimum.
+
+'Nachdem ich so eine die Fleckenhiiufigkeit scharf reprfisenti·
+rende Zahlenreihe gewonnen hatte, lag es fiir mich nahe dieselbe mit
+den da und dort aus den magnetischen Variationsbeobachtungen
+erhaltenen Zahlenreihen zu vergieichen‚ und mir namentlich die Frage
+zu stellen, ob sich nieht etwa die Variationen v nach der eine Sca·
+leniindernng reprdsentirenden Formel
+
+v=a†bm
+
+aus den Relativzahlen r berechnen lassen; denn, wenn dies mdglich
+sein sollte, so wdre ja damit ein neuer unumstdsslicher Beweis sirr
+den innigen Zusammenhang der Erscheinungen aus der Sonne mit
+den betreffenden Erscheinnngen aus der Erde geleistet. Die Rechnung
+ergab mir nnn wirkiieh dass sich die an den verschiedensten Orien
+der Erde bestimmten Jahresmittel der Declinationsvariationen mit
+relativ grosser Genauigkeit durch soiehe Formeln darstellen lassen‚
+und so sand ich z. B. von 1859 hinweg fiir:
+
+Toronto v = 7'‚96 -Ι- ο,ο4ο . r Prag v :5277 -}- 0‚043 .r
+Greenwieh 6,67 39 Christiania 4,86 41
+Paris 8 ,24 76 Petersburg 6 ,18 40
+Miinchen 6 ,5ο 46 Nertschinsk 3 ,50 26
+
+etc. etc. Jede neue Rechnung dieser Art ergab mir ein neues'Spie·
+gelbild meiner Sonnenfleckenperiode aus der Erde, und aus der Ge·
+samrntheit meiner F ormeln erkannie ich, dass zwar siir die beiden
+Constanten meiner Formel aus jeder Reihe etwas andere Werthe
+
+solgen, dass aber nur a von Ort zu Ort wesentlich weehsle oder
+mehr localer Natur sei, dagegenb einen nahe constanten Werth
+besitze und (wenigstens fiir Mitteleuropa) ohne grosseh Fehler
+gleieh 0,o45 gesetzt werden kdnne‚ so dass also annshernd der Son·
+neneinfluss aus die Variation fiir jeden Ort durch
+
+nrff=0,o45.r
+
+gegeben werde. Die in der mit r' iiberschriebenen Columne der Tasel
+eingetragenen Werthe sind nach dieser Formel berechnet.
+
+ 
+

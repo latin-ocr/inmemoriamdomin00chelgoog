@@ -1,0 +1,59 @@
+Una formala fondamentale concernente i discn'minanti, ccc. 309
+
+nv·- - -———-
+
+I discriminanti G e ς hanno manifestamente‚ per le (6), il rap
+porto 0²··¹ tra di loro,
+
+(7) G= θ’“·’ς.
+
+Ma non e del pari evidente che G contenga g, e quale sia il rap·
+porto di Ga g. Ora la immola, che e oggetto di questo articolo,
+si riserisce appunto a questo rappodo, e significa che esso ὲ il qua·
+drato di una espressione k composta in modo razionale intero coi
+
+simboli (4) e (5). La sormola ὲ dunque
+(⁸) , G=gk²,
+dalla quale e dalla (7) si ha poi il rapporto di ς a g
+(9) ’ θ’·“·’ ς = g (ε’.
+Per trovare la formola (8) cominciarno a notare che, posto
+
+(εγ fln=f0n-‹·›,ln-oel..·n-0›.)‚
+si avra
+
+‹10›r=f0²····(‹·›,-‹n²‹0›1—‹2›‚›²..·‹on-1-»„)²=f0²··²Jf„‹0›r-0›.)²·
+
+Scrivendo la differenziale d f (Ω) =0 corne segue
+
+rlssldxlllssldr=n
+
+potremo esprimere il risultante (3) ο (3)( dell'eliminazione di Ω fra
+s=o e dj=0 anche sotto la lorma
+
+F (dx2dll=f0· [nlnldx-lllvldll lnlw2ldxlllw2ldvl···
+ω[χ(ω.)ᾱπ((((·>.)ᾰν]τῡ·
+
+Messi cosl in evidenza i lattori lineari (rispetto a dx, dy) di F, si
+vede che il discriminante G si pud esprimere mediante il prodotlo
+di tutte le differenze
+
+(Η) χ(ωμ)((ων)-κ(ων)((ωμ)
+
+chesi possano formare pigliando ω), ω, ira le n„ n„..., n.. Avremo
+dunque
+
+(η) 0=f0²·‘··¹’)1n‹wilini-nnvnv-
+
+Essendo la differenza (11) evidentemente divisibile per ‹vn-n.. qne·
+
+sta espressione di G ia vedere, senz’ altro, che G e divisibile per g,
+
+e che il quoziente e il quadrato di una espressione razionale ed intera
+mim-1) .
+
+nei simboli (4) e (5), del grado —2—· rispetto ai simboli di
+
+ciascuna delle righe (4), e del grado (m -1)¹ rispetto ai simboli (5).
+
+ 
+

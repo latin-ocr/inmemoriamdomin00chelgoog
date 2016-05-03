@@ -1,0 +1,58 @@
+Sui monrenti obliqui di un sistema di puali, ecc. 3 35
+
+——— .-...-— ——- —-
+
+si ricava che se κ r} un piano per X, il suo momento (ile
+
+= fijan, essendo Jr‘o‘ n segmento or direzione a nmi-
+tatoda uno dei piani tangenti di (X) paralleli ad α; XQ
+coincide col semidiametro 'X‘l'rl di (X 1 conjugato ¹ad rr, ove λ abbia
+la direzione conjugataa questo piano. Dunque gli ellissoidi d‘iner-
+zia di Xsono omotetici a (X); e noi assumeremo per desini·
+zione l‘ellissoide (X) come mrssornsp'rnmzndel punto X.
+
+Cosl ogni punto dello spazio ha ununico ellissoide d’inerzia
+
+geometricamente dqinito; quello del baricentro coincide con l'ellis-
+soide centrale.
+
+17. Se ai vertici A, di u'n tetraedro qualsivoglia si
+attribuiscono dei coefficienti p„ il gruppo di quattro
+puntl:
+
+8504pr Az'llal AJ'l1'3’ [1442st '
+determina un sistema antipolare 5¹⁴ nel quale ἐ conju-
+gato—qualipursianodelrestoicoessicientipr—ilte-
+traedro dato, Inlatti se α, (r= 1, 2, 3, 4) ὲ la distanza (1,) del
+vertice Α, dalla faccia opposta rr, del tetraedr0, i momenti statici dei
+quattro punti rispetto al piano α, sono: o5 o,· o,· Mr=t¹r1m ep·
+pero Α, ὲ 11 centro di 2.⁰ grado di α, (η.ο 4).
+
+Se invece di essere afiatto arbitrario, questo tetraedro ὲ conju-
+gato nel sistema antipolare 5 subordinato ad n punti dati:
+
+8 Ξ (0¹ . m„ o² .m² ‚'. . . 0„ . tm),
+
+idue sistemi δ’ e5s0no identici‚ porche iloro centri, cioe i
+baricentri di δ’ e di S, coincidano; iniatti un sistema polare
+i: individuato dal centro eda un tetraedro conjugato.
+
+E se oltre a cio fra i coefficienti μ, e m,- ha luogo la relazione:
+
+ffi†ffi†ffi†ffl=2m=m
+
+i due sistemi δ’ ed S hanno ugual momento d’inerzia
+rispetto a qualsivoglia piano ((1.ο 15) ossia, adottando la
+denominazione di REYE*, sono equivalenti ragnoardo ai momenti di
+2.⁰ grado.
+
+18. Dato 8 e assunto ad arbitrio un tetraedro ll¹ A, Α, 144
+conjugato nel suo sistema antipolare 5, ὲ sempre possibile di de·
+terminare μῐ μ2 3²³ gr4 in modo da sodissare alle dette due condizioni.
+Inlatti il momento statico di δ’ rispetto ad a„ essendo zap„ se
+con df si' indica la distanza (1,) di que'sto piano dal baricentro Odi
+
+‘ L. c. Crelle’s Journal, t 72, pag. 300.
+
+ 
+

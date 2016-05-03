@@ -1,0 +1,52 @@
+Sapra una certa superficie di quart'ordine. 419
+
+10. Ora, dalla nota rappresentazione piana di una superficie
+generale di 39 ordine si puo subito dedurre quella della superficie
+di 4.⁰ ordine dotata dell’ unico punto singolare 0. Sia F ‘' il piano
+rappresentativo di F ³ e siano 1, 2, 3, 4, ὅ, 6 i sei punti fondamen-
+
+tali della rappresentazione, onde le imagini delle sezioni piane' di
+F saranno le curve di 3.⁰ ordine passanti pei punti 1 2 3 45 6.
+Supposto che in questa rappresentazione il punto W del piano F ' ‘
+sia l’ imagine del punto Μ’ di F ', e che nella trasformazione qua·
+dratica suesposta (s 6) al punto Μ’ di F ' corrisponda il punto M
+di F, riguarderemo Μ’ come imagine di Μ, ccosl sara rappresen·
+tata F punto per punto sul piano F ''.
+
+Poiche i punti123466 rappresentano sei nette di F‘ e
+poiche alle rette di F' corrispondono coniche di F, quei punti sa·
+ranno ora imagini di altrettante coniche di F. Un’altra conica di
+questa superficie, e precisamente quella che ὲ in un piano con si,
+avra per imagine il punto 0'' imagine di 0'. Invece di 0'' scrivero 0.
+E la conica a sara rappresentata dalla cubica 0²1 2 3 4 ὅ 6,
+poiche questa ὲ l'imagine della sezione satta in F ' dal piano tan·
+gente in θ’.
+
+Le rette che uniscono due a due i sei punti 1234 ὅ 6 e
+le coniche che li uniscono cinque a cinque sono pure imagini di
+rette di F ', eppero¹ rappresenteranno coniche di F.
+
+Le coniclie di F ' che passano per 0 sono rappresentate dalle
+sei nette 01, 02..., dalle quindici coniche01234, 01235...,
+edalle sei cubiche 01²23456, 01223456,...; queste sa·
+ranno adunque le imagini di altre ventisette coniche di F. Le coni·¹
+che di F sono percio tappresentate dai sette punti 012345 6 ;
+dalle ventuna nette che li uniscono due a due; dalle ventuna co·
+niche che li uniscono cinque a cinque; edalle sette cubiche che
+passano per tutti esette ipunti, avendo un nodo in uno di essi.
+
+11. Al punto Ο corrisponde la sezione satta in F ' dal piano
+· di n', la qual sezione contiene il punto O'e quattro punti di ΕΠ
+L‘imagine di questa sezione sara dunque una cubica 123 466
+contenente il punto 0 e quattro punti, che diro ἵ, 8, 9, 10, ima·
+gini de'quattro punti di ss'. E siccome ai punti di β’ corri-
+spondono rette dello spazio Σ, cosi ne consegue che le quattro
+nette di F sono rappresentate‚ nel piano F'', da quattro punti
+7.8.9.10,e che gli undici punti o.1.2.3.4.6.6.7.8.9.10
+sono tutti in una stessa cubica (di genere ι), imagine del punto sin·
+golare 0.
+
+12. Cercliiamo ora le imagini delle sezioni piane di F, alle quali
+
+ 
+

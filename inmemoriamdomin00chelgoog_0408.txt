@@ -1,0 +1,56 @@
+Sulla teoria degli assi di rotazione. 359
+
+Se, per esempio, questo punto fosse il centro di rotazione,
+l’equazione (19) rappresenterebbe, considerandovi le x, γ, ζ come
+costanti e lep, q, r come coordinate di un punto riferito ad assi
+condotti per (x, γ, χ) parallelamente ai primitivi, il cono (di terz’or-
+dine) costituito da tutti gli assi di rotazione che hanno il centro
+nel punto arbitrario (x, γ, z). Per ciascun sistema di valori dei rap·
+porti ptq:r soddisfacenti a tale equazione, cioe per ciascuna gene-
+ratrice di questo cono considerata come asse di rotazione, le for-
+mole (23) darebbero quindi il corrispondente centro di impulso.
+
+Le tre equazioni (22) possono anche servire ali’eliminazione dei
+rapporti p2qtr. 11 risultato di questa eliminazione pud essere posto
+sotto la forma seguente
+
+a²x [γ’ γ c²z x γ χιι
+
+(24) ζ(αἰκκ -Ηΰγγι †c²zz1)=0
+a²x¹²¹²1byczx¹ymz κιγιι(
+
+e costituisce una relazione simmetrica sra le coordinate x, γ, χ d’ un
+punto qualunque d’ un asse di rotazioneele coordinatex1y11¹ del
+centro d’impulso relativo a quest’ asse.
+
+Quando (xl, γι, χι) ὲ un punto dato, la precedente equazione
+rappresenta la superficie rigata luogo degli assi di rotazione che
+hanno in quel punto il centro d’impulso. Questa superficie di terzo
+ordine iu gia incontrata dal proi. TUanzn nelle preiodate sue ri-
+cerche: la forma sotto cui si presenta qui la sua equazione ci per·
+mette di precisarne pin da vicino ia natura.
+
+Osserviamo primieramente che l'equazione (24) si pud consi·
+derare come risultante dall’eliminazione d’un parametro k ira le
+due equazioni
+
+&xxviiii ψει( -'-k
+i> s
+
+240 a²x b²y ε’( x γ (dlx γ (ι’-ἔ
+χιῙΥιι(
+
+ια’κι b²y¹ ι’(ι x¹ γι (ι
+La seconda di queste, ossia l’equazione
+(b²c²÷k)(yz,-(y,)²÷(c²a²÷k)((x‚-x(,)²÷(a²b²÷k)(xy‚-yx,i²=0
+
+pud scriversi in questo modo.
+
+x αι( ²
+
+-.———. — -——·
+
+nm
+
+ 
+

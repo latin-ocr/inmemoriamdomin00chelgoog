@@ -1,0 +1,43 @@
+Unssnn 1)OE nnnrrncnnw sncanEN
+nwnn Annnssnnrscnnw RAUMCURVE
+
+0. F. Gnlsnn
+
+· Professor nm eidgcn. Polytecbm‘kum.
+
+1.
+
+Die Schnittcurve c„ einer Fliiche n'‘'¹ Grades F„ mit einer
+Fliche zweiten Grades Ε, wird von jeder Erzeugenden dieser letztern
+in n Punkten getrofsen. Sucht man also, unter der selbstverstiindlichen
+Voraussetzung, dass n grdsser als zwei sei, den Ort aller derjenigen
+Geraden, welche der Schnittcurve in drei Punkten begegnen, so erhfrlt
+man F, selbst. Aber diese ist mehrfach zu ziihlen: da niimlich n
+
+srr(rt-1)(rz-2) ’
+1.2.3
+kdnnen‚ so ist jede Erzeugende eben so ost als dreisache Secante
+zu reehnen; zudem wird durch die eine Schaar ihrer Erzeugenden
+die Fliiche 'zweiten Grades bereits vollstiindig bedeckt, so dass in
+Berdcksichtigung der zweiten Schaar die gesundene Zahl verdoppelt
+werden rnuss, urn anzugeben, wie ost F2 durch die Secanten be·
+schrieben wird. Wir haben also den Satz:
+
+Die dreffaclun Secanten der Sclmitlcurve einer Fldclre zwei-
+ten mit einer Fldclre n“’' Grades bildcn eine Regelfldclre vom Grade
+4· n(n-1- ¹} (713.- 2) , welche identisclc ist mit der 2 ,η (HT 1⁹) (ζ “ ²)
+faclr geleglcn Flc‘zclte zweiten Grades.
+
+Lassen wir F2 in ein Ebenenpaar E. E² zersallen, so zerh‘illt
+auch die Secantenfliiche, und zwar in die Secantenfliichen die den
+Schnitten von E¹ et ,E² mit F„ entsprechen und in die Regelfldchen
+
+aus denjenigen Geraden gebildet‚ welche dem einen ebenen Schnitte⁸
+’ einrnal, dem andern zweinral begegnen. Was zun'echst die letztern
+
+Punkteau Arten zu dreien combinirt werden
+
+anbetrifst‚ so bemerken wir, dass wenn eine dreifnclze Secante einer
+
+ 
+

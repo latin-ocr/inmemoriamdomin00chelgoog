@@ -1,0 +1,43 @@
+112 E..Padova.
+
+. e quindi sottraendo queste due equazioni una dall’ altra avremo
+
+e queste sono precisamente le (15).
+Finalmente le (13) derivate rapporto alle α danno
+‘ δ’( whom, δη]
+ΠἾΠΤΜΤ]
+
+δ,
+
+e queste sono precisamente le (16). Resta cos} dimostrato che
+
+fflz-—Q 1 di quelle equazioni sono una conseguenza delle rima·
+
+nenti. Il modo col quale si sono potute ottenere le (15), (16) mostra
+che esse danno la condizione affinchb l’espressione
+
+ὸτδὲᾱκΙ-Ι--δὲιίκι-Ι-δ-ζάαςψ··-ψδδ-Ξ-ιίαη,
+
+δα2
+
+sia un differenziale esatto.
+6. Le equazioni integrali delle (12) danno‚ come si ὁ visto,
+
+le κῃ... κη( in funzione di x¹ e di costanti arbitrarie, che abbiamo
+rimpiazzato cogli argomenti α econ funzioni arbitrarie di questi,
+quindi queste equazioni possono servire a determinare le espressioni
+degli argomenti ας nel §4 invece abbiamo definito le α come solu-
+zioni delle equazioni a derivate parziali (5), nasce quindi spontanea
+la domanda: le funzioni α definite per mezzo delle prime equazioni
+soddisfano esse alle equazioni (5)? Ora le (9) riducono le (5) alla
+
+δα,
+
+Ma per integrare questo sistema si debbono cercare* 2(n — 1) inte·
+grali delle equazioni:
+
+* Vedasi: heom, Journal von CRELLE, T. 2, pag. 321, oppure MANs10N, cp.
+cit„ pag. 61.
+
+ 
+

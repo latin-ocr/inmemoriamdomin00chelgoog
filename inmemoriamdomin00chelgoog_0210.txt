@@ -1,0 +1,56 @@
+Sapra i sistemi lineari triplamente infiniti, ecc. 161
+
+relativa alla superficie Σ. Reciprocamente le curve Φ sono ie ima·
+gini delle curve di contatto dei coni circoscritti alia superficie Θ.
+Ε anche chiaro che la curva H ὲ l’ imagine d’una curva cu·
+spidale di Θ.
+Inoltre ad un piano bitangente ἀὶΣ corrisponde un punto
+doppio di Θ. Percib (14) la superficie Θ possiede una curva doppia
+dell' ordine
+
+{11N141÷0)²-86i-sN4³2÷41
+
+Ι punti C, essendo comuni a tutte le curve ψ, rappresentano
+rette della superficie Θ. Pin precisamente queste rette sono elementi
+di sviluppabile*.
+
+29. Cerchiamo l’imagine della curva doppia di Θ. Rammen·
+tando che le sezioni piane di Θ hanno per 'imagini le curve Ψ, si
+ha (analogamente aquei che fu detto (17) per la superficie Σ) che
+l’intersezione della superficie Θ con una superficie dell' ordine L ha
+per imagine una curva dell’ordine 3L(n- 1) la quale passa con
+L(3r-1) rami per ogni punto lt, e eon L rami per ogni punto C.
+Percin l’intersezione completa di Θ colla prima polare (rispetto a Θ)
+di un punto qualungue dello spazio, deve avere per imagine un lquo
+dell' ordine
+
+3(n†'1)(N÷41÷0-2>
+
+il quale passi
+
+(nr-1)(N÷4n†⁶-2)
+
+volte per un punto les e N -i- 4 p -i- n-2 volte per un punto C.
+Ma la prima polare di un punto O rispetto a Θ, sega Θ se·
+condo la curva doppia, la tocca lungo la curva cuspidale e la in·
+contra inoltre secondo la curva di contatto dei cono circoscritto di
+vertice O. Percib l’imagine suddetta si compone della imagine della
+curva doppia di Θ, della curva H contata tre volte e di una curva ψ.
+Staccando da quella imagine queste ultime parti, si trova che:
+L’imagine della curva doppia di Θ, ovverosia l’imagine della
+
+curva di contatto dei pinni bitangenti della superficie Σ, 2 una curva
+K dell ’ordine
+
+sin-1) 11÷41÷0)-31n÷42
+la quale passa
+
+(3r-1)(N†41†0)-31r÷14
+
+—....
+
+⁸ In ogni punto d’una di queste la superficie Θ ha il medesimo piano tan·
+gente (pinnen-piane). veggasi la nota al n.⁰ 16.
+
+ 
+
